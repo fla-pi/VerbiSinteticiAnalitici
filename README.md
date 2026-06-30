@@ -17,6 +17,7 @@ Al link [https://fla-pi.shinyapps.io/verbi-analitici-e-sintetici/](https://fla-p
 
 7. [entropy.R](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/src/entropy.R): calcolo dell'entropia condizionata.
 
+
 ## Selezione delle basi nominali
 
 8. [matching_wn.py](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/src/matching_wn.py): script per l'estrazione dei synset e dei lexnames (o SemFields) da Open Multilingual WordNet per ogni nome.
