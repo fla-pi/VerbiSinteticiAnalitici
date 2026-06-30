@@ -1,0 +1,1013 @@
+﻿nome;frequenza_nome;concretezza;animatezza;verbi_sintetici;verbi_analitici;vsin_num;vsupp_num;vsin_bin;vsupp_bin
+abito;3958;concreto;non_animato;;;0;0;no;no
+abitudine;3043;astratto;non_animato;;essere di abitudine;0;1;no;yes
+accordo;25727;astratto;non_animato;;andare di accordo, essere di accordo, essere in accordo, fare un(/il) accordo, mettere di accordo, mettere in accordo;0;6;no;yes
+acqua;54517;concreto;non_animato;sciacquare;fare acqua, mettere in acqua;1;2;yes;yes
+addio;3584;astratto;non_animato;;dare un addio;0;1;no;yes
+aeroplano;885;concreto;non_animato;;;0;0;no;no
+affare;2274;astratto;non_animato;;essere in affare, fare il affare, mettere in affare;0;3;no;yes
+affetto;4500;astratto;non_animato;;;0;0;no;no
+agente;9827;concreto;umano;;fare da agente;0;1;no;yes
+agosto;53505;astratto;non_animato;;;0;0;no;no
+agricoltura;10996;astratto;non_animato;;fare agricoltura;0;1;no;yes
+aiuto;24297;astratto;non_animato;;andare in aiuto, dare (un) aiuto, essere di aiuto, essere di aiuto, venire in aiuto;0;5;no;yes
+ala;10713;concreto;non_animato;aleggiare;;1;0;yes;no
+alba;7022;concreto;non_animato;albeggiare;;1;0;yes;no
+albergo;4401;concreto;non_animato;albergare;;1;0;yes;no
+albero;10484;concreto;non_animato;alberare, inalberare;;2;0;yes;no
+alleato;4516;concreto;umano;;;0;0;no;no
+allevamento;4680;astratto;non_animato;;;0;0;no;no
+alpino;3723;astratto;non_animato;;;0;0;no;no
+altezza;18330;astratto;non_animato;;;0;0;no;no
+amante;6393;concreto;umano;;;0;0;no;no
+ambiente;27698;concreto;non_animato;ambientare;;1;0;yes;no
+americano;18697;concreto;non_animato;;fare il americano;0;1;no;yes
+amica;8701;concreto;non_animato;;;0;0;no;no
+amicizia;10311;astratto;non_animato;;essere in amicizia, fare amicizia;0;2;no;yes
+amico;29738;astratto;non_animato;;fare da amico, fare il amico;0;2;no;yes
+amministrazione;24856;astratto;non_animato;;essere sotto amministrazione;0;1;no;yes
+amore;44328;astratto;non_animato;amoreggiare, innamorare;dare amore, essere in amore;2;2;yes;yes
+anello;9144;concreto;non_animato;inanellare;fare da anello;1;1;yes;yes
+angelo;14709;concreto;umano;;fare da angelo;0;1;no;yes
+angolo;12626;concreto;non_animato;angolare;;1;0;yes;no
+anima;12186;astratto;non_animato;animare;dare anima;1;1;yes;yes
+animale;12353;concreto;animato;;;0;0;no;no
+animo;4207;astratto;non_animato;;avere in animo;0;1;no;yes
+anno;175153;astratto;non_animato;;;0;0;no;no
+ansia;2192;astratto;non_animato;;essere in ansia, mettere in ansia;0;2;no;yes
+apparecchio;2343;concreto;non_animato;;;0;0;no;no
+appartamento;4928;concreto;non_animato;;;0;0;no;no
+appetito;524;astratto;non_animato;;;0;0;no;no
+appuntamento;6982;astratto;non_animato;;dare (un) appuntamento, prendere (un) appuntamento;0;2;no;yes
+aprile;49324;astratto;non_animato;;;0;0;no;no
+arabo;6072;astratto;non_animato;;;0;0;no;no
+arancia;744;concreto;non_animato;;;0;0;no;no
+architetto;10704;concreto;umano;architettare;;1;0;yes;no
+arco;16559;concreto;non_animato;inarcare;;1;0;yes;no
+argomento;10181;astratto;non_animato;argomentare;avere il argomento;1;1;yes;yes
+aria;25070;concreto;non_animato;arieggiare;dare aria, prendere aria;1;2;yes;yes
+arma;15505;concreto;non_animato;armare, armeggiare;mettere in arma;2;1;yes;yes
+arte;48120;astratto;non_animato;;fare arte;0;1;no;yes
+articolo;22396;astratto;non_animato;articolare;;1;0;yes;no
+artista;18063;concreto;umano;;essere artista, fare il artista;0;2;no;yes
+aspetto;27776;astratto;non_animato;;dare un aspetto;0;1;no;yes
+assassino;3959;concreto;umano;assassinare;;1;0;yes;no
+atmosfera;9162;astratto;non_animato;;;0;0;no;no
+atteggiamento;7389;astratto;non_animato;;avere un atteggiamento, essere in atteggiamento;0;2;no;yes
+attenzione;24858;astratto;non_animato;attenzionare;avere attenzione, dare attenzione, fare attenzione;1;3;yes;yes
+attesa;12890;astratto;non_animato;;essere in attesa, mettere in attesa;0;2;no;yes
+attimo;3128;astratto;non_animato;;;0;0;no;no
+attività;79178;astratto;non_animato;;essere in attività, fare attività, mettere in attività;0;3;no;yes
+atto;27135;astratto;non_animato;atteggiare;avere in atto, dare atto, mettere in atto, prendere atto;1;4;yes;yes
+attore;19131;concreto;umano;;essere attore, fare il attore;0;2;no;yes
+automobile;4444;concreto;non_animato;;;0;0;no;no
+autorità;21752;astratto;non_animato;;avere autorità, fare la autorità;0;2;no;yes
+avvenimento;2310;astratto;non_animato;;;0;0;no;no
+avvenire;4198;astratto;non_animato;;;0;0;no;no
+avventura;8719;astratto;non_animato;avventurare;;1;0;yes;no
+avversario;9947;astratto;non_animato;;fare il avversario;0;1;no;yes
+avvocato;8888;concreto;umano;;;0;0;no;no
+azione;35625;astratto;non_animato;azionare;andare in azione, mandare in azione, mettere in azione;1;3;yes;yes
+babbo;1380;concreto;umano;;;0;0;no;no
+bacio;2944;astratto;non_animato;baciare;dare un(/il) bacio;1;1;yes;yes
+bagno;5554;astratto;non_animato;bagnare;andare in bagno, fare il/un bagno, mettere a bagno;1;3;yes;yes
+balcone;1335;concreto;non_animato;;;0;0;no;no
+ballo;6439;astratto;non_animato;;avere in ballo, essere in ballo, fare un ballo, mettere in ballo;0;4;no;yes
+bambina;6373;astratto;non_animato;;fare la bambina;0;1;no;yes
+bambino;21480;concreto;umano;;fare il bambino;0;1;no;yes
+banca;13030;concreto;non_animato;;;0;0;no;no
+banco;4456;concreto;non_animato;sbancare;;1;0;yes;no
+bandiera;10011;concreto;non_animato;imbandierare, sbandierare;;2;0;yes;no
+bar;8869;concreto;non_animato;;;0;0;no;no
+barba;2304;concreto;non_animato;barbare, sbarbare;fare la barba;2;1;yes;yes
+base;79280;concreto;non_animato;basare;avere una base;1;1;yes;yes
+battaglia;50559;concreto;non_animato;battagliare;andare in battaglia, dare (la) battaglia, fare la battaglia, mandare in battaglia;1;4;yes;yes
+beato;2168;concreto;non_animato;;;0;0;no;no
+bellezza;9478;astratto;non_animato;;;0;0;no;no
+bello;9372;astratto;non_animato;;;0;0;no;no
+bene;56442;astratto;non_animato;;fare il bene;0;1;no;yes
+bestia;2656;concreto;non_animato;;andare in bestia, mandare in bestia;0;2;no;yes
+biancheria;602;concreto;non_animato;;;0;0;no;no
+bianco;23426;concreto;non_animato;;;0;0;no;no
+bicchiere;1710;concreto;non_animato;;;0;0;no;no
+bicicletta;2449;concreto;non_animato;;andare in bicicletta;0;1;no;yes
+biglietto;3779;concreto;non_animato;;;0;0;no;no
+bisogno;20393;astratto;non_animato;bisognare, abbisognare;avere (il) bisogno;2;1;yes;yes
+bocca;10341;concreto;non_animato;boccare, abboccare, imboccare, sboccare, boccheggiare;mettere bocca;5;1;yes;yes
+bomba;5398;concreto;non_animato;;mettere una bomba;0;1;no;yes
+bombardamento;3967;astratto;non_animato;;;0;0;no;no
+bontà;2206;astratto;non_animato;;;0;0;no;no
+bordo;15464;concreto;non_animato;bordare, abbordare, bordeggiare;avere a bordo, essere a bordo, prendere a bordo;3;3;yes;yes
+borghese;4756;concreto;non_animato;;;0;0;no;no
+borsa;5667;concreto;non_animato;sborsare, borseggiare;;2;0;yes;no
+bosco;6964;concreto;non_animato;imboscare;;1;0;yes;no
+bottiglia;2420;concreto;non_animato;imbottigliare;mettere in bottiglia;1;1;yes;yes
+braccio;9919;concreto;non_animato;abbracciare, imbracciare, sbracciarsi, sbracciare;;4;0;yes;no
+brigadiere;483;concreto;umano;;;0;0;no;no
+brutto;3521;concreto;non_animato;;;0;0;no;no
+bue;902;concreto;animato;;;0;0;no;no
+bugia;505;astratto;non_animato;;;0;0;no;no
+buio;4669;astratto;non_animato;;;0;0;no;no
+buongiorno;627;astratto;non_animato;;dare il buongiorno;0;1;no;yes
+buono;6677;astratto;non_animato;;fare il buono;0;1;no;yes
+caccia;22722;astratto;non_animato;;andare a caccia, dare la(/una) caccia, essere a caccia, essere in caccia, fare un caccia;0;5;no;yes
+cadavere;3524;concreto;non_animato;;;0;0;no;no
+caffè;4799;concreto;non_animato;;;0;0;no;no
+calcio;40082;astratto;non_animato;calciare, scalciare, calcificare;dare un(/il) calcio, fare calcio, prendere a calcio;3;3;yes;yes
+caldo;6366;astratto;non_animato;;fare un caldo;0;1;no;yes
+calma;2289;astratto;non_animato;calmare;;1;0;yes;no
+calza;344;concreto;non_animato;calzare, incalzare, scalzare;;3;0;yes;no
+cambio;22215;astratto;non_animato;;avere in cambio, dare il(/un) cambio, dare in cambio, fare un cambio;0;4;no;yes
+camera;22676;concreto;non_animato;incamerare;;1;0;yes;no
+cameriere;919;concreto;umano;;;0;0;no;no
+camicia;1378;concreto;non_animato;incamiciare, scamiciare;;2;0;yes;no
+cammino;5680;astratto;non_animato;camminare, incamminare;mettere in cammino;2;1;yes;yes
+campagna;25873;concreto;non_animato;;fare campagna;0;1;no;yes
+campione;17715;concreto;umano;campionare;;1;0;yes;no
+campo;65480;concreto;non_animato;campare, campare, campire, campire, accampare, scampare, campeggiare, campeggiare;avere campo, dare il campo, mettere in campo;8;3;yes;yes
+canale;31934;concreto;non_animato;incanalare, scanalare, scanalare, canalizzare;;4;0;yes;no
+cane;8825;concreto;animato;accanire;;1;0;yes;no
+canto;14190;astratto;non_animato;;;0;0;no;no
+canzone;37599;concreto;non_animato;canzonare;;1;0;yes;no
+capello;1293;concreto;non_animato;;;0;0;no;no
+capitale;30262;astratto;non_animato;capitalizzare;;1;0;yes;no
+capitano;15127;concreto;umano;capitanare;fare il capitano;1;1;yes;yes
+capo;47026;concreto;non_animato;capeggiare;avere a capo, essere a capo, mettere a capo, venire a capo;1;4;yes;yes
+cappello;3435;concreto;non_animato;scappellare;;1;0;yes;no
+carabiniere;927;concreto;umano;;fare il carabiniere;0;1;no;yes
+carattere;22467;astratto;non_animato;caratterizzare;avere carattere, dare carattere;1;2;yes;yes
+carbone;4035;concreto;non_animato;carbonare, carbonizzare;;2;0;yes;no
+carcere;11132;concreto;non_animato;carcerare, incarcerare, scarcerare;andare in carcere, essere in carcere, mandare in carcere, mettere in carcere;3;4;yes;yes
+carica;22804;astratto;non_animato;;avere la carica, dare la carica, mettere in carica;0;3;no;yes
+carità;3462;astratto;non_animato;;avere la carità, fare la carità;0;2;no;yes
+carne;9329;concreto;non_animato;incarnare, incarnire, scarnire;;3;0;yes;no
+carogna;84;astratto;non_animato;incarognire;;1;0;yes;no
+carriera;57675;astratto;non_animato;;fare (una) carriera;0;1;no;yes
+carrozza;1164;concreto;non_animato;carrozzare, scarrozzare;;2;0;yes;no
+carta;20023;concreto;non_animato;incartare, scartare, scartare;mettere su carta;3;1;yes;yes
+cartolina;776;concreto;non_animato;;;0;0;no;no
+casa;114201;concreto;non_animato;accasare;andare a casa, fare da casa;1;2;yes;yes
+caso;110717;astratto;non_animato;;fare caso;0;1;no;yes
+catena;10872;concreto;non_animato;incatenare, scatenare;essere in catena, mettere la catena;2;2;yes;yes
+cattivo;4516;concreto;non_animato;;fare il cattivo;0;1;no;yes
+cattolico;4865;concreto;non_animato;;;0;0;no;no
+causa;83760;astratto;non_animato;causare;essere causa, fare causa, fare una causa;1;3;yes;yes
+cavaliere;9023;concreto;umano;;fare il cavaliere;0;1;no;yes
+cavallo;13742;concreto;animato;accavallare, scavallare, scavallare, scavallare;andare a cavallo, essere a cavallo;4;2;yes;yes
+cellula;4343;concreto;non_animato;;;0;0;no;no
+cena;6591;concreto;non_animato;cenare;andare a cena, essere a cena, fare una cena;1;3;yes;yes
+centinaio;3109;astratto;non_animato;;;0;0;no;no
+centro;84025;concreto;non_animato;centrare, accentrare, incentrare;fare centro;3;1;yes;yes
+cerimonia;6798;concreto;non_animato;;fare una cerimonia;0;1;no;yes
+certo;49549;concreto;non_animato;;;0;0;no;no
+cervello;6842;concreto;non_animato;scervellare;;1;0;yes;no
+chiaro;18554;concreto;non_animato;;;0;0;no;no
+chiave;13646;concreto;non_animato;chiavare;;1;0;yes;no
+chiesa;113604;concreto;non_animato;;;0;0;no;no
+chilogrammo;254;astratto;non_animato;;;0;0;no;no
+chilometro;1934;astratto;non_animato;;;0;0;no;no
+ciao;5731;astratto;non_animato;;;0;0;no;no
+cibo;9674;concreto;non_animato;cibare;;1;0;yes;no
+cieco;2109;concreto;non_animato;;;0;0;no;no
+cielo;20242;concreto;non_animato;;;0;0;no;no
+cifra;5907;concreto;non_animato;cifrare;;1;0;yes;no
+cima;7992;concreto;non_animato;cimare;mettere in cima;1;1;yes;yes
+cimitero;7123;concreto;non_animato;;;0;0;no;no
+cinema;34674;astratto;non_animato;;andare a cinema, fare cinema;0;2;no;yes
+circostanza;2796;astratto;non_animato;;;0;0;no;no
+città;196445;concreto;non_animato;;;0;0;no;no
+cittadino;11489;concreto;umano;;;0;0;no;no
+civile;26461;concreto;non_animato;;;0;0;no;no
+civiltà;9338;astratto;non_animato;;;0;0;no;no
+classe;38297;astratto;non_animato;classificare;;1;0;yes;no
+cliente;4460;concreto;umano;;;0;0;no;no
+clima;15024;astratto;non_animato;acclimare, acclimatare, climatizzare;;3;0;yes;no
+coda;12619;concreto;non_animato;accodare, scodare, scodare;mettere in coda;3;1;yes;yes
+cognome;4929;astratto;non_animato;;avere il cognome, dare il cognome, prendere il cognome;0;3;no;yes
+colazione;2055;astratto;non_animato;;fare colazione;0;1;no;yes
+collega;11567;concreto;umano;;;0;0;no;no
+collina;6801;concreto;non_animato;scollinare;;1;0;yes;no
+collo;5889;concreto;non_animato;accollare, scollare;;2;0;yes;no
+colore;26859;concreto;non_animato;colorare, colorire, scolorare, scolorire;avere colore, dare (un) colore, prendere colore;4;3;yes;yes
+colpa;9472;astratto;non_animato;incolpare;avere la colpa, dare (la/una) colpa, fare una colpa;1;3;yes;yes
+colpo;17552;concreto;non_animato;colpire, scolpire;andare a colpo, dare un colpo, fare colpo, fare un colpo;2;4;yes;yes
+coltello;1942;concreto;non_animato;accoltellare;;1;0;yes;no
+comando;24836;astratto;non_animato;;avere il comando, dare il/un comando, essere a comando;0;3;no;yes
+commercio;14062;astratto;non_animato;commerciare;avere in commercio, mettere in commercio;1;2;yes;yes
+comodità;1218;astratto;non_animato;;;0;0;no;no
+compagnia;26191;astratto;non_animato;;avere compagnia, fare compagnia, fare la compagnia;0;3;no;yes
+compagno;11102;concreto;umano;accompagnare, scompagnare;;2;0;yes;no
+compenso;3068;astratto;non_animato;;avere in compenso;0;1;no;yes
+compito;15715;astratto;non_animato;;avere il compito, dare il compito, essere compito;0;3;no;yes
+complesso;24602;astratto;non_animato;complessare;;1;0;yes;no
+completo;10371;astratto;non_animato;;;0;0;no;no
+complimento;303;astratto;non_animato;complimentare;fare il complimento, fare un complimento;1;2;yes;yes
+comune;86591;astratto;non_animato;;avere in comune, essere in comune;0;2;no;yes
+comunicazione;16844;astratto;non_animato;;dare comunicazione, fare comunicazione, fare la comunicazione, mettere in comunicazione;0;4;no;yes
+comunista;13396;concreto;umano;;fare il comunista;0;1;no;yes
+condizione;15287;astratto;non_animato;condizionare;dare una condizione, mettere in condizione;1;2;yes;yes
+confessione;2252;astratto;non_animato;confessare, sconfessare;fare una confessione;2;1;yes;yes
+confine;15775;concreto;non_animato;confinare, sconfinare;fare da confine;2;1;yes;yes
+confronto;11270;astratto;non_animato;;fare un confronto, mettere a confronto, mettere in confronto;0;3;no;yes
+confusione;4318;astratto;non_animato;;andare in confusione, fare confusione, mandare in confusione, mettere in confusione;0;4;no;yes
+conoscenza;22553;astratto;non_animato;;avere (la) conoscenza, essere a conoscenza, fare (la) conoscenza, mettere a conoscenza, prendere conoscenza, venire a conoscenza;0;6;no;yes
+conseguenza;18441;astratto;non_animato;;avere la conseguenza, essere conseguenza;0;2;no;yes
+consenso;6482;astratto;non_animato;;avere consenso, dare (il) consenso;0;2;no;yes
+consiglio;36218;astratto;non_animato;consigliare, sconsigliare;dare un(/il) consiglio;2;1;yes;yes
+contadino;2279;concreto;umano;;fare il contadino, fare la contadino;0;2;no;yes
+contatto;17608;astratto;non_animato;contattare;andare a contatto, avere contatto, essere in contatto, mettere a contatto, mettere in contatto, prendere contatto, venire a contatto, venire in contatto;1;8;yes;yes
+conte;19875;concreto;umano;;;0;0;no;no
+continente;6974;concreto;non_animato;;;0;0;no;no
+conto;30502;astratto;non_animato;;dare conto, fare conto, fare un conto, mettere in conto, prendere in conto;0;5;no;yes
+contrario;17588;astratto;non_animato;;;0;0;no;no
+contratto;21909;concreto;non_animato;contrattare;essere sotto contratto, fare un contratto, mettere sotto contratto;1;3;yes;yes
+convento;10250;concreto;non_animato;;;0;0;no;no
+coraggio;7538;astratto;non_animato;incoraggiare, scoraggiare;avere (il) coraggio, dare (il) coraggio, prendere (il) coraggio;2;3;yes;yes
+corda;3798;concreto;non_animato;;mettere la corda;0;1;no;yes
+corno;2362;concreto;non_animato;incornare, scornare, scornare, cornificare;fare la corno, mettere la corno;4;2;yes;yes
+corpo;56593;concreto;non_animato;accorpare;andare di corpo, avere in corpo, dare corpo, prendere corpo;1;4;yes;yes
+corrente;16872;astratto;non_animato;;essere a corrente;0;1;no;yes
+corsa;15479;astratto;non_animato;;essere in corsa, fare la corsa, fare una corsa;0;3;no;yes
+corso;71873;astratto;non_animato;;dare corso, essere in corso, fare un corso;0;3;no;yes
+corte;29442;concreto;non_animato;corteggiare;fare la(/una) corte;1;1;yes;yes
+cortile;4823;concreto;non_animato;;;0;0;no;no
+cosa;86852;concreto;non_animato;;;0;0;no;no
+coscienza;9669;astratto;non_animato;;avere coscienza, avere la coscienza, prendere coscienza;0;3;no;yes
+costa;23829;concreto;non_animato;accostare, scostare, costeggiare;;3;0;yes;no
+costo;15562;astratto;non_animato;;avere il costo, essere a costo;0;2;no;yes
+costruzione;43585;astratto;non_animato;;essere in costruzione;0;1;no;yes
+creatura;4406;concreto;non_animato;;;0;0;no;no
+cretino;395;concreto;non_animato;;fare il cretino, fare la cretino;0;2;no;yes
+crisi;25618;astratto;non_animato;;andare in crisi, essere in crisi, mandare in crisi, mettere in crisi;0;4;no;yes
+cristiano;7869;astratto;non_animato;;;0;0;no;no
+Cristo;15693;concreto;umano;;;0;0;no;no
+croce;18287;concreto;non_animato;incrociare;mettere in croce, mettere una croce;1;2;yes;yes
+cucina;9469;concreto;non_animato;cucinare;;1;0;yes;no
+cuore;26129;concreto;non_animato;accorare, scorare;avere a cuore, dare il cuore, mettere il cuore, prendere a cuore;2;4;yes;yes
+cura;19597;astratto;non_animato;curare;andare in cura, avere cura, avere in cura, essere in cura, essere sotto cura, mettere in cura, prendere cura, prendere in cura;1;8;yes;yes
+curiosità;16717;astratto;non_animato;;avere la curiosità;0;1;no;yes
+curva;8538;concreto;non_animato;;fare una(/la) curva;0;1;no;yes
+custode;1989;concreto;umano;custodire;fare il custode;1;1;yes;yes
+danno;15944;astratto;non_animato;dannare, danneggiare;andare a danno, fare (un/il) danno;2;2;yes;yes
+debito;4533;astratto;non_animato;addebitare, indebitare, sdebitare;avere il debito, essere in debito;3;2;yes;yes
+decina;3877;astratto;non_animato;;;0;0;no;no
+decisione;16442;astratto;non_animato;;fare una decisione, prendere una(/la) decisione;0;2;no;yes
+delinquente;466;concreto;umano;;;0;0;no;no
+delitto;4089;astratto;non_animato;;;0;0;no;no
+denaro;11537;concreto;non_animato;;fare denaro;0;1;no;yes
+dente;1299;concreto;non_animato;addentare, indentare, sdentare;;3;0;yes;no
+desiderio;10245;astratto;non_animato;;avere il(/un) desiderio;0;1;no;yes
+destino;8816;astratto;non_animato;;avere il destino;0;1;no;yes
+destra;30367;astratto;non_animato;;;0;0;no;no
+diavolo;4640;concreto;animato;;fare il diavolo;0;1;no;yes
+difesa;29121;astratto;non_animato;;mettere a difesa;0;1;no;yes
+difetto;2670;astratto;non_animato;;avere il difetto, essere in difetto;0;2;no;yes
+differenza;28267;astratto;non_animato;differenziare;fare differenza, fare la differenza;1;2;yes;yes
+difficoltà;22950;astratto;non_animato;;andare in difficoltà, avere (la) difficoltà, essere in difficoltà, mettere in difficoltà;0;4;no;yes
+dimensione;11579;astratto;non_animato;dimensionare;avere (la) dimensione;1;1;yes;yes
+dio;41341;concreto;animato;deificare;;1;0;yes;no
+direttore;26699;concreto;umano;;essere direttore, fare il direttore;0;2;no;yes
+direzione;28029;astratto;non_animato;direzionare;avere la/una direzione, dare una direzione, prendere una/la direzione;1;3;yes;yes
+diritto;44880;astratto;non_animato;;avere (il) diritto, dare (il) diritto;0;2;no;yes
+disco;32264;concreto;non_animato;;fare un disco;0;1;no;yes
+discorso;12499;astratto;non_animato;;fare un/il discorso;0;1;no;yes
+disegno;11951;concreto;non_animato;;fare un disegno;0;1;no;yes
+disgrazia;1381;astratto;non_animato;;avere la disgrazia, essere in disgrazia;0;2;no;yes
+disgraziato;149;astratto;non_animato;;;0;0;no;no
+disordine;1311;astratto;non_animato;;essere in disordine, mettere in disordine;0;2;no;yes
+disperazione;2278;astratto;non_animato;;;0;0;no;no
+disposizione;19596;astratto;non_animato;;avere a disposizione, avere la disposizione, dare a disposizione, mettere a disposizione;0;4;no;yes
+distanza;23799;astratto;non_animato;distanziare;avere la/una distanza, prendere distanza;1;2;yes;yes
+disturbo;2942;astratto;non_animato;;essere di disturbo;0;1;no;yes
+dito;2862;concreto;non_animato;additare;;1;0;yes;no
+divisione;21908;astratto;non_animato;;fare la divisione;0;1;no;yes
+documento;11786;concreto;non_animato;documentare;;1;0;yes;no
+dolore;9462;astratto;non_animato;dolorare, addolorare;avere il dolore, dare un dolore;2;2;yes;yes
+domanda;14003;astratto;non_animato;;fare domanda, fare (una/la) domanda;0;2;no;yes
+domani;7329;astratto;non_animato;;;0;0;no;no
+domenica;23347;astratto;non_animato;;;0;0;no;no
+don;19960;concreto;umano;;;0;0;no;no
+donna;44843;concreto;umano;;andare a donna, essere donna;0;2;no;yes
+doppio;17188;concreto;non_animato;;;0;0;no;no
+dote;1746;astratto;non_animato;dotare;andare in dote, avere in dote, avere la dote, dare in dote;1;4;yes;yes
+dottore;3604;concreto;umano;addottorare;fare il dottore;1;1;yes;yes
+dovere;5274;astratto;non_animato;;avere il dovere;0;1;no;yes
+dubbio;11207;astratto;non_animato;dubitare;avere un/il dubbio, essere in dubbio, mettere in dubbio;1;3;yes;yes
+eccellenza;5283;astratto;non_animato;;;0;0;no;no
+educazione;8851;astratto;non_animato;;dare una educazione;0;1;no;yes
+effetto;23495;astratto;non_animato;;avere effetto, avere un/il effetto, dare un/il effetto, essere sotto effetto, fare (un) effetto;0;5;no;yes
+elemento;16323;astratto;non_animato;;;0;0;no;no
+emozione;2285;astratto;non_animato;emozionare;;1;0;yes;no
+energia;30621;astratto;non_animato;;avere (una) energia, dare energia;0;2;no;yes
+entusiasmo;3767;astratto;non_animato;entusiasmare;;1;0;yes;no
+episodio;29178;astratto;non_animato;;;0;0;no;no
+epoca;61323;astratto;non_animato;;;0;0;no;no
+erba;4239;concreto;non_animato;;;0;0;no;no
+eroe;7418;concreto;umano;;fare il eroe;0;1;no;yes
+errore;11453;astratto;non_animato;;essere in errore, fare un errore;0;2;no;yes
+esame;8317;astratto;non_animato;esaminare;dare un/il esame, essere sotto esame, fare un esame, mettere sotto esame, prendere in esame;1;5;yes;yes
+esempio;97367;astratto;non_animato;esemplificare;dare un esempio, fare da esempio, fare un esempio, prendere a esempio, prendere da esempio, prendere esempio, prendere in esempio;1;7;yes;yes
+esercito;43882;concreto;non_animato;;;0;0;no;no
+esilio;6584;astratto;non_animato;esiliare;andare in esilio, essere in esilio, mandare in esilio;1;3;yes;yes
+esistenza;19344;astratto;non_animato;;venire ad esistenza;0;1;no;yes
+esperienza;27685;astratto;non_animato;;avere esperienza, avere una esperienza, fare esperienza;0;3;no;yes
+esposizione;8954;astratto;non_animato;;essere in esposizione, mettere in esposizione;0;2;no;yes
+espressione;15421;astratto;non_animato;;dare espressione;0;1;no;yes
+estate;28626;astratto;non_animato;;;0;0;no;no
+esterno;18832;astratto;non_animato;;;0;0;no;no
+estero;12834;astratto;non_animato;;;0;0;no;no
+estraneo;1516;astratto;non_animato;;;0;0;no;no
+età;49792;astratto;non_animato;;;0;0;no;no
+europeo;18559;astratto;non_animato;;;0;0;no;no
+fabbrica;8887;concreto;non_animato;fabbricare;;1;0;yes;no
+faccenda;1443;astratto;non_animato;affaccendare, sfaccendare;;2;0;yes;no
+faccia;16975;concreto;non_animato;affacciare;mettere la faccia;1;1;yes;yes
+facciata;15100;concreto;non_animato;;;0;0;no;no
+falso;5540;concreto;non_animato;;fare un falso;0;1;no;yes
+fame;7434;astratto;non_animato;affamare, sfamare;avere fame, fare la fame;2;2;yes;yes
+famiglia;102107;concreto;umano;;dare una famiglia, fare una/la famiglia;0;2;no;yes
+fantasia;5261;astratto;non_animato;;;0;0;no;no
+fascista;7976;concreto;umano;fascistizzare;fare il fascista;1;1;yes;yes
+fastidio;1852;astratto;non_animato;infastidire;dare fastidio;1;1;yes;yes
+fatica;5263;astratto;non_animato;faticare, affaticare;fare (la/una) fatica;2;1;yes;yes
+fatto;161681;concreto;non_animato;;;0;0;no;no
+favore;22441;astratto;non_animato;favorire, favoreggiare;andare a favore, avere il favore, essere a favore, essere in favore, fare un/il favore;2;5;yes;yes
+fede;15473;astratto;non_animato;;avere (la) fede, dare la fede, fare fede;0;3;no;yes
+felicità;4254;astratto;non_animato;;avere la felicità, dare la felicità;0;2;no;yes
+fenomeno;17360;astratto;non_animato;;fare il fenomeno;0;1;no;yes
+ferita;3150;concreto;non_animato;;;0;0;no;no
+fermo;6190;concreto;non_animato;;;0;0;no;no
+ferro;13848;concreto;non_animato;ferrare, afferrare, sferrare, sferrare;;4;0;yes;no
+festa;20135;concreto;non_animato;festeggiare;essere in festa, fare (una/la) festa;1;2;yes;yes
+fianco;15678;concreto;non_animato;fiancare, affiancare, sfiancare, fiancheggiare;avere a fianco;4;1;yes;yes
+fiato;1696;concreto;non_animato;fiatare, affiatare, sfiatare;dare fiato, prendere fiato;3;2;yes;yes
+fidanzato;3820;concreto;umano;;;0;0;no;no
+fiducia;9012;astratto;non_animato;;avere (la) fiducia, dare (la) fiducia, mettere la fiducia;0;3;no;yes
+figlia;33927;astratto;non_animato;;dare una figlia, essere figlia;0;2;no;yes
+figlio;69140;concreto;umano;figliare;essere figlio, fare un figlio;1;2;yes;yes
+figliola;103;concreto;non_animato;;;0;0;no;no
+figliolo;163;concreto;umano;;;0;0;no;no
+figura;24788;concreto;non_animato;figurare, sfigurare;;2;0;yes;no
+fila;6420;concreto;non_animato;sfilare;;1;0;yes;no
+film;158366;concreto;non_animato;filmare;fare film;1;1;yes;yes
+filo;6945;concreto;non_animato;filare, affilare, infilare, sfilare;fare il filo;4;1;yes;yes
+fine;142092;astratto;non_animato;finire;avere fine, avere il fine, fare la fine, mettere fine;1;4;yes;yes
+finestra;5871;concreto;non_animato;;;0;0;no;no
+fiore;5628;concreto;non_animato;fiorire, affiorare, affiorare, affiorare, infiorare, sfiorire, sfiorire, sfiorire;essere in fiore;8;1;yes;yes
+firma;8639;astratto;non_animato;;mettere una/la firma;0;1;no;yes
+fisico;9476;concreto;non_animato;;essere fisico;0;1;no;yes
+fiume;36153;concreto;non_animato;;;0;0;no;no
+foglia;2331;concreto;non_animato;fogliare, sfogliare;;2;0;yes;no
+foglio;3224;concreto;non_animato;sfogliare, sfogliare;;2;0;yes;no
+folla;4700;concreto;umano;affollare;;1;0;yes;no
+fondo;24885;concreto;non_animato;fondare, affondare, sfondare, sfondare;andare a fondo, andare in fondo, dare fondo, mandare a fondo;4;4;yes;yes
+foresta;6651;concreto;non_animato;;;0;0;no;no
+forma;81173;astratto;non_animato;formare, informare, informare, sformare;avere forma, avere la forma, dare forma, dare una/la forma, essere in forma, mettere in forma, prendere forma, prendere una/la forma;4;8;yes;yes
+formula;66932;astratto;non_animato;formulare;;1;0;yes;no
+forte;45710;astratto;non_animato;;;0;0;no;no
+fortuna;13893;astratto;non_animato;infortunare;avere (la) fortuna, fare fortuna;1;2;yes;yes
+forza;46719;astratto;non_animato;forzare, sforzare, sforzare, sforzare;avere forza, dare (la/una) forza, essere in forza, fare forza;4;4;yes;yes
+fotografia;6397;concreto;non_animato;fotografare;fare fotografia, fare una/la fotografia;1;2;yes;yes
+francese;49730;concreto;non_animato;;fare il francese;0;1;no;yes
+frase;9152;astratto;non_animato;fraseggiare;;1;0;yes;no
+frate;2065;concreto;umano;;;0;0;no;no
+fratello;50101;concreto;umano;affratellare;essere fratello;1;1;yes;yes
+fretta;3668;astratto;non_animato;affrettare;andare di fretta, avere fretta, essere di fretta, fare di fretta;1;4;yes;yes
+fronte;43640;check;non_animato;affrontare;fare fronte;1;1;yes;yes
+frutta;4519;concreto;non_animato;fruttare, sfruttare, sfruttare;;3;0;yes;no
+frutto;11027;concreto;non_animato;fruttificare;dare il frutto, essere frutto, mettere a frutto;1;3;yes;yes
+fuga;12579;astratto;non_animato;fugare;andare in fuga, essere in fuga, mettere in fuga;1;3;yes;yes
+fumo;4249;concreto;non_animato;fumare, sfumare;andare in fumo, fare fumo, mandare in fumo;2;3;yes;yes
+funerale;2399;astratto;non_animato;;fare il funerale;0;1;no;yes
+funzione;35001;astratto;non_animato;funzionare;avere la funzione, essere in funzione, mettere in funzione;1;3;yes;yes
+fuoco;24982;concreto;non_animato;infuocare, sfocare, sfocare;andare a fuoco, dare a fuoco, dare fuoco, essere a fuoco, fare fuoco, mandare a fuoco, mettere a fuoco, prendere fuoco;3;8;yes;yes
+futuro;29611;astratto;non_animato;;;0;0;no;no
+gamba;3589;concreto;non_animato;sgambare, sgambare, gambizzare;essere in gamba, prendere sotto gamba;3;2;yes;yes
+gara;30534;astratto;non_animato;gareggiare;essere in gara, fare a gara, fare una gara, mettere in gara;1;4;yes;yes
+gas;15433;concreto;non_animato;;dare gas;0;1;no;yes
+gatto;4986;concreto;animato;;fare il gatto;0;1;no;yes
+generale;69134;concreto;non_animato;;fare il generale;0;1;no;yes
+generazione;13214;astratto;non_animato;;;0;0;no;no
+genere;55232;astratto;non_animato;generare, ingenerare;;2;0;yes;no
+genitore;1580;concreto;umano;;essere genitore, fare da genitore, fare il genitore;0;3;no;yes
+gente;26003;concreto;umano;;;0;0;no;no
+gesto;6102;astratto;non_animato;gestire;fare il gesto;1;1;yes;yes
+ghiaccio;7564;concreto;non_animato;ghiacciare, agghiacciare;;2;0;yes;no
+giacca;1515;concreto;non_animato;;;0;0;no;no
+giallo;8941;concreto;non_animato;;;0;0;no;no
+giardino;9752;concreto;non_animato;;;0;0;no;no
+ginocchio;2726;concreto;non_animato;inginocchiare;essere in ginocchio, mettere in ginocchio;1;2;yes;yes
+gioco;52649;astratto;non_animato;giocare;fare il gioco, mettere in gioco;1;2;yes;yes
+gioia;5705;astratto;non_animato;gioire;avere la gioia, dare (la/una) gioia;1;2;yes;yes
+giornale;12600;concreto;non_animato;;;0;0;no;no
+giornata;17023;astratto;non_animato;;;0;0;no;no
+giorno;76219;astratto;non_animato;aggiornare, aggiornare;;2;0;yes;no
+giovane;47555;astratto;non_animato;;fare il giovane;0;1;no;yes
+giovanotto;287;concreto;umano;;;0;0;no;no
+giro;28616;astratto;non_animato;girare;andare a giro, andare in giro, fare il giro, fare un giro, mettere in giro, prendere in giro;1;6;yes;yes
+giudizio;11131;astratto;non_animato;;andare in giudizio, dare il giudizio, dare un giudizio;0;3;no;yes
+giugno;54567;astratto;non_animato;;;0;0;no;no
+giunta;9161;astratto;non_animato;;;0;0;no;no
+giustizia;15508;astratto;non_animato;giustiziare;dare giustizia, fare giustizia;1;2;yes;yes
+giusto;14382;astratto;non_animato;;;0;0;no;no
+gloria;6027;astratto;non_animato;gloriare, glorificare;avere in gloria, dare gloria;2;2;yes;yes
+goccia;1426;concreto;non_animato;gocciare;;1;0;yes;no
+gola;3476;concreto;non_animato;golare, golare, sgolare;fare gola;3;1;yes;yes
+gomma;3117;concreto;non_animato;gommare, sgommare, sgommare, sgommare;;4;0;yes;no
+governo;71914;astratto;non_animato;;;0;0;no;no
+grado;55564;astratto;non_animato;graduare, gradire, aggradare;mettere in grado;3;1;yes;yes
+grano;4499;concreto;non_animato;granire, granire, ingranare, ingranare, sgranare, sgranare;;6;0;yes;no
+grazia;6919;astratto;non_animato;graziare, aggraziare, ingraziare;avere la grazia, dare la grazia, fare la grazia;3;3;yes;yes
+greco;17199;astratto;non_animato;;;0;0;no;no
+grigio;4355;astratto;non_animato;;;0;0;no;no
+gruppo;131357;concreto;non_animato;aggruppare;fare gruppo;1;1;yes;yes
+guaio;397;astratto;non_animato;guaire, inguaiare;mettere in guaio;2;1;yes;yes
+guardia;12531;astratto;non_animato;;essere a guardia, essere di guardia, fare da guardia, fare la guardia, mettere a guardia, mettere di guardia, mettere in guardia;0;7;no;yes
+guerra;138710;concreto;non_animato;agguerrire, guerreggiare;andare in guerra, fare (la) guerra, fare una guerra, mandare in guerra;2;4;yes;yes
+guida;36039;astratto;non_animato;;avere la guida, fare da guida;0;2;no;yes
+gusto;8380;astratto;non_animato;;avere il gusto, dare il gusto;0;2;no;yes
+idea;34754;astratto;non_animato;ideare;avere idea, avere la idea, avere una idea;1;3;yes;yes
+ieri;18849;astratto;non_animato;;;0;0;no;no
+illusione;2092;astratto;non_animato;;;0;0;no;no
+immagine;23391;astratto;non_animato;immaginare;;1;0;yes;no
+impegno;12044;astratto;non_animato;;avere un impegno, prendere un impegno;0;2;no;yes
+importanza;24660;astratto;non_animato;;avere importanza, dare importanza, essere di importanza;0;3;no;yes
+impresa;12581;astratto;non_animato;;fare impresa;0;1;no;yes
+impressione;4669;astratto;non_animato;impressionare;dare una impressione, fare impressione;1;2;yes;yes
+incerto;1468;astratto;non_animato;;;0;0;no;no
+incidente;14727;astratto;non_animato;;avere un incidente, fare un incidente;0;2;no;yes
+incontro;26719;astratto;non_animato;;avere un incontro;0;1;no;yes
+indipendenza;12955;astratto;non_animato;;;0;0;no;no
+indirizzo;6551;concreto;non_animato;;;0;0;no;no
+industria;15156;concreto;non_animato;;;0;0;no;no
+industriale;13412;concreto;non_animato;;;0;0;no;no
+infanzia;9340;astratto;non_animato;;;0;0;no;no
+inferno;5044;concreto;non_animato;;;0;0;no;no
+infinito;4353;concreto;non_animato;;;0;0;no;no
+informazione;18116;astratto;non_animato;;dare (la) informazione, fare informazione;0;2;no;yes
+ingegnere;4940;concreto;umano;;;0;0;no;no
+inglese;48240;concreto;non_animato;;fare il inglese;0;1;no;yes
+ingresso;21299;astratto;non_animato;;fare da ingresso, fare ingresso, prendere in ingresso;0;3;no;yes
+inizio;68157;astratto;non_animato;iniziare;avere inizio, dare inizio;1;2;yes;yes
+innocente;2098;astratto;non_animato;;;0;0;no;no
+intelligenza;5905;astratto;non_animato;;;0;0;no;no
+intenzione;8928;astratto;non_animato;;avere intenzione;0;1;no;yes
+interesse;32290;astratto;non_animato;interessare;avere (un) interesse, essere di interesse;1;2;yes;yes
+interno;90818;astratto;non_animato;;;0;0;no;no
+intero;20692;astratto;non_animato;;;0;0;no;no
+inverno;10638;astratto;non_animato;;;0;0;no;no
+invito;5420;astratto;non_animato;;fare un invito;0;1;no;yes
+isola;56677;concreto;non_animato;isolare;;1;0;yes;no
+istante;3199;astratto;non_animato;;;0;0;no;no
+italiano;72541;astratto;non_animato;;fare il italiano;0;1;no;yes
+labbro;718;concreto;non_animato;slabbrare;;1;0;yes;no
+laboratorio;8239;concreto;non_animato;;;0;0;no;no
+lacrima;427;concreto;non_animato;lacrimare;andare in lacrima;1;1;yes;yes
+ladro;1955;concreto;umano;;fare il ladro;0;1;no;yes
+lago;21112;concreto;non_animato;allagare;;1;0;yes;no
+largo;9027;concreto;non_animato;;fare largo;0;1;no;yes
+latino;17282;concreto;non_animato;;mettere in latino;0;1;no;yes
+lato;29904;concreto;non_animato;;;0;0;no;no
+latte;5973;concreto;non_animato;allattare;;1;0;yes;no
+lavoro;89438;astratto;non_animato;lavorare;dare lavoro, fare (il) lavoro, mettere a lavoro;1;3;yes;yes
+legge;60052;astratto;non_animato;;fare una legge;0;1;no;yes
+legno;16748;concreto;non_animato;legnare;;1;0;yes;no
+lettera;20086;astratto;non_animato;;;0;0;no;no
+letto;15874;concreto;non_animato;allettare;mettere a letto;1;1;yes;yes
+lezione;3547;astratto;non_animato;;andare a lezione, dare (una) lezione, fare (una) lezione;0;3;no;yes
+libertà;29064;astratto;non_animato;;avere (la) libertà, dare (la) libertà, mettere in libertà;0;3;no;yes
+libro;47447;concreto;non_animato;;;0;0;no;no
+limite;14458;astratto;non_animato;limitare;avere il limite, avere un limite, dare il limite, dare un limite, mettere un/il limite;1;5;yes;yes
+linea;57002;concreto;non_animato;lineare, allineare;mettere in linea;2;1;yes;yes
+lingua;44094;concreto;non_animato;;;0;0;no;no
+lira;1367;concreto;non_animato;;;0;0;no;no
+lista;17903;concreto;non_animato;listare;mettere in lista;1;1;yes;yes
+località;22232;astratto;non_animato;;;0;0;no;no
+lotta;24778;astratto;non_animato;;essere in lotta, fare una/la lotta;0;2;no;yes
+luce;39699;concreto;non_animato;;dare (la) luce, fare luce, mettere in luce, venire in luce;0;4;no;yes
+luglio;52544;astratto;non_animato;;;0;0;no;no
+luna;12977;concreto;non_animato;lunare, allunare, allunare;;3;0;yes;no
+luogo;52547;concreto;non_animato;locare;avere luogo, dare luogo;1;2;yes;yes
+lupo;5357;concreto;animato;;;0;0;no;no
+lusso;3994;astratto;non_animato;;;0;0;no;no
+macchia;3538;concreto;non_animato;macchiare, smacchiare, smacchiare;;3;0;yes;no
+macchina;20870;concreto;non_animato;macchinare;;1;0;yes;no
+madre;45275;concreto;umano;;essere madre, fare da madre;0;2;no;yes
+maestro;22095;check;umano;ammaestrare;essere maestro, fare da maestro, fare il maestro;1;3;yes;yes
+maggio;57298;astratto;non_animato;;;0;0;no;no
+maggiore;59905;astratto;non_animato;;;0;0;no;no
+maglia;10044;concreto;non_animato;smagliare, smagliare;;2;0;yes;no
+malato;3991;concreto;non_animato;;;0;0;no;no
+malattia;14206;astratto;non_animato;;avere la malattia;0;1;no;yes
+male;25316;astratto;non_animato;ammalare;andare a male, avere a male, avere (un) male, fare (un) male;1;4;yes;yes
+mamma;7970;concreto;umano;smammare, smammare;essere mamma, fare da mamma;2;2;yes;yes
+mancanza;14911;astratto;non_animato;;;0;0;no;no
+maniera;26967;astratto;non_animato;;;0;0;no;no
+mano;40795;concreto;non_animato;maneggiare;avere in mano, dare una mano, mettere in mano, mettere mano, prendere in mano;1;5;yes;yes
+marcia;8128;astratto;non_animato;;essere in marcia, fare una marcia, mettere in marcia;0;3;no;yes
+mare;36817;concreto;non_animato;ammarare, mareggiare;mettere a mare;2;1;yes;yes
+maresciallo;3524;concreto;umano;;;0;0;no;no
+marito;19350;concreto;umano;maritare;essere marito, prendere marito;1;2;yes;yes
+marmo;6857;concreto;non_animato;;;0;0;no;no
+marzo;49787;astratto;non_animato;;;0;0;no;no
+maschio;6067;concreto;umano;maschiare;;1;0;yes;no
+massa;23329;concreto;non_animato;ammassare, massificare;avere massa, fare massa;2;2;yes;yes
+massimo;34831;concreto;non_animato;;;0;0;no;no
+materia;15050;concreto;non_animato;;;0;0;no;no
+materiale;24650;concreto;non_animato;;;0;0;no;no
+matrimonio;22173;astratto;non_animato;;;0;0;no;no
+mattina;10885;astratto;non_animato;;;0;0;no;no
+mattino;6341;astratto;non_animato;;;0;0;no;no
+matto;1266;astratto;non_animato;;dare di matto, dare il matto, prendere per matto;0;3;no;yes
+medicina;10745;astratto;non_animato;;;0;0;no;no
+medico;19858;concreto;umano;medicare;essere medico, fare il medico;1;2;yes;yes
+mela;1693;concreto;non_animato;;;0;0;no;no
+membro;22677;astratto;non_animato;smembrare;essere membro;1;1;yes;yes
+memoria;22421;astratto;non_animato;memorizzare;avere memoria;1;1;yes;yes
+mente;14770;astratto;non_animato;;avere a mente, avere in mente, mettere in mente, venire in mente;0;4;no;yes
+meraviglia;1302;astratto;non_animato;meravigliare;;1;0;yes;no
+mercato;37863;concreto;non_animato;;avere mercato;0;1;no;yes
+merito;13618;astratto;non_animato;;avere il/un merito, dare (il) merito;0;2;no;yes
+mese;28933;astratto;non_animato;;;0;0;no;no
+messa;18749;astratto;non_animato;;;0;0;no;no
+mestiere;3388;astratto;non_animato;;fare il mestiere;0;1;no;yes
+metà;48801;astratto;non_animato;;;0;0;no;no
+metro;5788;astratto;non_animato;;;0;0;no;no
+mezzo;44789;astratto;non_animato;;;0;0;no;no
+mezzogiorno;3382;astratto;non_animato;;;0;0;no;no
+migliaio;1384;astratto;non_animato;;;0;0;no;no
+milanese;7091;astratto;non_animato;;;0;0;no;no
+miliardo;1482;astratto;non_animato;;;0;0;no;no
+milione;6798;astratto;non_animato;;;0;0;no;no
+militare;41853;astratto;non_animato;;essere militare, fare il militare;0;2;no;yes
+mille;10721;astratto;non_animato;;;0;0;no;no
+minerale;2353;astratto;non_animato;;;0;0;no;no
+minimo;11396;astratto;non_animato;;;0;0;no;no
+ministro;29035;concreto;umano;ministrare, amministrare;essere ministro, fare il ministro;2;2;yes;yes
+minore;19321;concreto;non_animato;;;0;0;no;no
+minuto;8718;concreto;non_animato;;;0;0;no;no
+miracolo;3549;astratto;non_animato;;fare il miracolo;0;1;no;yes
+miseria;2487;astratto;non_animato;;essere in miseria;0;1;no;yes
+mistero;5743;astratto;non_animato;;;0;0;no;no
+misura;19490;astratto;non_animato;misurare;;1;0;yes;no
+mobile;7946;concreto;non_animato;;;0;0;no;no
+modello;35957;astratto;non_animato;modellare;avere a modello, essere modello, fare da modello, prendere a modello;1;4;yes;yes
+moderno;10130;astratto;non_animato;;;0;0;no;no
+modo;130236;astratto;non_animato;modificare;dare (il) modo, fare in modo;1;2;yes;yes
+moglie;36655;concreto;umano;ammogliare;andare in moglie, avere in moglie, dare in moglie, essere moglie, fare la moglie, prendere in moglie, prendere moglie, prendere per moglie;1;8;yes;yes
+momento;74848;astratto;non_animato;;;0;0;no;no
+mondo;137385;concreto;non_animato;;;0;0;no;no
+montagna;11243;concreto;non_animato;;;0;0;no;no
+monte;31674;concreto;non_animato;montare, ammontare, smontare;andare a monte, mandare a monte;3;2;yes;yes
+monumento;7931;concreto;non_animato;;;0;0;no;no
+mortale;2947;concreto;non_animato;;;0;0;no;no
+morte;90884;astratto;non_animato;mortificare;dare la morte, dare una morte, mandare a morte, mettere a morte, venire a morte;1;5;yes;yes
+mostro;4925;concreto;animato;;fare il mostro;0;1;no;yes
+motivo;23262;astratto;non_animato;motivare;essere motivo;1;1;yes;yes
+moto;21069;concreto;non_animato;;andare in moto, fare moto, mettere in moto;0;3;no;yes
+motocicletta;947;concreto;non_animato;;andare in motocicletta;0;1;no;yes
+motore;38195;concreto;non_animato;motorizzare;;1;0;yes;no
+movimento;40726;astratto;non_animato;movimentare;dare movimento, essere in movimento, fare (il) movimento, mettere in movimento;1;4;yes;yes
+mucchio;871;concreto;non_animato;ammucchiare;;1;0;yes;no
+muro;10669;concreto;non_animato;murare;;1;0;yes;no
+museo;25974;concreto;non_animato;;;0;0;no;no
+musica;55865;concreto;non_animato;musicare;fare (la) musica, mettere in musica;1;2;yes;yes
+nascita;23505;astratto;non_animato;;dare la nascita;0;1;no;yes
+naso;3977;concreto;non_animato;;mettere il naso;0;1;no;yes
+natale;14811;astratto;non_animato;;;0;0;no;no
+natura;31516;astratto;non_animato;snaturare;avere natura;1;1;yes;yes
+nave;20101;concreto;non_animato;;;0;0;no;no
+nazione;11064;astratto;non_animato;;;0;0;no;no
+nebbia;2115;concreto;non_animato;annebbiare, snebbiare;;2;0;yes;no
+necessario;23755;concreto;non_animato;;;0;0;no;no
+necessità;18200;astratto;non_animato;;avere (la/una) necessità;0;1;no;yes
+negozio;5203;concreto;non_animato;negoziare;;1;0;yes;no
+nemico;13470;concreto;non_animato;;essere nemico;0;1;no;yes
+nero;24580;concreto;non_animato;;;0;0;no;no
+nervo;1108;concreto;non_animato;innervare, snervare;;2;0;yes;no
+neve;6310;concreto;non_animato;;;0;0;no;no
+nipote;10617;concreto;umano;;essere nipote;0;1;no;yes
+nobile;9271;concreto;non_animato;;;0;0;no;no
+noia;1263;astratto;non_animato;annoiare;avere a noia, dare noia, venire a noia;1;3;yes;yes
+nome;169398;astratto;non_animato;nomare, nominare;avere (il) nome, dare (il/un) nome, fare il nome, mettere il nome, prendere a nome, prendere (il) nome;2;6;yes;yes
+nonna;4078;concreto;umano;;;0;0;no;no
+nord;59939;astratto;non_animato;;;0;0;no;no
+notizia;19563;astratto;non_animato;;avere notizia, dare (una/la) notizia, fare notizia;0;3;no;yes
+notte;31437;astratto;non_animato;annottare;;1;0;yes;no
+novembre;46818;astratto;non_animato;;;0;0;no;no
+novità;10928;astratto;non_animato;;;0;0;no;no
+nudo;5725;astratto;non_animato;;mettere a nudo;0;1;no;yes
+numero;89244;astratto;non_animato;numerare;avere il numero, dare il numero, fare numero;1;3;yes;yes
+nuovo;123997;astratto;non_animato;;mettere a nuovo;0;1;no;yes
+nuvola;1052;concreto;non_animato;annuvolare;;1;0;yes;no
+obbligo;5779;astratto;non_animato;;essere di obbligo, essere in obbligo;0;2;no;yes
+occasione;40135;astratto;non_animato;occasionare;essere occasione;1;1;yes;yes
+occhiata;1337;astratto;non_animato;;dare una occhiata;0;1;no;yes
+occhio;13602;concreto;non_animato;oculare, adocchiare, inoculare, occhieggiare;avere il occhio, dare un occhio, mettere il occhio;4;3;yes;yes
+occidentale;21119;concreto;non_animato;;;0;0;no;no
+occupazione;11738;astratto;non_animato;;essere sotto occupazione;0;1;no;yes
+odio;5839;astratto;non_animato;odiare;avere in odio, avere un odio, prendere in odio;1;3;yes;yes
+odore;2689;astratto;non_animato;odorare;avere un odore;1;1;yes;yes
+oggetto;26479;concreto;non_animato;;avere ad oggetto, essere oggetto;0;2;no;yes
+oggi;121154;astratto;non_animato;;;0;0;no;no
+olio;11629;concreto;non_animato;oliare;;1;0;yes;no
+oliva;2316;concreto;non_animato;;;0;0;no;no
+ombra;7351;concreto;non_animato;ombrare, adombrare, ombreggiare;fare ombra, mettere in ombra;3;2;yes;yes
+onda;28259;concreto;non_animato;inondare, ondeggiare;andare in onda, essere in onda, mandare in onda, mettere in onda;2;4;yes;yes
+onore;20432;astratto;non_animato;onorare;avere il onore, dare onore, fare il onore, fare onore;1;4;yes;yes
+opera;90624;astratto;non_animato;operare, adoperare;essere in opera, essere opera, mettere in opera;2;3;yes;yes
+operaio;3482;concreto;umano;;;0;0;no;no
+operazione;19961;astratto;non_animato;;fare una operazione;0;1;no;yes
+opinione;10521;astratto;non_animato;;avere una opinione, essere di opinione;0;2;no;yes
+ora;89788;astratto;non_animato;;;0;0;no;no
+ordine;61068;astratto;non_animato;ordinare;dare (un/il) ordine, essere in ordine, fare (un) ordine, mettere in ordine, mettere ordine;1;5;yes;yes
+orecchio;2258;concreto;non_animato;orecchiare;;1;0;yes;no
+oro;35027;concreto;non_animato;orare;;1;0;yes;no
+orologio;3552;concreto;non_animato;;;0;0;no;no
+orrore;1961;astratto;non_animato;;avere in orrore;0;1;no;yes
+orto;2042;concreto;non_animato;;;0;0;no;no
+ospedale;15574;concreto;non_animato;ospedalizzare;;1;0;yes;no
+ospite;7888;concreto;umano;ospitare;andare ospite, avere ospite, essere ospite;1;3;yes;yes
+osso;1916;concreto;non_animato;ossificare;;1;0;yes;no
+ottobre;51735;astratto;non_animato;;;0;0;no;no
+pacco;968;concreto;non_animato;impaccare;;1;0;yes;no
+pace;27133;astratto;non_animato;pacificare;avere (la) pace, dare (la) pace, essere in pace, fare pace, mettere pace;1;5;yes;yes
+padre;70098;concreto;umano;;essere padre, fare da padre;0;2;no;yes
+padrone;5221;concreto;umano;impadronire;essere padrone, fare da padrone;1;2;yes;yes
+paese;74699;concreto;non_animato;;;0;0;no;no
+pagina;16680;concreto;non_animato;impaginare;;1;0;yes;no
+paio;9128;astratto;non_animato;appaiare, spaiare;;2;0;yes;no
+palazzo;43238;concreto;non_animato;;;0;0;no;no
+palla;6081;concreto;non_animato;pallare, impallare, palleggiare;andare in palla;3;1;yes;yes
+pane;5890;concreto;non_animato;impanare, panificare;;2;0;yes;no
+papa;35236;concreto;umano;;;0;0;no;no
+papà;2733;concreto;umano;;fare da papà;0;1;no;yes
+parco;23680;concreto;non_animato;parcare;;1;0;yes;no
+parente;2484;concreto;umano;apparentare, imparentare;essere parente;2;1;yes;yes
+parete;7758;concreto;non_animato;;;0;0;no;no
+pari;29204;concreto;non_animato;;;0;0;no;no
+parola;26727;astratto;non_animato;;dare la parola, fare parola, mettere una parola, prendere in parola, prendere (la) parola;0;5;no;yes
+parte;368379;astratto;non_animato;impartire, spartire, spartire, partire, appartare, parteggiare;avere da parte, avere parte, essere parte, fare parte, prendere una/la parte, prendere parte;6;6;yes;yes
+partigiano;1394;concreto;umano;;;0;0;no;no
+partita;24820;astratto;non_animato;;fare una partita;0;1;no;yes
+partito;53334;astratto;non_animato;;prendere partito;0;1;no;yes
+passaggio;22432;astratto;non_animato;;dare un/il passaggio, essere di passaggio, fare il passaggio;0;3;no;yes
+passato;41127;astratto;non_animato;;;0;0;no;no
+passione;12728;astratto;non_animato;appassionare;avere una/la passione;1;1;yes;yes
+passo;21299;astratto;non_animato;passare, passeggiare;fare il passo;2;1;yes;yes
+pastore;3358;concreto;umano;;essere pastore, fare il pastore;0;2;no;yes
+patria;10638;astratto;non_animato;;;0;0;no;no
+patto;8366;astratto;non_animato;patteggiare;fare un/il patto;1;1;yes;yes
+paura;13700;astratto;non_animato;impaurire, spaurire, spaurire;avere (la) paura, avere una paura, fare paura, mettere paura;3;4;yes;yes
+pazienza;2458;astratto;non_animato;;avere (la) pazienza;0;1;no;yes
+pazzo;2594;astratto;non_animato;;fare il pazzo;0;1;no;yes
+peccato;14774;astratto;non_animato;;;0;0;no;no
+pelle;10657;concreto;non_animato;spellare;;1;0;yes;no
+pelo;3541;concreto;non_animato;spelare, pelare, spelare, spelare;fare il pelo;4;1;yes;yes
+pena;10631;astratto;non_animato;penare;avere la pena, dare la pena, essere in pena;1;3;yes;yes
+pensiero;18049;astratto;non_animato;impensierire;avere il/un pensiero, essere in pensiero, fare un pensiero;1;3;yes;yes
+pensione;4264;astratto;non_animato;pensionare;andare in pensione, essere in pensione, mandare in pensione, mettere in pensione;1;4;yes;yes
+perdita;11309;astratto;non_animato;;andare in perdita, avere la perdita, avere una perdita, essere in perdita;0;4;no;yes
+pericolo;10830;astratto;non_animato;pericolare, spericolare;mettere in pericolo;2;1;yes;yes
+periodo;107020;astratto;non_animato;periodare, periodizzare;;2;0;yes;no
+permesso;13021;astratto;non_animato;;avere il permesso, dare il/un permesso;0;2;no;yes
+persona;37998;concreto;umano;impersonare, personificare;;2;0;yes;no
+personaggio;38389;concreto;umano;;;0;0;no;no
+pesce;7393;concreto;non_animato;pescare;;1;0;yes;no
+peso;21980;astratto;non_animato;pesare, spesare;avere il peso, avere peso, dare (il/un) peso;2;3;yes;yes
+petrolio;6436;concreto;non_animato;;;0;0;no;no
+petto;3307;concreto;non_animato;;;0;0;no;no
+pezzo;13269;concreto;non_animato;appezzare, spezzare;andare a pezzo, andare in pezzo, essere a pezzo, essere in pezzo, fare a pezzo, mandare in pezzo;2;6;yes;yes
+piacere;8354;astratto;non_animato;;avere il piacere, dare il piacere, dare piacere, fare il piacere, fare piacere;0;5;no;yes
+piano;52188;concreto;non_animato;pianificare;fare il piano;1;1;yes;yes
+pianta;15431;concreto;non_animato;piantare, impiantire, spiantare, impiantare;;4;0;yes;no
+pianura;6483;concreto;non_animato;;;0;0;no;no
+piatto;5449;concreto;non_animato;impiattare;;1;0;yes;no
+piazza;38390;concreto;non_animato;piazzare, spiazzare, spiazzare;fare piazza;3;1;yes;yes
+piede;6233;concreto;non_animato;appiedare;andare a piede, essere a piede, mettere in piede, mettere piede, prendere piede;1;5;yes;yes
+pietà;3915;astratto;non_animato;;avere pietà;0;1;no;yes
+pietra;18879;concreto;non_animato;impietrire;;1;0;yes;no
+pioggia;5964;concreto;non_animato;;;0;0;no;no
+pittore;10278;concreto;umano;;fare il pittore;0;1;no;yes
+poesia;12822;astratto;non_animato;;fare poesia;0;1;no;yes
+poeta;10913;concreto;umano;poetare;essere poeta, fare il poeta;1;2;yes;yes
+politica;66304;astratto;non_animato;;fare politica;0;1;no;yes
+politico;29185;astratto;non_animato;;essere politico, fare il politico;0;2;no;yes
+polizia;28359;astratto;non_animato;;;0;0;no;no
+poliziotto;3603;concreto;umano;;fare da poliziotto, fare il poliziotto;0;2;no;yes
+poltrona;1214;concreto;non_animato;;;0;0;no;no
+polvere;4848;concreto;non_animato;impolverare, spolverare, spolverare, polverizzare;prendere polvere;4;1;yes;yes
+pomeriggio;8612;astratto;non_animato;;;0;0;no;no
+pomodoro;1344;concreto;non_animato;;;0;0;no;no
+ponte;21146;concreto;non_animato;;fare da ponte;0;1;no;yes
+popolo;29973;concreto;non_animato;popolare, impopolare, spopolare, spopolare;;4;0;yes;no
+porta;59141;concreto;non_animato;;;0;0;no;no
+porto;21557;concreto;non_animato;;andare in porto, mandare in porto;0;2;no;yes
+posizione;52949;astratto;non_animato;posizionare;avere la posizione, mettere in posizione, prendere una/la posizione, prendere posizione;1;4;yes;yes
+possibile;67626;astratto;non_animato;;;0;0;no;no
+possibilità;39991;astratto;non_animato;;avere (la) possibilità, dare (una/la) possibilità;0;2;no;yes
+posta;19491;concreto;non_animato;postare, impostare, posteggiare;;3;0;yes;no
+posto;87683;concreto;non_animato;postare, impostare, posteggiare;avere posto, dare posto, fare posto, mettere a posto, prendere il posto, prendere posto;3;6;yes;yes
+potenza;27155;astratto;non_animato;potenziare;;1;0;yes;no
+potere;48266;astratto;non_animato;;avere potere, dare potere, essere in potere, prendere il potere;0;4;no;yes
+povero;4467;astratto;non_animato;;fare il povero;0;1;no;yes
+pozzo;4116;concreto;non_animato;;;0;0;no;no
+pranzo;3342;astratto;non_animato;pranzare;andare a pranzo, essere a pranzo;1;2;yes;yes
+pratica;23789;astratto;non_animato;praticare, impratichire;fare pratica, fare una pratica, mettere in pratica;2;3;yes;yes
+prato;4715;concreto;non_animato;;;0;0;no;no
+precedente;33384;concreto;non_animato;;;0;0;no;no
+premio;36226;concreto;non_animato;premiare;andare in premio, avere in premio, dare in premio, dare un premio;1;4;yes;yes
+preoccupazione;2712;astratto;non_animato;;avere la preoccupazione;0;1;no;yes
+presente;53093;astratto;non_animato;;avere presente, fare presente;0;2;no;yes
+presenza;54233;astratto;non_animato;presenziare;fare una presenza;1;1;yes;yes
+presidente;63889;concreto;umano;;essere presidente, fare il presidente;0;2;no;yes
+pressione;15045;astratto;non_animato;;avere la pressione, essere sotto pressione, fare (una) pressione, mettere in pressione, mettere pressione, mettere sotto pressione;0;6;no;yes
+prestito;6381;astratto;non_animato;;andare in prestito, avere in prestito, dare in prestito, essere in prestito, fare un prestito, mandare in prestito, prendere a prestito, prendere in prestito;0;8;no;yes
+prete;3571;concreto;umano;pretare, spretare;essere prete, fare il prete;2;2;yes;yes
+prezioso;3226;concreto;non_animato;;;0;0;no;no
+prezzo;17078;astratto;non_animato;prezzare, sprezzare;avere un/il prezzo, dare un/il prezzo, fare il prezzo, mettere un prezzo;2;4;yes;yes
+prigione;6514;concreto;non_animato;imprigionare, sprigionare;andare in prigione, essere in prigione, mandare in prigione, mettere in prigione;2;4;yes;yes
+prigioniero;4218;concreto;umano;;essere prigioniero, fare prigioniero, prendere prigioniero;0;3;no;yes
+primavera;11515;astratto;non_animato;;;0;0;no;no
+principe;21028;concreto;umano;principare;fare il principe;1;1;yes;yes
+principessa;7296;concreto;umano;;;0;0;no;no
+principio;16937;astratto;non_animato;principiare;;1;0;yes;no
+privato;8608;astratto;non_animato;;;0;0;no;no
+problema;38029;astratto;non_animato;;;0;0;no;no
+processo;37650;astratto;non_animato;processare, processare;andare a processo, essere sotto processo, fare il processo, fare un processo, mettere sotto processo;2;5;yes;yes
+prodotto;40786;concreto;non_animato;;;0;0;no;no
+produzione;64749;astratto;non_animato;;andare in produzione, fare una produzione, mandare in produzione, mettere in produzione;0;4;no;yes
+professione;6479;astratto;non_animato;;fare una professione;0;1;no;yes
+professore;11169;concreto;umano;;fare il professore;0;1;no;yes
+profumo;2015;concreto;non_animato;profumare;avere il profumo;1;1;yes;yes
+progetto;61559;astratto;non_animato;progettare;avere un/il progetto, avere in progetto, essere in progetto, fare il progetto;1;4;yes;yes
+programma;51769;astratto;non_animato;programmare;avere un/il programma, avere in programma, essere in programma, fare il programma, mettere in programma;1;5;yes;yes
+promessa;4833;astratto;non_animato;;fare una/la promessa;0;1;no;yes
+proposito;12006;astratto;non_animato;spropositare;avere il proposito;1;1;yes;yes
+proposta;16212;astratto;non_animato;;fare la proposta, fare una proposta;0;2;no;yes
+prossimo;12700;astratto;non_animato;;;0;0;no;no
+prova;27254;astratto;non_animato;;andare in prova, avere in prova, dare una/la prova, dare prova, fare una/la prova, mettere a prova, mettere in prova, prendere in prova;0;8;no;yes
+provincia;70170;concreto;non_animato;;;0;0;no;no
+pugno;3685;concreto;non_animato;impugnare;avere in pugno, dare un/il pugno, fare a pugno, prendere a pugno, prendere in pugno;1;5;yes;yes
+punta;13420;concreto;non_animato;puntare, appuntare, appuntire, impuntare, spuntare, spuntare, spuntare, spuntare;;8;0;yes;no
+punto;98275;concreto;non_animato;puntare, appuntare, punteggiare;fare il punto, fare punto, mettere a punto, mettere un/il punto;3;4;yes;yes
+quadro;11387;concreto;non_animato;quadrare, inquadrare, squadrare, squadrare;;4;0;yes;no
+qualità;32944;astratto;non_animato;;avere (la) qualità;0;1;no;yes
+quantità;21604;astratto;non_animato;;;0;0;no;no
+quartiere;16550;concreto;non_animato;acquartierare;;1;0;yes;no
+questione;23002;astratto;non_animato;questionare;essere in questione, mettere in questione, prendere in questione;1;3;yes;yes
+rabbia;4437;astratto;non_animato;arrabbiare;;1;0;yes;no
+radio;24421;concreto;non_animato;radiare, radiare, irradiare, irradiare;andare in radio, mandare in radio;4;2;yes;yes
+ragazza;26396;concreto;non_animato;;fare la ragazza;0;1;no;yes
+ragazzo;21613;concreto;non_animato;;;0;0;no;no
+raggio;9106;concreto;non_animato;raggiare, irraggiare;;2;0;yes;no
+ragione;19472;astratto;non_animato;ragionare, sragionare;avere ragione, dare ragione;2;2;yes;yes
+ramo;7023;concreto;non_animato;ramare, ramificare;;2;0;yes;no
+rancore;786;astratto;non_animato;;;0;0;no;no
+rapido;4422;astratto;non_animato;;;0;0;no;no
+rapporto;34028;astratto;non_animato;;avere un rapporto, fare (il) rapporto, mettere in rapporto;0;3;no;yes
+rappresentante;6577;astratto;non_animato;;essere rappresentante, fare il rappresentante;0;2;no;yes
+razza;8140;astratto;non_animato;;;0;0;no;no
+re;79029;concreto;umano;;essere re, fare il re;0;2;no;yes
+realtà;57787;astratto;non_animato;;;0;0;no;no
+regalo;2624;concreto;non_animato;;avere in regalo, dare in regalo, fare un/il regalo;0;3;no;yes
+regina;17434;concreto;umano;;essere regina;0;1;no;yes
+regno;55507;astratto;non_animato;regnare;;1;0;yes;no
+regola;9679;astratto;non_animato;sregolare, regolare;dare una regola, mettere in regola;2;2;yes;yes
+relazione;26813;astratto;non_animato;relazionare;essere in relazione, fare una relazione, mettere in relazione;1;3;yes;yes
+repubblica;44680;astratto;non_animato;;;0;0;no;no
+resistenza;20610;astratto;non_animato;;fare resistenza;0;1;no;yes
+responsabile;14183;astratto;non_animato;;essere responsabile;0;1;no;yes
+responsabilità;15213;astratto;non_animato;;avere (la/una) responsabilità, dare la responsabilità, prendere la responsabilità;0;3;no;yes
+resto;31197;astratto;non_animato;;;0;0;no;no
+ricco;10409;astratto;non_animato;;;0;0;no;no
+ricerca;48072;astratto;non_animato;;essere in ricerca, fare ricerca, fare una ricerca;0;3;no;yes
+ricordo;13427;astratto;non_animato;;avere un/il ricordo;0;1;no;yes
+riflesso;1795;astratto;non_animato;;;0;0;no;no
+riguardo;16833;astratto;non_animato;;avere riguardo, fare riguardo;0;2;no;yes
+riposo;4059;astratto;non_animato;;andare a riposo, dare riposo, essere a riposo, mettere a riposo;0;4;no;yes
+rischio;16921;astratto;non_animato;rischiare, arrischiare;avere il rischio, essere a rischio, mettere a rischio;2;3;yes;yes
+riserva;10600;astratto;non_animato;;andare in riserva, fare da riserva, mettere in riserva;0;3;no;yes
+rispetto;79642;astratto;non_animato;rispettare;avere (il) rispetto, fare rispetto;1;2;yes;yes
+risposta;19698;astratto;non_animato;;avere risposta, dare (una/la) risposta;0;2;no;yes
+ristorante;4613;concreto;non_animato;;;0;0;no;no
+risultato;31702;astratto;non_animato;;avere il risultato, dare il risultato, dare un risultato, essere risultato, fare risultato;0;5;no;yes
+ritardo;5204;astratto;non_animato;;avere un ritardo, essere in ritardo;0;2;no;yes
+ritorno;38575;astratto;non_animato;;essere di ritorno, fare ritorno;0;2;no;yes
+ritratto;6612;concreto;non_animato;;;0;0;no;no
+riunione;4807;concreto;non_animato;;fare una riunione;0;1;no;yes
+riva;6667;concreto;non_animato;arrivare;;1;0;yes;no
+rivoluzione;17460;astratto;non_animato;rivoluzionare;fare una rivoluzione;1;1;yes;yes
+roba;2314;concreto;non_animato;;;0;0;no;no
+romano;29611;concreto;non_animato;;;0;0;no;no
+rosa;15795;concreto;non_animato;;;0;0;no;no
+rosso;21288;concreto;non_animato;;andare in rosso, essere in rosso;0;2;no;yes
+rumore;4168;astratto;non_animato;rumoreggiare;fare il rumore, fare (un) rumore;1;2;yes;yes
+ruota;6966;concreto;non_animato;ruotare, rotare;;2;0;yes;no
+russo;12314;concreto;non_animato;;;0;0;no;no
+sabato;15578;astratto;non_animato;;;0;0;no;no
+sabbia;4957;concreto;non_animato;sabbiare, insabbiare;;2;0;yes;no
+sacco;5013;concreto;non_animato;insaccare, saccheggiare;;2;0;yes;no
+sacrificio;3960;astratto;non_animato;;fare un/il sacrificio;0;1;no;yes
+sala;17905;concreto;non_animato;;;0;0;no;no
+sale;17479;concreto;non_animato;salare, salificare;;2;0;yes;no
+salto;8799;astratto;non_animato;;fare un/il salto;0;1;no;yes
+salute;16850;astratto;non_animato;;essere in salute;0;1;no;yes
+saluto;2725;astratto;non_animato;;dare il/un saluto, fare un/il saluto;0;2;no;yes
+sangue;18949;concreto;non_animato;sanguinare, insanguinare;;2;0;yes;no
+santo;21085;concreto;non_animato;;fare il santo;0;1;no;yes
+sapore;3842;astratto;non_animato;saporire, assaporare, insaporire;avere un/il sapore, dare (un/il) sapore;3;2;yes;yes
+sasso;2059;concreto;non_animato;;;0;0;no;no
+scala;16676;concreto;non_animato;scalare;;1;0;yes;no
+scambio;8124;astratto;non_animato;;fare un/il scambio;0;1;no;yes
+scarpa;1769;concreto;non_animato;;;0;0;no;no
+scatola;2483;concreto;non_animato;scatolare, inscatolare;;2;0;yes;no
+scelta;31547;astratto;non_animato;;avere (la) scelta, dare la scelta, fare una/la scelta;0;3;no;yes
+scemo;416;astratto;non_animato;;fare il scemo;0;1;no;yes
+scena;31365;concreto;non_animato;inscenare, sceneggiare;andare di scena, andare in scena, essere in scena, fare scena, fare una scena, mandare in scena, mettere in scena;2;7;yes;yes
+scherzo;1883;astratto;non_animato;;fare un/il scherzo;0;1;no;yes
+schiena;3430;concreto;non_animato;schienare;dare la schiena;1;1;yes;yes
+schifo;2229;astratto;non_animato;schifare;essere un schifo, fare schifo;1;2;yes;yes
+scienza;14774;astratto;non_animato;;fare scienza;0;1;no;yes
+sciocchezza;194;astratto;non_animato;;;0;0;no;no
+sconosciuto;3571;astratto;non_animato;;;0;0;no;no
+scopo;30539;astratto;non_animato;;avere (un/il) scopo, dare un scopo;0;2;no;yes
+scritta;17425;concreto;non_animato;;;0;0;no;no
+scuola;49469;concreto;non_animato;;andare a scuola, fare scuola, fare una scuola;0;3;no;yes
+scusa;4697;astratto;non_animato;;dare la scusa, fare la scusa;0;2;no;yes
+secolo;128152;astratto;non_animato;;;0;0;no;no
+sede;52946;astratto;non_animato;;avere (la) sede, essere sede;0;2;no;yes
+sedia;2604;concreto;non_animato;;;0;0;no;no
+sega;1735;concreto;non_animato;;fare una/la sega;0;1;no;yes
+segno;16797;concreto;non_animato;segnare, assegnare, insegnare, significare;andare a segno, dare un/il segno, essere segno, fare un/il segno, mandare a segno, mettere a segno, mettere un segno;4;7;yes;yes
+segreto;10600;astratto;non_animato;;;0;0;no;no
+seguito;123036;astratto;non_animato;;avere seguito, dare (un) seguito;0;2;no;yes
+sensazione;4631;astratto;non_animato;;avere una/la sensazione, dare una/la sensazione, fare sensazione;0;3;no;yes
+senso;44057;astratto;non_animato;;avere (un/il) senso, dare (un/il) senso;0;2;no;yes
+sentimento;4258;astratto;non_animato;;;0;0;no;no
+sera;26417;astratto;non_animato;;;0;0;no;no
+serie;172907;astratto;non_animato;;mettere in serie;0;1;no;yes
+servizio;52633;astratto;non_animato;;essere a servizio, fare il servizio, mettere a servizio, mettere in servizio, prendere a servizio, prendere in servizio, prendere servizio;0;7;no;yes
+servo;1965;concreto;umano;servire, asservire;fare da servo, fare il servo;2;2;yes;yes
+sete;1604;astratto;non_animato;assetare;;1;0;yes;no
+settembre;69244;astratto;non_animato;;;0;0;no;no
+settimana;23493;astratto;non_animato;;;0;0;no;no
+sezione;19590;astratto;non_animato;sezionare;;1;0;yes;no
+sforzo;5467;astratto;non_animato;;fare un/il sforzo, mettere sotto sforzo;0;2;no;yes
+sguardo;6320;astratto;non_animato;;avere il sguardo, dare un sguardo, fare il sguardo;0;3;no;yes
+sicurezza;28284;astratto;non_animato;;avere la sicurezza, dare (la) sicurezza, dare una sicurezza, mettere in sicurezza;0;4;no;yes
+sigaretta;993;concreto;non_animato;;;0;0;no;no
+signora;10577;concreto;non_animato;;;0;0;no;no
+signore;21833;concreto;umano;signoreggiare;essere signore, fare il signore;1;2;yes;yes
+silenzio;7410;astratto;non_animato;silenziare;fare silenzio, mettere sotto silenzio;1;2;yes;yes
+simpatia;2718;astratto;non_animato;simpatizzare;avere in simpatia, avere la simpatia, avere (una) simpatia, prendere in simpatia;1;4;yes;yes
+sindaco;13879;concreto;umano;sindacare;essere sindaco, fare il sindaco;1;2;yes;yes
+sinistra;38071;astratto;non_animato;;;0;0;no;no
+sistema;100566;astratto;non_animato;sistemare;fare sistema, mettere a sistema;1;2;yes;yes
+situazione;38225;astratto;non_animato;;;0;0;no;no
+socialista;8912;concreto;umano;;;0;0;no;no
+società;80087;astratto;non_animato;;fare società, fare una società, mettere in società;0;3;no;yes
+soddisfazione;3085;astratto;non_animato;;avere (la) soddisfazione, dare (una/la) soddisfazione;0;2;no;yes
+sofferenza;4381;astratto;non_animato;;essere in sofferenza;0;1;no;yes
+soggetto;15844;concreto;non_animato;assoggettare;;1;0;yes;no
+sogno;11601;astratto;non_animato;sognare;avere un/il sogno, fare un/il sogno;1;2;yes;yes
+soldato;4880;concreto;umano;;fare il soldato;0;1;no;yes
+soldo;1279;concreto;non_animato;assoldare;fare il soldo;1;1;yes;yes
+sole;28466;concreto;non_animato;soleggiare;prendere il sole;1;1;yes;yes
+solido;3659;concreto;non_animato;;;0;0;no;no
+solitudine;2850;astratto;non_animato;;;0;0;no;no
+soluzione;18906;astratto;non_animato;;dare (una/la) soluzione;0;1;no;yes
+somma;9052;astratto;non_animato;sommare, assommare;;2;0;yes;no
+sonno;3308;astratto;non_animato;assonnare;avere un sonno, prendere sonno;1;2;yes;yes
+sorella;16340;concreto;umano;;essere sorella;0;1;no;yes
+sorpresa;8409;astratto;non_animato;;fare una sorpresa;0;1;no;yes
+sorriso;2853;concreto;non_animato;;avere un sorriso, dare un sorriso, fare un sorriso;0;3;no;yes
+sorte;5769;astratto;non_animato;sortire, assortire, assortire, sorteggiare;avere in sorte;4;1;yes;yes
+sospetto;3331;astratto;non_animato;insospettire;avere il/un sospetto;1;1;yes;yes
+sostanza;9883;astratto;non_animato;sostanziare;dare sostanza;1;1;yes;yes
+spada;8690;concreto;non_animato;;;0;0;no;no
+spalla;3846;concreto;non_animato;spalleggiare;dare la spalla, fare da spalla, fare la spalla;1;3;yes;yes
+spazio;39376;astratto;non_animato;spaziare;avere spazio, dare (un) spazio, fare spazio;1;3;yes;yes
+specchio;4680;concreto;non_animato;specchiare;fare da specchio;1;1;yes;yes
+specie;59332;astratto;non_animato;specificare;;1;0;yes;no
+speranza;10108;astratto;non_animato;;avere (una/la) speranza, dare (una/la) speranza;0;2;no;yes
+spesa;5203;astratto;non_animato;spesare;fare (la) spesa, fare una spesa;1;2;yes;yes
+spettacolo;17074;astratto;non_animato;;dare (un) spettacolo, fare (il) spettacolo;0;2;no;yes
+spia;2279;concreto;umano;;fare da spia, fare la spia;0;2;no;yes
+spiaggia;5919;concreto;non_animato;spiaggiare;;1;0;yes;no
+spiegazione;4045;astratto;non_animato;;avere una spiegazione, dare (una/la) spiegazione;0;2;no;yes
+spirito;17125;astratto;non_animato;;;0;0;no;no
+sporco;1559;astratto;non_animato;;;0;0;no;no
+sport;23504;astratto;non_animato;;fare sport;0;1;no;yes
+sportivo;8169;astratto;non_animato;;;0;0;no;no
+sposa;8564;concreto;umano;sposare;andare sposa;1;1;yes;yes
+squadra;66898;astratto;non_animato;;fare squadra;0;1;no;yes
+stagione;79927;astratto;non_animato;stagionare;;1;0;yes;no
+stalla;1485;concreto;non_animato;stallare;;1;0;yes;no
+stampa;22242;astratto;non_animato;;andare in stampa, essere in stampa, mandare in stampa;0;3;no;yes
+stanza;10973;concreto;non_animato;stanziare;;1;0;yes;no
+stato;347487;astratto;non_animato;;;0;0;no;no
+statua;11508;concreto;non_animato;;;0;0;no;no
+stazione;29919;concreto;non_animato;stazionare;;1;0;yes;no
+stella;28502;concreto;non_animato;stellare, stellare;dare una stella;2;1;yes;yes
+stoffa;1050;concreto;non_animato;;avere la stoffa;0;1;no;yes
+stomaco;2335;concreto;non_animato;stomacare;;1;0;yes;no
+storia;166957;astratto;non_animato;;fare storia;0;1;no;yes
+storico;33190;concreto;umano;;essere storico, fare il storico, fare la storico;0;3;no;yes
+strada;52636;concreto;non_animato;;fare strada, mettere su strada, prendere (la/una) strada;0;3;no;yes
+straniero;3602;concreto;non_animato;instradare;;1;0;yes;no
+straordinario;4746;concreto;non_animato;;;0;0;no;no
+studente;4926;concreto;umano;;essere studente;0;1;no;yes
+studio;50003;astratto;non_animato;studiare;;1;0;yes;no
+stupido;1352;astratto;non_animato;;fare il stupido;0;1;no;yes
+successo;79044;astratto;non_animato;;avere (un/il) successo, essere di successo, fare (un) successo;0;3;no;yes
+sud;51999;astratto;non_animato;;;0;0;no;no
+sufficiente;10440;astratto;non_animato;;;0;0;no;no
+suono;10707;concreto;non_animato;;avere (il/un) suono, fare un suono;0;2;no;yes
+superficie;24025;astratto;non_animato;;venire in superficie;0;1;no;yes
+superiore;34724;astratto;non_animato;;;0;0;no;no
+sviluppo;50403;astratto;non_animato;;essere in sviluppo, mettere in sviluppo;0;2;no;yes
+svizzero;3484;astratto;non_animato;;;0;0;no;no
+tabacco;1692;concreto;non_animato;tabaccare;;1;0;yes;no
+tasca;2042;concreto;non_animato;intascare;mettere in tasca;1;1;yes;yes
+tassa;2011;astratto;non_animato;tassare;mettere una tassa;1;1;yes;yes
+tavola;7399;concreto;non_animato;tavolare, intavolare;essere a tavola;2;1;yes;yes
+tavolo;5643;concreto;non_animato;;;0;0;no;no
+teatro;39062;concreto;non_animato;;andare a teatro, fare teatro;0;2;no;yes
+tecnico;14562;concreto;non_animato;;;0;0;no;no
+tedesco;23634;concreto;non_animato;;;0;0;no;no
+telefono;5657;concreto;non_animato;telefonare;;1;0;yes;no
+temperatura;15353;astratto;non_animato;;avere la temperatura;0;1;no;yes
+tempo;167964;astratto;non_animato;temporeggiare;avere tempo, dare tempo, essere in tempo, prendere tempo;1;4;yes;yes
+tenente;4400;concreto;umano;;fare il tenente;0;1;no;yes
+tenerezza;707;astratto;non_animato;;;0;0;no;no
+tentativo;20074;astratto;non_animato;;fare (il/un) tentativo;0;1;no;yes
+termine;65049;astratto;non_animato;terminare, sterminare, sterminare;andare a termine, avere (il) termine, mettere un termine;3;3;yes;yes
+terra;68306;concreto;non_animato;atterrare, interrare, sterrare;;3;0;yes;no
+terreno;19344;concreto;non_animato;;;0;0;no;no
+tesoro;5569;concreto;non_animato;;fare tesoro;0;1;no;yes
+testa;36319;concreto;non_animato;intestare;andare in testa, avere in testa, essere in testa, mettere in testa;1;4;yes;yes
+tetto;6869;concreto;non_animato;;;0;0;no;no
+timore;3393;astratto;non_animato;intimorire;avere (il/un) timore;1;1;yes;yes
+tipo;72981;astratto;non_animato;tipizzare;;1;0;yes;no
+titolo;74834;astratto;non_animato;titolare, intitolare;avere (il) titolo, dare il titolo, mettere il titolo, prendere il titolo;2;4;yes;yes
+tomba;7735;concreto;non_animato;;;0;0;no;no
+tono;4660;astratto;non_animato;intonare, stonare, tonificare;avere il tono, dare il tono;3;2;yes;yes
+torre;22645;concreto;non_animato;torreggiare;fare da torre;1;1;yes;yes
+torto;1923;astratto;non_animato;;avere (il) torto, dare torto, essere in torto, fare torto;0;4;no;yes
+tramonto;2436;concreto;non_animato;;;0;0;no;no
+tratto;22736;astratto;non_animato;tratteggiare;;1;0;yes;no
+treno;8645;concreto;non_animato;;;0;0;no;no
+tronco;2874;concreto;non_animato;troncare, stroncare;;2;0;yes;no
+trucco;2135;concreto;non_animato;truccare, struccare;;2;0;yes;no
+truppa;1068;concreto;non_animato;;;0;0;no;no
+uccello;3408;concreto;animato;uccellare;;1;0;yes;no
+ufficiale;35286;concreto;umano;;;0;0;no;no
+ufficio;14629;concreto;non_animato;ufficiare;;1;0;yes;no
+uguale;7587;concreto;non_animato;;;0;0;no;no
+umanità;10883;astratto;non_animato;;;0;0;no;no
+umano;16122;astratto;non_animato;;;0;0;no;no
+unghia;292;concreto;non_animato;;;0;0;no;no
+università;45339;concreto;non_animato;;;0;0;no;no
+uomo;76439;concreto;umano;;essere uomo, fare il uomo;0;2;no;yes
+uovo;2827;concreto;non_animato;;;0;0;no;no
+uso;58605;astratto;non_animato;usare, adusare;dare in uso, essere in uso, fare un uso, fare uso, mettere in uso, venire in uso;2;6;yes;yes
+vacanza;3715;astratto;non_animato;;andare in vacanza, fare una vacanza, mandare in vacanza;0;3;no;yes
+valigia;1002;concreto;non_animato;svaligiare;mettere in valigia;1;1;yes;yes
+valle;29560;concreto;non_animato;;;0;0;no;no
+valore;40206;astratto;non_animato;avvalorare, valorizzare;avere (un/il) valore, dare (un) valore, mettere a valore, mettere in valore;2;4;yes;yes
+vantaggio;13917;astratto;non_animato;;andare a vantaggio, andare in vantaggio, avere il vantaggio, dare (il/un) vantaggio, essere a vantaggio, essere in vantaggio;0;6;no;yes
+vaso;2087;concreto;non_animato;invasare, svasare, svasare, svasare;;4;0;yes;no
+vecchio;24968;concreto;non_animato;;;0;0;no;no
+vendetta;5490;astratto;non_animato;;avere vendetta, fare vendetta;0;2;no;yes
+vento;9976;concreto;non_animato;ventilare, avventare, avventare, sventare, sventare;;5;0;yes;no
+verde;17686;concreto;non_animato;;;0;0;no;no
+vergogna;9289;astratto;non_animato;vergognarsi, svergognare, vergognare;essere una vergogna;3;1;yes;yes
+verità;20330;astratto;non_animato;;;0;0;no;no
+vero;49484;astratto;non_animato;;;0;0;no;no
+vestito;4250;concreto;non_animato;;;0;0;no;no
+vetro;5929;concreto;non_animato;vetrificare;;1;0;yes;no
+via;117398;concreto;non_animato;avviare, inviare;dare il via, prendere il via, prendere la via;2;3;yes;yes
+viaggio;25867;astratto;non_animato;viaggiare;essere in viaggio, fare un/il viaggio, mettere in viaggio;1;3;yes;yes
+vicenda;13577;astratto;non_animato;avvicendare;;1;0;yes;no
+vicino;33907;astratto;non_animato;;;0;0;no;no
+vigliacco;212;astratto;non_animato;;;0;0;no;no
+villa;25588;concreto;non_animato;villeggiare;;1;0;yes;no
+vino;9972;concreto;non_animato;svinare, vinificare;;2;0;yes;no
+violenza;13167;astratto;non_animato;;fare violenza;0;1;no;yes
+visita;13128;astratto;non_animato;;andare in visita, essere in visita, fare (una) visita;0;3;no;yes
+viso;4321;concreto;non_animato;avvisare, svisare;;2;0;yes;no
+vista;53005;astratto;non_animato;avvistare;avere in vista, essere in vista, mettere in vista;1;3;yes;yes
+vita;160488;astratto;non_animato;;avere vita, dare vita, essere in vita, fare (una) vita, mettere in vita, prendere vita;0;6;no;yes
+vittima;9031;astratto;non_animato;vittimizzare;essere vittima, fare la vittima;1;2;yes;yes
+vittoria;37830;astratto;non_animato;;;0;0;no;no
+voce;32170;astratto;non_animato;vociare;avere voce, dare voce;1;2;yes;yes
+voglia;10660;astratto;non_animato;invogliare;avere (la/una) voglia, avere voglia;1;2;yes;yes
+volo;19424;astratto;non_animato;;essere in volo, fare un volo, prendere il volo;0;3;no;yes
+volontà;16173;astratto;non_animato;;avere (la/una) volontà;0;1;no;yes
+volta;148849;astratto;non_animato;volteggiare;;1;0;yes;no
+volto;9849;concreto;non_animato;;dare volto;0;1;no;yes
+voto;12942;astratto;non_animato;votare;dare il voto, fare (un/il) voto;1;2;yes;yes
+vuoto;7851;astratto;non_animato;;;0;0;no;no
+zia;2772;astratto;non_animato;;;0;0;no;no
+zio;8960;concreto;umano;;;0;0;no;no
