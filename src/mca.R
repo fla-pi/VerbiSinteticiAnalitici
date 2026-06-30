@@ -173,9 +173,9 @@ df_mca_numeric <- df_mca_check %>%
   mutate(across(all_of(semfield_cols), ~as.numeric(as.character(.))))
 
 top_semfields <- df_mca_numeric %>%
-  summarise(across(all_of(semfield_cols), sum, na.rm = TRUE)) %>%  # Somma delle colonne semfield_cols
-  pivot_longer(cols = all_of(semfield_cols), names_to = "SemField", values_to = "count") %>%  # Trasformazione in formato lungo
-  arrange(desc(count)) %>%  # Ordinamento per conteggio decrescente
+  summarise(across(all_of(semfield_cols), sum, na.rm = TRUE)) %>%  
+  pivot_longer(cols = all_of(semfield_cols), names_to = "SemField", values_to = "count") %>%  
+  arrange(desc(count)) %>%  
   slice_head(n = 10)
 
 top_semfields
