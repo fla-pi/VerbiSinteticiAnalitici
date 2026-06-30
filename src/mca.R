@@ -35,10 +35,10 @@ df <- df %>%
 
 
 df_mca <- df %>%
-  select(group, nome, starts_with("SemField")) %>%  # Seleziona 'group', 'nome', e le colonne 'SemField'
+  select(group, nome, starts_with("SemField")) %>% 
   pivot_longer(cols = starts_with("SemField"), names_to = "sem_field", values_to = "category") %>%
-  filter(!is.na(category) & category != "") %>%  # Rimuove NA e categorie vuote
-  distinct(group, nome, category) %>%  # Ogni combinazione unica di 'group', 'nome' e 'category'
+  filter(!is.na(category) & category != "") %>%  
+  distinct(group, nome, category) %>%  
   mutate(presence = 1) %>%
   pivot_wider(names_from = category, values_from = presence, values_fill = list(presence = 0))
 
@@ -64,14 +64,14 @@ res_mca <- MCA(df_mca_filtered %>% select(-c(group,nome)))
 
 fviz_mca_ind(res_mca, 
              geom = c("point"),
-             col.ind = df_mca_filtered$group,  # Colora i punti in base al gruppo
-             palette = c("red",  "purple", "grey", "blue"),  # Definisci i colori
-             addEllipses = FALSE,  # Aggiungi ellissi per i gruppi
+             col.ind = df_mca_filtered$group,  
+             palette = c("red",  "purple", "grey", "blue"), 
+             addEllipses = FALSE, 
              ellipse.type = "t",
-             label = df_mca_filtered$nome,  # Sostituisci le etichette con 'nome'
-             legend.title = "Group",  # Titolo della legenda
-             title = "MCA - Individui e Variabili con Nomi",  # Titolo del grafico
-             axes = c(1, 2))  # Titolo del grafico
+             label = df_mca_filtered$nome,  
+             legend.title = "Group",  
+             title = "MCA - Individui e Variabili con Nomi",  
+             axes = c(1, 2)) 
 
 
 
