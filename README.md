@@ -4,7 +4,7 @@ Dati e codici utilizzati nell'articolo _Strategie di verbalizzazione a confronto
 Di seguito è illustrato il contenuto dei file e dei codici.
 Al link [https://fla-pi.shinyapps.io/verbi-analitici-e-sintetici/](https://fla-pi.shinyapps.io/verbi-analitici-e-sintetici/) è possibile visualizzare interattivamente gli embeddings ottenuti con word2vec (vd. 4) dei predicati analitici e sintetici analizzati.
 
-## 1. Dataset
+## Dataset
 1. [verbi_sintetici.csv](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/data/verbi_sintetici.csv): contiene la lista di verbi sintetici raccolta in Iacobini & De Rosa (2024).
 2. [nomi.csv](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/data/nomi.csv): contiene la lista dei nomi del VdB, utilizzate per raccogliere i verbi sintetici, e successivamente i pattern analitici.
 3. [verbi_sintetici_freqs.csv](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/data/verbi_sintetici_freqs.csv): contiene la frequenza in Paisà dei verbi raccolti in [verbi_sintetici.csv](https://github.com/fla-pi/VerbiSinteticiAnalitici/blob/main/data/verbi_sintetici.csv).
