@@ -1,0 +1,1583 @@
+verbo;tipo;processo_formativo_process;processo_formativo_schema;processo_formativo_pattern;processo_formativo_pattern_semispec;processo_formativo_vsupp;cluster;sinonimia;x;y
+sciacquare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.3717556;10.789218
+aleggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.792742;11.316611
+albeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.620997;11.613922
+albergare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.9170256;10.916385
+alberare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.574765;11.918801
+inalberare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.111366;11.625303
+ambientare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.2054687;10.223752
+amoreggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.122324;12.087646
+inanellare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.8634996;9.988349
+angolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.5055833;9.428796
+animare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.162352;10.432053
+architettare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.221057;11.016912
+inarcare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.0838284;11.601868
+archeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.523389;12.049289
+argomentare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.7071261;9.92401
+arieggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.806697;11.618184
+armare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.9282107;9.980031
+armeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.419277;11.245378
+articolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7960916;9.466742
+assassinare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.1088443;6.45714
+attenzionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.427655;9.924423
+atteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;4.6484637;11.57452
+avventurare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7365055;11.414283
+azionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.3336434;9.639438
+baciare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.1864905;12.024604
+bagnare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.9605055;11.53383
+sbancare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.0358944;9.946296
+imbandierare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.075832;11.613609
+sbandierare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.918335;11.384806
+barbare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.07914;11.529632
+sbarbare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;ha_sinonimi;6.7756906;11.337322
+basare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.082875;9.889444
+battagliare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.4510174;10.824996
+bisognare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.243973;9.669303
+abbisognare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.805237;9.287676
+boccare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.672003;11.354017
+abboccare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.8809056;11.223635
+imboccare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.519389;12.17003
+sboccare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.772754;11.848992
+boccheggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.427568;11.82855
+bordare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.26804;11.489106
+abbordare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.0181923;11.443377
+bordeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.6914964;11.897186
+sborsare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.3392425;8.580071
+borseggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.492536;12.134918
+imboscare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.3652387;11.305681
+imbottigliare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;7.110713;10.509181
+abbracciare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.0630054;11.6442
+imbracciare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.5066633;11.3377285
+sbracciarsi;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.3551145;11.3793955
+calciare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.092159;11.070052
+scalciare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;ha_sinonimi;6.1665454;11.254759
+calcificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.275954;10.6527815
+calmare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.332103;11.436059
+calzare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.82822;10.606783
+incalzare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.2611113;11.570117
+scalzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.572105;10.4275055
+incamerare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.1986513;8.858542
+incamiciare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.9893165;10.230425
+camminare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.9637284;11.856288
+incamminare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.9080586;11.780345
+campionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.0233874;9.258973
+campare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.230724;10.616276
+campare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.221557;10.616476
+campire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;6.973909;10.006519
+campire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;6.931935;9.985543
+accampare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;5.346773;10.920285
+scampare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.5271664;11.067989
+campeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.972474;11.902924
+campeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.981259;11.923638
+incanalare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.885953;9.364643
+scanalare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4595137;11.798654
+scanalare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4673667;11.808431
+canalizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.7163696;9.409816
+canzonare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.218156;11.479784
+capitalizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.2613177;8.648635
+capitanare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;3.568287;11.443608
+capeggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;3.5081162;11.486644
+scappellare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.1770344;11.141722
+caratterizzare;sintetico;Suffissazione;izzare;;;;unknown;ha_sinonimi;5.73322;9.567066
+carbonare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.715109;10.620929
+carbonizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;7.215485;10.088498
+carcerare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;2.9691854;6.5818443
+incarcerare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;3.0211518;6.541277
+scarcerare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;2.9416897;6.5888863
+incarnare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.640189;11.475796
+incarnire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;6.944404;10.925878
+incarognire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;6.2416015;11.129395
+carrozzare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.1627436;10.264752
+scarrozzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.1701965;10.278565
+incartare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.416632;9.006036
+scartare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.137626;9.173292
+scartare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.183117;9.192924
+accasare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;0.20017946;7.301497
+incatenare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.0975733;11.273649
+scatenare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.1556377;10.923716
+causare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.3156567;10.711046
+accavallare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.7807517;12.236495
+scavallare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.720247;12.287804
+scavallare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.698189;12.304608
+scavallare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.7417083;12.294455
+cenare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5715904;12.055477
+centrare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.841218;9.994281
+accentrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.5836945;10.112334
+incentrare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.117703;10.028239
+chiavare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.362414;11.067973
+cibare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.1349807;11.052763
+cifrare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.3370767;9.409212
+cimare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.03421;11.234184
+classificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;6.0345826;9.811096
+acclimare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.9774823;10.7104
+acclimatare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.9930882;10.702074
+climatizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.5943027;9.710099
+accodare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.654408;11.428094
+scodare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.786902;11.352561
+scodare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.7408967;11.332636
+scollinare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.7177377;12.233608
+accollare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.351902;8.606282
+scollare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.127975;11.250943
+colorare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;7.337174;10.609363
+colorire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;7.0812206;10.436608
+scolorare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.335103;10.806432
+scolorire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;7.362028;10.756891
+incolpare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;4.4295444;11.0865965
+scolpare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.5514894;10.975923
+colpire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;5.467942;11.017896
+scolpire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;7.158141;11.94106
+accoltellare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;2.9456277;6.553134
+commerciare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.3377285;10.214293
+accompagnare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.477547;11.612429
+scompagnare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.701121;11.459577
+complessare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.7412257;9.840641
+complimentare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.2162457;11.389106
+condizionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.244515;9.604087
+confessare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.332728;11.230959
+sconfessare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;3.6693892;10.284274
+confinare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.9426427;10.798124
+sconfinare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.881035;10.863187
+consigliare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.363414;9.896301
+sconsigliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.6063366;9.991243
+contattare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.0326905;10.08742
+contrattare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.8673263;10.168913
+incoraggiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;4.7255583;10.067295
+scoraggiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.6148787;10.087452
+incornare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.3444996;11.159212
+scornare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.248243;11.1474495
+scornare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.1875467;11.127232
+cornificare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;6.4338512;10.934827
+accorpare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.190737;9.180856
+corteggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.0943866;12.057929
+accostare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.06121;10.091956
+scostare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.3010783;9.622667
+costeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.5040298;12.168746
+incrociare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;6.2055793;10.0789795
+cucinare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.537337;10.567358
+accorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.375357;11.526766
+scorare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.7635236;11.497704
+curare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.880434;9.784322
+custodire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;4.814513;9.367881
+dannare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.7499876;11.507189
+danneggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.667745;10.962559
+addebitare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.336205;8.596176
+indebitare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.231513;8.5162735
+sdebitare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.214857;8.565096
+addentare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;7.1099687;10.992518
+indentare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.214364;9.79044
+sdentare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.1093235;11.043268
+differenziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.692377;9.44311
+dimensionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.4343104;9.379661
+deificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;4.77957;11.493881
+direzionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.169665;9.627075
+distanziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.2632093;9.61393
+additare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.614751;11.427824
+documentare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.2759614;9.609136
+dolorare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.8150263;11.446523
+addolorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.930432;11.66624
+dotare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7477365;9.493478
+addottorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.177158;10.16676
+dubitare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;3.6182337;10.061255
+emozionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.8442597;11.604003
+entusiasmare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.5151114;11.384175
+esaminare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.1467066;9.829003
+esemplificare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.3826046;9.85185
+esiliare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;3.209006;6.414467
+fabbricare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.3565025;10.177534
+affaccendare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.687761;12.14167
+sfaccendare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.138007;11.943971
+affacciare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.44287;12.193591
+affamare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.966752;11.227178
+sfamare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.119467;11.194562
+fascistizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;2.4240677;12.193814
+infastidire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;ha_sinonimi;4.527213;12.084018
+faticare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.224033;10.372448
+affaticare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.8416;11.350849
+favorire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;5.0399456;9.503311
+favoreggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;2.9185739;6.7505946
+ferrare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.430679;10.630286
+afferrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.4161887;11.398063
+sferrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.5147166;11.162751
+sferrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.518539;11.135845
+festeggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;4.441184;10.76256
+fiancare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.8750095;11.844095
+affiancare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;5.489942;11.616915
+sfiancare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.7501845;11.505138
+fiancheggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.653021;12.096806
+fiatare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5257044;11.684957
+affiatare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.4214435;11.71755
+sfiatare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.7001796;11.669839
+figliare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.220287;11.858481
+figurare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.407903;8.707295
+sfigurare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.9244432;11.095156
+sfilare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.1140676;11.645703
+filmare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5162272;10.056759
+filare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.8459063;10.73778
+affilare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;7.1317983;11.367011
+infilare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.727309;10.626857
+sfilare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.0824375;11.616697
+finire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;5.4985867;10.358388
+fiorire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;8.060493;10.914973
+affiorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.650204;11.210256
+affiorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.615397;11.216839
+affiorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.6392226;11.204601
+infiorare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.617841;10.916227
+sfiorire;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;8.051086;10.898867
+sfiorire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;8.080897;10.885886
+sfiorire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;8.086444;10.897813
+fogliare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.6018276;10.981472
+sfogliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.490795;8.980909
+sfogliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.453838;8.978156
+sfogliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.441635;8.998822
+affollare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.0341134;11.986226
+fondare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.200443;9.8453045
+affondare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;6.0544133;11.181651
+sfondare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.5731115;11.135896
+sfondare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.6310253;11.095932
+formare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.363096;9.758617
+informare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;3.9426613;10.137341
+informare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;3.9891765;10.095575
+sformare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.138724;10.392287
+formulare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.8667185;9.917835
+forzare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.2408557;10.209056
+sforzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.612699;10.08099
+sforzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.6632094;10.068318
+sforzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.716352;10.067728
+fotografare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.830631;10.286664
+fraseggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.429585;11.594667
+affratellare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.823541;11.287362
+affrettare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.0915985;10.275686
+affrontare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.021995;10.710418
+fruttare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.408381;8.623889
+sfruttare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.543495;9.325692
+sfruttare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.5294657;9.28273
+fruttificare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;7.7316117;11.020782
+fugare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.284956;9.962577
+fumare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.325496;12.053994
+sfumare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;ha_sinonimi;7.5044494;10.458009
+funzionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.4571066;9.430121
+infuocare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;5.655346;11.301704
+sfocare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4481707;10.430239
+sfocare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4531884;10.444428
+sgambare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.186515;10.583934
+sgambare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.223475;10.552097
+gambizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.265693;11.37082
+gareggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.709401;10.065622
+generare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.1405315;9.3858385
+ingenerare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.503058;9.764481
+gestire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;4.7785845;9.255409
+ghiacciare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.734368;11.625332
+agghiacciare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.9697037;11.207093
+giocare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.6916223;10.188963
+gioire;sintetico;Conversione;ire;;;;unknown;ha_sinonimi;4.581966;11.52918
+aggiornare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.3169503;9.102962
+aggiornare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.3576474;9.18389
+girare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5180116;10.081978
+giustiziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.076408;6.441335
+gloriare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.635159;11.488763
+glorificare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;4.595366;11.465309
+gocciare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.2131424;10.95975
+golare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.396754;11.552333
+golare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.394651;11.540465
+gommare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.230498;10.408975
+sgommare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.1418037;10.399467
+sgommare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.2042847;10.452863
+sgommare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.2039723;10.475467
+graduare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.0990047;9.367899
+gradire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;4.5115557;10.8914175
+aggradare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.9444404;10.806524
+granire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;7.0420156;10.275996
+granire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;7.0973873;10.333734
+ingranare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.3433595;10.011328
+ingranare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.3561473;9.975628
+sgranare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.462691;10.200979
+sgranare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.478269;10.23228
+graziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.782886;10.745336
+aggraziare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.725385;11.048055
+ingraziare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.7219796;11.099306
+aggruppare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;6.058262;9.490834
+guaire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;5.6130924;11.291871
+inguaiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;5.292175;10.864379
+agguerrire;sintetico;Parasintesi+DoppioStadioDerivativo;ad_ire;;;;unknown;no_sinonimi;0.48993078;8.755899
+guerreggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;4.8916807;10.905513
+ideare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.9995303;9.848873
+immaginare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.0080204;11.303831
+impressionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.4473414;11.415445
+iniziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.3089056;9.898257
+interessare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.963148;9.888403
+isolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.908032;10.605768
+slabbrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.10724;10.923948
+lacrimare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.038324;11.237233
+allagare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.6267405;11.712996
+allattare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.645603;11.734048
+lavorare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.006867;9.964548
+legnare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.4707994;10.595124
+allettare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.9065804;10.274785
+limitare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.063983;9.74695
+lineare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.409282;9.458799
+allineare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;6.323944;9.586186
+listare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.230254;9.238149
+lunare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.645902;9.754076
+allunare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.428725;9.889644
+allunare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.483858;9.980443
+locare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.53255;9.878512
+macchiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.078524;10.961787
+smacchiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.041481;10.948329
+smacchiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.9300547;11.056183
+macchinare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.438049;10.083122
+ammaestrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.2604966;10.984385
+smagliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.7189064;10.936862
+smagliare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.789179;10.943437
+ammalare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.455577;9.019911
+smammare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.4208694;10.995927
+maneggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.5775757;10.420645
+ammarare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;6.1735735;10.904857
+mareggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.507256;11.402008
+maritare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.394211;11.928455
+maschiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.2318406;11.164902
+ammassare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.077698;10.743513
+massificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;5.982418;9.837602
+medicare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.6040044;9.514719
+smembrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.124221;9.345318
+memorizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.539837;9.327351
+meravigliare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.295522;11.545333
+ministrare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.1888003;10.226735
+amministrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.5701504;9.08191
+misurare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.149042;9.227357
+modellare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.8654833;10.140662
+modificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;5.326017;9.176691
+ammogliare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;5.4092894;11.772642
+montare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.160629;9.8917465
+ammontare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.4398966;8.615697
+smontare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.190711;9.924817
+mortificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;5.810426;10.838813
+motivare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.2345257;9.797919
+motorizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;6.049698;10.221989
+movimentare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.9790783;9.381238
+ammucchiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.2869053;10.926674
+murare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.951344;11.996639
+musicare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.7738514;10.566613
+snaturare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.0967364;9.55039
+annebbiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;7.2074733;11.1398325
+snebbiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.3401456;11.017503
+necessitare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.9661117;9.428952
+negoziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.776736;10.481697
+innervare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.118064;10.71692
+snervare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.874876;10.683177
+annoiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.71204;11.668802
+nomare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.4848585;10.090727
+nominare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.465864;10.292383
+annottare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.6381054;11.761273
+numerare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5627604;9.286185
+annuvolare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.556333;11.22688
+occasionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.7630453;10.033611
+oculare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.4232717;10.620145
+adocchiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.29838;12.125958
+inoculare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.327323;10.693232
+occhieggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.813943;11.657577
+odiare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.650444;11.613359
+odorare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;7.505536;10.87462
+oliare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.124207;10.501094
+ombrare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7276;11.007078
+adombrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;4.3413105;10.399268
+ombreggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;6.8976617;11.619885
+inondare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.694322;11.580629
+ondeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.8356886;11.665857
+onorare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.434128;10.687341
+operare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.206242;9.75923
+adoperare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.9813004;9.7755165
+ordinare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.31959;9.766196
+orecchiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.0870094;11.376053
+orare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.8035784;10.143587
+ospedalizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;4.455786;8.976942
+ospitare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.6281233;9.553688
+ossificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.2609863;10.705877
+impaccare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.1267314;10.297755
+pacificare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;4.8455048;10.727012
+impaginare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.2712326;9.051847
+appaiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.563629;9.974896
+spaiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.4603634;9.896618
+pallare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.288107;10.995544
+impallare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;6.175329;11.030963
+palleggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.0601997;11.165134
+impanare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;7.5920987;10.467517
+panificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.248249;10.460364
+parcare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7118945;10.106867
+apparentare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.640346;10.608804
+imparentare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;3.5497975;11.950989
+impartire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;4.001072;10.198024
+spartire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;5.123588;10.518926
+spartire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;no_sinonimi;5.1121964;10.521617
+partire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;5.3938484;9.824413
+appartare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.7677374;12.063003
+parteggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;4.3108497;11.091167
+appassionare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.5219207;11.210548
+passare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.6501436;10.058364
+passeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.883605;12.104091
+patteggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;2.9678984;6.7930446
+impaurire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;ha_sinonimi;4.780487;12.183703
+spaurire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;ha_sinonimi;4.9275637;12.214787
+spaurire;sintetico;Parasintesi+DoppioStadioDerivativo;s_ire;;;;unknown;ha_sinonimi;4.885587;12.189425
+spellare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.7597365;10.866245
+spelare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.777724;10.937723
+pelare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.731476;10.903283
+spelare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.8195276;10.96051
+spelare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.842881;10.962442
+penare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.046518;10.551673
+impensierire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;0.27766812;8.7465925
+pensionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;-0.57552004;8.068305
+pericolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.503609;10.726079
+periodare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.651647;9.644309
+periodizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;5.8965073;9.622889
+impersonare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.51878;11.540812
+personificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;4.662768;11.531235
+pescare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.781433;11.0544
+pesare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.6026564;8.747367
+spesare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.4295683;8.6685505
+appezzare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.4812946;10.545585
+spezzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;ha_sinonimi;5.8329124;11.129534
+pianificare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;4.522923;9.555704
+piantare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.522773;10.587496
+spiantare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.492389;10.482589
+impiantare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.3751545;10.309315
+impiattare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.4306746;9.940792
+piazzare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.0933666;9.908304
+spiazzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.930501;11.650168
+spiazzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.981288;11.601456
+appiedare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.860637;10.4837055
+impietrire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;4.9148264;12.2204895
+poetare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.2876635;10.329141
+impolverare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;7.7472486;10.414114
+spolverare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.764689;10.39746
+spolverare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.765425;10.487444
+polverizzare;sintetico;Suffissazione;izzare;;;;unknown;no_sinonimi;7.174842;10.00615
+popolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.164931;10.564192
+impopolare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.4413624;11.072757
+spopolare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.198275;10.746151
+spopolare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.160998;10.858593
+posizionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;6.1719284;9.814339
+postare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.1322794;9.604789
+impostare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.7530293;9.391259
+posteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.3373394;12.106912
+postare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.037406;9.66632
+impostare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.815571;9.3983135
+posteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.358795;12.124699
+potenziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.4798036;9.181461
+pranzare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.708582;12.076015
+praticare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.1314545;9.906183
+impratichire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;4.829961;10.086158
+premiare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.712215;10.395619
+presenziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.848082;10.360659
+pretare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.805817;10.520532
+prezzare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.935752;10.184201
+apprezzare ;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.550189;11.141056
+sprezzare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.720765;11.451205
+imprigionare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;3.1219249;6.4163184
+sprigionare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.9636426;9.531063
+principare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.1574183;10.4898
+principiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.387479;10.366927
+processare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;2.9902883;6.7548475
+processare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;2.993521;6.7200727
+profumare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;7.5823;10.816144
+progettare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.9611073;9.544639
+programmare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.243926;9.550251
+spropositare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.669118;9.88662
+impugnare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.5281367;11.35036
+puntare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.713949;10.114261
+appuntare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.332321;10.642275
+appuntire;sintetico;Parasintesi+DoppioStadioDerivativo;ad_ire;;;;unknown;no_sinonimi;7.5096674;11.702528
+impuntare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.179464;10.727713
+spuntare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.7898684;10.388511
+spuntare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.9140463;10.350579
+spuntare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.864393;10.392548
+spuntare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.837445;10.36716
+puntare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7426696;10.143071
+appuntare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.351844;10.714285
+punteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;7.332439;11.507784
+quadrare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.45393;11.806652
+inquadrare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.840283;9.456444
+squadrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.5155826;11.838594
+squadrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4869733;11.841467
+acquartierare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.2260876;10.838515
+questionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.4779367;9.739686
+arrabbiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.5345483;11.932498
+radiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.268102;9.654589
+radiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.2993875;9.658237
+irradiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.916362;9.494175
+irradiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.9429536;9.441582
+raggiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.002002;9.753594
+irraggiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.978646;9.482282
+ragionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.385337;10.156601
+sragionare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.7564535;10.767333
+ramare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.2953568;10.797657
+ramificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.7154098;11.08892
+regnare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.9360113;10.724012
+regolare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.2370195;9.634709
+relazionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.4325175;9.76406
+rischiare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.298168;10.708094
+arrischiare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.3793526;11.053211
+rispettare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.756122;9.618152
+arrivare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.7136807;10.114621
+rivoluzionare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.827716;9.219294
+rumoreggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.223049;12.073935
+ruotare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.389009;9.585956
+sabbiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.302686;10.634534
+insabbiare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.914146;11.118017
+insaccare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.675322;10.825846
+saccheggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.1114993;10.904964
+salare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.4940577;10.840667
+salificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;6.182729;10.153052
+sanguinare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.020816;11.184504
+insanguinare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.90963;11.166663
+saporire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;7.579937;10.50167
+assaporare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;7.5932794;10.551075
+insaporire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;7.681133;10.506632
+scalare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.3919168;9.541214
+scatolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.8343625;10.0242405
+inscatolare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.9735494;10.12633
+inscenare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;4.368919;11.072548
+sceneggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;4.7341194;10.541046
+schienare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.0111995;11.4781685
+schifare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.507826;11.522466
+segnare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.6943817;9.99772
+assegnare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.100339;9.483853
+insegnare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.124785;10.264587
+significare;sintetico;Suffissazione;ificare;;;;unknown;ha_sinonimi;5.706647;9.7832985
+servire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;5.1056356;9.4745245
+asservire;sintetico;Parasintesi+DoppioStadioDerivativo;ad_ire;;;;unknown;no_sinonimi;4.3756504;9.308117
+assetare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.0211325;11.315196
+sezionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.3412013;9.503475
+signoreggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.13977;11.95978
+silenziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.607618;9.35144
+simpatizzare;sintetico;Suffissazione;izzare;;;;unknown;ha_sinonimi;2.4822803;11.996879
+sindacare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.459479;10.282132
+sistemare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.175521;9.922022
+assoggettare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;4.5197687;9.105807
+sognare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.6033945;11.567341
+assoldare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;3.611156;11.387001
+soleggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.907543;11.711897
+sommare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.8988013;8.998925
+assommare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.5477138;8.687318
+assonnare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;7.265272;11.387122
+sortire;sintetico;Conversione;ire;;;;unknown;no_sinonimi;4.281818;9.517712
+assortire;sintetico;Parasintesi+DoppioStadioDerivativo;ad_ire;;;;unknown;no_sinonimi;6.6902676;9.946868
+assortire;sintetico;Parasintesi+DoppioStadioDerivativo;ad_ire;;;;unknown;no_sinonimi;6.739563;9.9678955
+sorteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.656844;10.175291
+insospettire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;4.446613;12.052583
+sostanziare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.3669434;9.721116
+spalleggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;3.9456074;11.50083
+spaziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.3258166;9.925093
+specificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;5.1636643;9.393047
+spesare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.420856;8.657881
+spiaggiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.334264;11.390596
+sposare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;0.22189264;13.371156
+stagionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.415215;10.602789
+stallare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.179723;10.098951
+stanziare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.3957095;10.634586
+stazionare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.8512907;10.491174
+stellare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.74612;9.534254
+stellare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.7221;9.484847
+stomacare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.192471;10.858564
+instradare;sintetico;;;;;;unknown;no_sinonimi;5.296742;9.513139
+studiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.368649;10.158795
+tabaccare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.3676867;12.143965
+intascare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;5.3865356;8.504744
+tassare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.1521134;8.792273
+tavolare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.350784;10.16782
+intavolare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.8829436;10.416074
+telefonare;sintetico;Conversione;are;;;;unknown;no_sinonimi;3.9309735;10.246917
+temporeggiare;sintetico;Suffissazione;eggiare;;;;unknown;ha_sinonimi;5.0849476;11.751976
+terminare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.54501;10.008085
+sterminare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.7709146;11.12757
+sterminare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.765868;11.120588
+atterrare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.10969;10.797778
+interrare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.7336326;12.173342
+sterrare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.5893726;12.24042
+intestare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.3591394;8.711684
+intimorire;sintetico;Parasintesi+DoppioStadioDerivativo;in_ire;;;;unknown;no_sinonimi;4.6822233;12.007339
+tipizzare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;4.7803273;9.366341
+titolare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.31778;10.248707
+intitolare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;ha_sinonimi;4.983457;10.015416
+intonare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;5.4456077;11.555734
+stonare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.3593903;11.497028
+tonificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.061216;10.492396
+torreggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.512671;11.522742
+tratteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;4.744387;11.345467
+troncare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.8980594;10.521957
+stroncare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.2682457;10.802735
+truccare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.774212;10.892792
+struccare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.008251;10.904205
+uccellare;sintetico;Conversione;are;;;;unknown;no_sinonimi;7.3487096;10.965921
+ufficiare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.1605363;10.215631
+usare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.5410357;9.693853
+adusare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.649699;10.633166
+svaligiare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;5.543223;12.1908245
+avvalorare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;3.7478375;9.785914
+valorizzare;sintetico;Suffissazione;izzare;;;;unknown;ha_sinonimi;5.300566;9.60965
+invasare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;6.185766;11.1121645
+svasare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.5316396;11.723694
+svasare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.477296;11.69822
+svasare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;7.4805217;11.704048
+ventilare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.694309;9.654535
+avventare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.4979715;11.313565
+avventare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.5160847;11.260381
+sventare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.2827835;11.0505
+sventare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.2687836;11.003122
+vergognarsi;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.0643587;11.768315
+svergognare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.2184763;11.677125
+vetrificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.2341166;10.082755
+avviare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;ha_sinonimi;5.211689;9.820062
+inviare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.559458;9.823479
+viaggiare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;5.808516;11.577059
+avvicendare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;5.3455367;11.88913
+villeggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;5.943426;12.119713
+svinare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.4173703;10.412332
+vinificare;sintetico;Suffissazione;ificare;;;;unknown;no_sinonimi;7.165636;10.473223
+avvisare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;3.9922118;10.222683
+svisare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;4.320608;10.334628
+avvistare;sintetico;Parasintesi+DoppioStadioDerivativo;ad_are;;;;unknown;no_sinonimi;6.2710266;11.22679
+vociare;sintetico;Conversione;are;;;;unknown;no_sinonimi;5.7695436;11.78044
+invogliare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.6780677;10.138995
+volteggiare;sintetico;Suffissazione;eggiare;;;;unknown;no_sinonimi;6.7021856;11.629673
+votare;sintetico;Conversione;are;;;;unknown;ha_sinonimi;4.9738812;10.360442
+innamorare;sintetico;Parasintesi+DoppioStadioDerivativo;in_are;;;;unknown;no_sinonimi;4.805411;12.08674
+rotare;sintetico;Conversione;are;;;;unknown;no_sinonimi;6.3970485;9.594538
+smammare;sintetico;Parasintesi+DoppioStadioDerivativo;s_are;;;;unknown;no_sinonimi;6.381243;11.042269
+vergognare;sintetico;Conversione;are;;;;unknown;no_sinonimi;4.194575;11.7180605
+essere di abitudine;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;1.9200739;10.039005
+essere di accordo;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;2.4278865;9.875092
+essere in accordo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.5970976;9.709477
+mettere in accordo;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.4846315;9.677914
+fare acqua;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.0800859;9.611763
+mettere in acqua;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.426105;9.407336
+dare un addio;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;0.7300545;11.277837
+essere in affare;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.8081589;9.374859
+fare il affare;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.8083807;12.1964035
+mettere in affare;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.1373787;9.408257
+fare da agente;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.4108019;13.406123
+fare agricoltura;analitico;;;VN;VN;fare;unknown;no_sinonimi;6.8285666;10.362196
+andare in aiuto;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.6158951;9.866771
+essere di aiuto;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;1.9272333;9.86064
+essere di aiuto;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;1.9371376;9.899485
+fare il americano;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6433566;12.034021
+essere in amicizia;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.47086185;9.463605
+fare amicizia;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.03707779;10.612321
+fare da amico;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3617196;13.399989
+fare il amico;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6071242;12.084396
+essere sotto amministrazione;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.0771084;7.669052
+dare amore;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.4671949;11.420321
+essere in amore;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.57984895;9.120837
+fare da anello;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.4019604;13.39305
+dare anima;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.2739396;11.169497
+avere in animo;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.7866497;9.637127
+essere in ansia;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.5460738;9.153401
+mettere in ansia;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.1949162;9.4699745
+avere il argomento;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.7696295;10.188535
+dare aria;analitico;;;VN;VN;dare;unknown;no_sinonimi;6.4458575;10.215403
+prendere aria;analitico;;;VN;-;prendere;unknown;no_sinonimi;3.2547529;10.865186
+fare arte;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.36849368;12.397998
+essere artista;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.4945115;12.485134
+fare il artista;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.5492831;12.324744
+dare un aspetto;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;1.0645237;11.214499
+avere un atteggiamento;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;1.6943233;10.174712
+essere in atteggiamento;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.748138;9.038822
+avere attenzione;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.8290846;9.746661
+dare attenzione;analitico;;;VN;VN;dare;unknown;no_sinonimi;4.01193;9.790603
+fare attenzione;analitico;;;VN;VN;fare;unknown;no_sinonimi;4.0267544;9.751401
+essere in attesa;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6379803;8.593157
+mettere in attesa;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.6371135;8.953483
+essere in attività;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.7512897;8.867493
+fare attività;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.8634882;9.731436
+mettere in attività;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.7398314;9.082154
+avere in atto;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.8242848;9.037498
+dare atto;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.8037593;9.818556
+mettere in atto;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.8066183;9.119164
+prendere atto;analitico;;;VN;-;prendere;unknown;no_sinonimi;3.5968716;9.903057
+essere attore;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.4802033;12.660752
+fare il attore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.44166178;12.351929
+avere autorità;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.630563;11.013392
+fare il avversario;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.826196;11.5169
+andare in azione;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.6915284;9.498009
+mandare in azione;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;1.7154133;9.445176
+mettere in azione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.7799766;9.3665695
+andare in bagno;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.08083769;10.360847
+mettere a bagno;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;0.91167253;9.736332
+avere in ballo;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.5997901;9.602683
+essere in ballo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.45884275;9.478365
+fare un ballo;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.20844847;10.93446
+mettere in ballo;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.6638386;9.563773
+fare il bambino;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.60965097;12.03239
+avere una base;analitico;;;VDetN;V det_indef N;avere;unknown;ha_sinonimi;2.9380114;8.91152
+andare in battaglia;analitico;;;VPrepN;V in N;andare;unknown;ha_sinonimi;0.3686737;10.055759
+mandare in battaglia;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;0.4988842;9.982766
+fare il bene;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.75966734;12.308699
+andare in bestia;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.1511612;10.118493
+mandare in bestia;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;0.30376378;10.007251
+andare in bicicletta;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.2836566;10.64501
+mettere bocca;analitico;;;VN;VN;mettere;unknown;no_sinonimi;1.1965646;10.046579
+mettere una bomba;analitico;;;VDetN;V det_indef N;mettere;unknown;no_sinonimi;0.8055484;10.325652
+avere a bordo;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;-0.7168515;9.841676
+essere a bordo;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.8049115;9.881062
+prendere a bordo;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;-0.77514505;9.817183
+mettere in bottiglia;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.9612409;9.582665
+dare il buongiorno;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;0.8190188;11.863773
+fare il buono;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.65944445;12.092014
+andare a caccia;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.44142765;10.530329
+essere a caccia;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.4823679;10.216565
+essere in caccia;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.20459363;9.3536005
+fare calcio;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.46041867;10.656
+prendere a calcio;analitico;;;VPrepN;V a N;prendere;unknown;ha_sinonimi;0.45869556;10.08409
+fare un caldo;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.36402726;10.777575
+avere in cambio;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.57241434;9.26794
+dare in cambio;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;0.5610749;9.345912
+fare un cambio;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.4116821;10.61194
+mettere in cammino;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.95507014;9.307995
+fare campagna;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.159508;10.691602
+avere campo;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.3718574;10.722058
+dare il campo;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.2918776;11.188417
+mettere in campo;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.0924393;9.126848
+fare il capitano;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;0.9235062;11.837684
+avere a capo;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;2.4661663;11.477506
+essere a capo;analitico;;;VPrepN;V a N;essere;unknown;ha_sinonimi;2.4979594;11.636644
+mettere a capo;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.4110103;11.389197
+fare il carabiniere;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0333104;12.074973
+avere carattere;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.498103;9.753285
+dare carattere;analitico;;;VN;VN;dare;unknown;ha_sinonimi;3.597028;9.797563
+andare in carcere;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;2.8692534;6.573009
+essere in carcere;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.8831754;6.5934896
+mandare in carcere;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;2.9080515;6.57387
+mettere in carcere;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;2.858207;6.700238
+mettere in carica;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.4140633;9.216888
+mettere su carta;analitico;;;VPrepN;V su N;mettere;unknown;no_sinonimi;1.3707563;9.386913
+andare a casa;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.38374287;10.789848
+fare da casa;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3575858;13.4070425
+fare caso;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.85686725;11.684291
+essere in catena;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.5338519;9.097736
+fare il cattivo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.78621167;11.872725
+essere causa;analitico;;;VN;VN;essere;unknown;ha_sinonimi;2.9544232;9.1961
+fare causa;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.72533315;10.632395
+fare una causa;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.50053173;10.980868
+fare il cavaliere;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.9314455;11.967642
+andare a cavallo;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.39382902;10.747274
+essere a cavallo;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.4626268;10.723061
+andare a cena;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;-0.45557988;10.859269
+essere a cena;analitico;;;VPrepN;V a N;essere;unknown;ha_sinonimi;-0.4105845;10.769136
+fare una cena;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;0.27151474;10.849506
+fare centro;analitico;;;VN;VN;fare;unknown;ha_sinonimi;2.181061;10.7964115
+fare una cerimonia;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.3316595;10.915093
+mettere in cima;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.3960241;9.150894
+andare a cinema;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.42491132;10.861123
+fare cinema;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.13065286;12.024364
+mettere in coda;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.2541128;9.194037
+avere il cognome;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;0.14712864;13.408139
+dare il cognome;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;0.1458925;13.403272
+prendere il cognome;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;0.16362907;13.405128
+fare colazione;analitico;;;VN;VN;fare;unknown;no_sinonimi;-0.3260111;10.966148
+avere colore;analitico;;;VN;VN;avere;unknown;no_sinonimi;7.385769;10.945673
+prendere colore;analitico;;;VN;-;prendere;unknown;ha_sinonimi;7.4523683;10.820183
+fare una colpa;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.41285196;11.012019
+andare a colpo;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.11641024;9.9418745
+dare un colpo;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;0.4882799;10.772008
+fare colpo;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.27983236;11.1243
+fare un colpo;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.4423743;10.7422285
+avere il comando;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.394705;11.304698
+essere a comando;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.0438578;9.403187
+avere in commercio;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.2550868;7.70017
+mettere in commercio;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.2654289;7.696186
+avere compagnia;analitico;;;VN;VN;avere;unknown;no_sinonimi;0.28080863;10.862882
+fare compagnia;analitico;;;VN;VN;fare;unknown;no_sinonimi;-0.0521449;10.967412
+avere in compenso;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.4778912;8.252699
+avere il compito;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.0089483;10.994611
+dare il compito;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.9663795;10.927252
+essere compito;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.0630627;10.991719
+fare il complimento;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;1.253538;11.721482
+fare un complimento;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;1.0890844;11.405413
+avere in comune;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.6370826;8.356827
+essere in comune;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6299739;8.346321
+dare comunicazione;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.8056407;10.289695
+fare comunicazione;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.8672266;10.363545
+mettere in comunicazione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;3.8186061;10.531756
+fare il comunista;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.7677622;12.237329
+dare una condizione;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;2.3607745;10.314707
+mettere in condizione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.702768;9.852897
+fare una confessione;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;0.81393236;10.767823
+fare da confine;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;6.3861294;12.181054
+fare un confronto;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.2991295;9.657891
+mettere a confronto;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.5448139;9.608479
+mettere in confronto;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.348548;9.538579
+andare in confusione;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;2.163488;9.612193
+fare confusione;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.194555;9.612052
+mandare in confusione;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;2.1387575;9.563088
+mettere in confusione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.2865727;9.5543
+essere a conoscenza;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.1186965;9.911098
+mettere a conoscenza;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.018307;9.887579
+prendere conoscenza;analitico;;;VN;-;prendere;unknown;no_sinonimi;2.1500003;10.038733
+essere conseguenza;analitico;;;VN;VN;essere;unknown;no_sinonimi;3.041408;9.33068
+avere consenso;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.0126734;9.683842
+fare il contadino;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1012478;12.342721
+andare a contatto;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;3.2251515;12.872695
+avere contatto;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.217236;12.840937
+essere in contatto;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;3.2250001;12.863457
+mettere a contatto;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;3.2429354;12.885856
+mettere in contatto;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;3.225081;12.8568125
+prendere contatto;analitico;;;VN;-;prendere;unknown;ha_sinonimi;3.1949165;12.811112
+dare conto;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.4053798;9.758491
+fare conto;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.629341;9.7183485
+fare un conto;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.2662551;9.674722
+mettere in conto;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.401729;9.523228
+prendere in conto;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;2.4443972;9.684705
+essere sotto contratto;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;2.991896;7.6310496
+fare un contratto;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.2694244;9.63433
+mettere sotto contratto;analitico;;;VPrepN;V sotto N;mettere;unknown;no_sinonimi;2.9492254;7.646971
+andare di corpo;analitico;;;VPrepN;V di N;andare;unknown;no_sinonimi;0.04580243;10.5003195
+avere in corpo;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.6440867;8.025574
+dare corpo;analitico;;;VN;VN;dare;unknown;no_sinonimi;2.0421464;8.320189
+prendere corpo;analitico;;;VN;-;prendere;unknown;no_sinonimi;1.9927351;8.294565
+essere a corrente;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.1676645;9.381311
+essere in corsa;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6496234;7.812371
+fare una corsa;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.36590263;10.924613
+dare corso;analitico;;;VN;VN;dare;unknown;no_sinonimi;2.0776541;8.311067
+essere in corso;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.7432452;7.9075146
+fare un corso;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.42973357;10.683058
+avere coscienza;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.925368;10.113562
+prendere coscienza;analitico;;;VN;-;prendere;unknown;no_sinonimi;2.9878585;10.024949
+avere il costo;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.1504223;8.823389
+essere a costo;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.2438831;8.896416
+essere in costruzione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6390444;7.841751
+fare il cretino;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.8581826;11.808517
+andare in crisi;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.05388257;9.057862
+essere in crisi;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.087698944;9.013716
+mandare in crisi;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;0.02786379;9.060103
+mettere in crisi;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.11222065;9.059552
+mettere in croce;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.1304785;9.657855
+mettere una croce;analitico;;;VDetN;V det_indef N;mettere;unknown;no_sinonimi;0.98264223;10.514071
+avere a cuore;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;1.6242268;10.993947
+dare il cuore;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.3391726;11.344031
+mettere il cuore;analitico;;;VDetN;V det_def N;mettere;unknown;no_sinonimi;1.4700524;10.992791
+prendere a cuore;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;1.6404425;10.937339
+andare in cura;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;4.0689836;7.967101
+avere cura;analitico;;;VN;VN;avere;unknown;ha_sinonimi;1.8693801;11.098246
+avere in cura;analitico;;;VPrepN;V in N;avere;unknown;ha_sinonimi;4.067635;7.9518437
+essere in cura;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;4.0746093;7.964364
+essere sotto cura;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.081851;7.5790763
+mettere in cura;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;4.074344;7.9591856
+prendere cura;analitico;;;VN;-;prendere;unknown;ha_sinonimi;1.8718207;11.274922
+prendere in cura;analitico;;;VPrepN;V in N;prendere;unknown;ha_sinonimi;4.0625787;7.954116
+fare il custode;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;0.87290037;11.862424
+andare a danno;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;-0.095063135;9.932665
+avere il debito;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.6918834;10.648164
+essere in debito;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.49996236;9.051759
+fare una decisione;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.9378076;10.593347
+fare denaro;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.8453249;11.862253
+avere il destino;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.6409895;10.992105
+fare il diavolo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.73645717;11.904196
+mettere a difesa;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;3.6887534;9.012357
+avere il difetto;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.5905573;9.701874
+essere in difetto;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.4704904;8.898765
+fare differenza;analitico;;;VN;VN;fare;unknown;ha_sinonimi;2.1724486;9.733967
+andare in difficoltà;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.20816576;8.895104
+essere in difficoltà;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.3354386;8.840526
+mettere in difficoltà;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.32053715;8.922001
+essere direttore;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.283014;12.149126
+fare il direttore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;2.0358431;12.172878
+dare una direzione;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;3.4529364;10.768273
+fare un disco;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.6510543;11.289341
+fare un disegno;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.74405;11.510259
+essere in disgrazia;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.3958381;9.0474
+essere in disordine;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.458573;8.934872
+mettere in disordine;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.5793001;9.306676
+avere a disposizione;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;3.7869918;9.012841
+dare a disposizione;analitico;;;VPrepN;V a N;dare;unknown;no_sinonimi;3.8055801;8.999759
+mettere a disposizione;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;3.817195;9.0061655
+prendere distanza;analitico;;;VN;-;prendere;unknown;ha_sinonimi;3.065972;10.935192
+essere di disturbo;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;1.8593016;10.009883
+avere il dolore;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.68633;11.087423
+dare un dolore;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;1.2274563;11.325901
+fare domanda;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.2112223;12.01391
+andare a donna;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.3326964;10.721639
+essere donna;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.45553654;12.826718
+andare in dote;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.0022651497;13.241982
+avere in dote;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;-0.008102541;13.220724
+dare in dote;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;-0.008492917;13.247997
+fare il dottore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.2175558;12.097169
+avere il dovere;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.8583286;11.019427
+essere in dubbio;analitico;;;VPrepN;V in N;essere;unknown;ha_sinonimi;2.95922;9.832086
+mettere in dubbio;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.9832053;9.876458
+dare una educazione;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;2.1536467;10.641591
+avere effetto;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.021306;8.685082
+essere sotto effetto;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.0324059;7.6830616
+dare energia;analitico;;;VN;VN;dare;unknown;no_sinonimi;6.8601727;9.389301
+fare il eroe;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.94985074;12.079084
+essere in errore;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.4271708;9.972557
+fare un errore;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.0925828;11.186572
+essere sotto esame;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.0572734;7.6285386
+fare un esame;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;2.6856475;10.100707
+mettere sotto esame;analitico;;;VPrepN;V sotto N;mettere;unknown;ha_sinonimi;3.0241814;7.608321
+prendere in esame;analitico;;;VPrepN;V in N;prendere;unknown;ha_sinonimi;3.051851;9.891627
+dare un esempio;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;2.433035;10.574977
+fare da esempio;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;2.4471319;10.9185705
+fare un esempio;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;2.4247022;10.576253
+prendere a esempio;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;2.416682;10.653568
+prendere da esempio;analitico;;;VPrepN;V da N;prendere;unknown;no_sinonimi;2.388088;10.772426
+prendere esempio;analitico;;;VN;-;prendere;unknown;no_sinonimi;2.3719637;10.660842
+prendere in esempio;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;2.538982;10.595541
+andare in esilio;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;3.2207317;6.3335576
+essere in esilio;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;3.202268;6.3523235
+mandare in esilio;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;3.195237;6.349825
+avere esperienza;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.534785;10.788459
+avere una esperienza;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;2.4021907;10.761195
+fare esperienza;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.602818;10.838726
+essere in esposizione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;4.4834123;9.393795
+mettere in esposizione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;4.403853;9.466479
+dare espressione;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.4395947;10.81916
+fare un falso;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.39376947;11.51271
+avere fame;analitico;;;VN;VN;avere;unknown;no_sinonimi;0.3479265;10.516931
+dare una famiglia;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;1.8210953;10.733336
+fare il fascista;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.6324241;12.248702
+dare fastidio;analitico;;;VN;VN;dare;unknown;ha_sinonimi;0.97578573;11.560259
+andare a favore;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;2.5170298;9.112128
+avere il favore;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.4914398;9.068661
+essere a favore;analitico;;;VPrepN;V a N;essere;unknown;ha_sinonimi;2.493214;9.0551405
+essere in favore;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.5052974;9.102494
+fare fede;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.5597951;10.122047
+fare il fenomeno;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.2184962;12.006028
+essere in festa;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.095185556;9.411363
+avere a fianco;analitico;;;VPrepN;V a N;avere;unknown;ha_sinonimi;0.8939676;10.779557
+dare fiato;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.4503118;10.8755245
+prendere fiato;analitico;;;VN;-;prendere;unknown;ha_sinonimi;1.1709696;10.535157
+essere figlio;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.26933932;13.411054
+fare un figlio;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.31769425;11.835316
+fare film;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.2110699;12.060094
+fare il filo;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;0.7745299;12.089464
+avere fine;analitico;;;VN;VN;avere;unknown;ha_sinonimi;1.8160784;8.240697
+avere il fine;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.5255287;9.034416
+mettere fine;analitico;;;VN;VN;mettere;unknown;ha_sinonimi;1.9103006;8.267327
+essere in fiore;analitico;;;VPrepN;V in N;essere;unknown;ha_sinonimi;0.352032;9.148625
+essere fisico;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.6572292;9.945738
+andare a fondo;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;-0.040682595;9.729529
+andare in fondo;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.1011868;9.713098
+dare fondo;analitico;;;VN;VN;dare;unknown;no_sinonimi;0.16349392;9.668881
+avere forma;analitico;;;VN;VN;avere;unknown;no_sinonimi;7.531597;11.764056
+dare forma;analitico;;;VN;VN;dare;unknown;ha_sinonimi;2.0954974;8.308911
+essere in forma;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.8983094;8.9758835
+mettere in forma;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.3913167;8.891273
+prendere forma;analitico;;;VN;-;prendere;unknown;ha_sinonimi;2.0648525;8.34003
+fare fortuna;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.9058754;12.190179
+avere forza;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.8538177;10.799739
+essere in forza;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.69261086;8.936461
+fare forza;analitico;;;VN;VN;fare;unknown;ha_sinonimi;2.8399184;10.755467
+fare fotografia;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.39820817;11.8245325
+fare il francese;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.2974701;12.207236
+essere fratello;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.27555892;13.410689
+andare di fretta;analitico;;;VPrepN;V di N;andare;unknown;no_sinonimi;0.013144046;10.577414
+avere fretta;analitico;;;VN;VN;avere;unknown;no_sinonimi;0.24731606;10.568109
+essere di fretta;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;0.011218505;10.430145
+fare di fretta;analitico;;;VPrepN;V di N;fare;unknown;no_sinonimi;0.022642639;10.611809
+fare fronte;analitico;;;VN;VN;fare;unknown;ha_sinonimi;1.2745092;9.14831
+dare il frutto;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;2.5899389;9.22849
+essere frutto;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.975535;9.304225
+mettere a frutto;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.3437977;9.282737
+andare in fuga;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.25914958;9.323383
+essere in fuga;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.28420985;9.403192
+mettere in fuga;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;-0.35925034;9.411421
+andare in fumo;analitico;;;VPrepN;V in N;andare;unknown;ha_sinonimi;-0.17656924;9.415524
+fare fumo;analitico;;;VN;VN;fare;unknown;no_sinonimi;-0.4235821;9.550614
+mandare in fumo;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;-0.18067336;9.352958
+fare il funerale;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.8851199;12.015024
+essere in funzione;analitico;;;VPrepN;V in N;essere;unknown;ha_sinonimi;1.8626171;7.997924
+mettere in funzione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.8498856;8.046676
+andare a fuoco;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.89758784;9.423304
+dare a fuoco;analitico;;;VPrepN;V a N;dare;unknown;no_sinonimi;-0.97087824;9.366699
+dare fuoco;analitico;;;VN;VN;dare;unknown;ha_sinonimi;-0.6773286;9.583655
+essere a fuoco;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.96068376;9.374122
+fare fuoco;analitico;;;VN;VN;fare;unknown;no_sinonimi;-0.73583555;9.558049
+mandare a fuoco;analitico;;;VPrepN;V a N;mandare;unknown;ha_sinonimi;-0.9317171;9.381843
+mettere a fuoco;analitico;;;VPrepN;V a N;mettere;unknown;ha_sinonimi;-1.0113218;9.323453
+prendere fuoco;analitico;;;VN;-;prendere;unknown;no_sinonimi;-0.7124095;9.608983
+essere in gamba;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.4230668;9.018265
+prendere sotto gamba;analitico;;;VPrepN;V sotto N;prendere;unknown;no_sinonimi;3.0234666;7.618997
+essere in gara;analitico;;;VPrepN;V in N;essere;unknown;ha_sinonimi;0.4037021;8.875761
+fare a gara;analitico;;;VPrepN;V a N;fare;unknown;ha_sinonimi;0.15642545;11.0524235
+fare una gara;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;0.35875362;10.926133
+mettere in gara;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.42058414;9.06875
+dare gas;analitico;;;VN;VN;dare;unknown;no_sinonimi;0.5732938;10.891561
+fare il gatto;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6852623;11.999073
+essere genitore;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.6233115;13.133742
+fare da genitore;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.1301563;13.235409
+fare il genitore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6737834;12.089071
+fare il gesto;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.612832;11.987817
+essere in ginocchio;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.32436734;8.766689
+mettere in ginocchio;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.28363433;8.953386
+fare il gioco;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;0.62409973;11.849699
+mettere in gioco;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.6069897;9.632849
+fare il giovane;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6061099;11.849102
+andare a giro;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;-0.30730182;10.704574
+andare in giro;analitico;;;VPrepN;V in N;andare;unknown;ha_sinonimi;0.058166936;10.2974825
+fare il giro;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;-0.06298334;11.162303
+fare un giro;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;-0.13352384;10.93909
+mettere in giro;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.31758568;10.103106
+prendere in giro;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.37637183;10.117633
+andare in giudizio;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.460349;10.155912
+dare il giudizio;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.7646966;10.475526
+dare un giudizio;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;2.1491024;10.3168335
+dare giustizia;analitico;;;VN;VN;dare;unknown;no_sinonimi;0.94001806;10.412442
+fare giustizia;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.9162603;10.310347
+avere in gloria;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.6969242;10.048828
+dare gloria;analitico;;;VN;VN;dare;unknown;ha_sinonimi;1.2908436;11.066377
+fare gola;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.5034326;11.187664
+mettere in grado;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.7281764;9.688327
+fare gruppo;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.8451175;11.3649645
+mettere in guaio;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.64193684;9.915907
+essere a guardia;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.48198643;9.772093
+essere di guardia;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;-0.55571556;9.95157
+fare da guardia;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;-0.57129955;9.890213
+mettere a guardia;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;-0.45595098;9.799548
+mettere di guardia;analitico;;;VPrepN;V di N;mettere;unknown;no_sinonimi;-0.4575683;9.833237
+mettere in guardia;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.5386818;9.787315
+andare in guerra;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.58536947;10.030364
+fare una guerra;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;0.76356775;10.359807
+mandare in guerra;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;0.6837505;10.035932
+fare da guida;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;-0.49372584;10.037148
+avere il gusto;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.1524696;11.363597
+dare il gusto;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.0934938;11.429648
+avere idea;analitico;;;VN;VN;avere;unknown;ha_sinonimi;2.34024;10.279653
+avere una idea;analitico;;;VDetN;V det_indef N;avere;unknown;ha_sinonimi;2.422279;10.358581
+avere un impegno;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;1.5284646;10.50086
+prendere un impegno;analitico;;;VDetN;V det_indef N;prendere;unknown;no_sinonimi;1.4988024;10.543629
+avere importanza;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.9850433;10.326652
+dare importanza;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.0123894;10.293204
+essere di importanza;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;2.9198854;10.2813225
+fare impresa;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.5391595;12.089915
+dare una impressione;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;3.4503171;10.948796
+fare impressione;analitico;;;VN;VN;fare;unknown;ha_sinonimi;3.7140841;11.185782
+avere un incidente;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;-0.41497183;10.374539
+fare un incidente;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;-0.40978402;10.398579
+avere un incontro;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;-0.37868062;10.493168
+fare informazione;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.8435;10.069912
+fare il inglese;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1070789;12.164967
+fare da ingresso;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.7411567;13.155388
+fare ingresso;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.9355417;12.585327
+prendere in ingresso;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;2.4204278;9.9031515
+avere inizio;analitico;;;VN;VN;avere;unknown;ha_sinonimi;1.8999138;7.9764686
+dare inizio;analitico;;;VN;VN;dare;unknown;ha_sinonimi;1.9945359;8.099258
+avere intenzione;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.8428079;10.574484
+essere di interesse;analitico;;;VPrepN;V di N;essere;unknown;ha_sinonimi;2.9032044;10.265627
+fare un invito;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;-0.05833802;10.9652605
+fare il italiano;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1991706;12.16387
+andare in lacrima;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.009359063;10.142803
+fare il ladro;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.53191507;12.02069
+fare largo;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.76704776;7.147631
+dare lavoro;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.6141845;9.308714
+mettere a lavoro;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.402841;9.524392
+fare una legge;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.8917179;10.5059595
+mettere a letto;analitico;;;VPrepN;V a N;mettere;unknown;ha_sinonimi;0.78430986;9.896273
+andare a lezione;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.26248726;10.797066
+mettere in libertà;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.7407863;6.7412505
+avere il limite;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;3.0170002;8.807246
+avere un limite;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;2.9534495;8.831671
+dare il limite;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;3.0714118;8.770308
+dare un limite;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;3.0305865;8.822389
+mettere in linea;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.350727;7.711374
+mettere in lista;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;2.6343958;6.8282433
+essere in lotta;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.38770923;8.923097
+fare luce;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.161829;10.220114
+mettere in luce;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.4052854;9.424672
+avere luogo;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.9110513;7.970767
+dare luogo;analitico;;;VN;VN;dare;unknown;ha_sinonimi;2.1595151;8.236662
+essere madre;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.3713849;13.356398
+fare da madre;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.2379022;13.362425
+essere maestro;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.1406878;12.77294
+fare da maestro;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.2195653;13.11778
+fare il maestro;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0831565;12.625752
+andare a male;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;0.14276667;10.182289
+avere a male;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;0.55077624;10.473632
+essere mamma;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.323648;13.37033
+fare da mamma;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.2511586;13.350984
+avere in mano;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.6594685;9.509982
+dare una mano;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;0.61381066;11.249991
+mettere in mano;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.9006141;9.596253
+mettere mano;analitico;;;VN;VN;mettere;unknown;no_sinonimi;1.3107296;9.507207
+prendere in mano;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.6499578;9.659449
+essere in marcia;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.27293453;9.547457
+mettere in marcia;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;-0.17585632;9.590036
+mettere a mare;analitico;;;VPrepN;V a N;mettere;unknown;ha_sinonimi;1.2518367;9.597384
+essere marito;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.29699305;13.38953
+prendere marito;analitico;;;VN;-;prendere;unknown;ha_sinonimi;0.21193941;13.285661
+avere massa;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.1481855;8.693503
+fare massa;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.1378644;8.714077
+dare di matto;analitico;;;VPrepN;V di N;dare;unknown;no_sinonimi;0.2295035;10.663173
+dare il matto;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;0.8370677;11.782484
+prendere per matto;analitico;;;VPrepN;V per N;prendere;unknown;no_sinonimi;0.9704478;11.054571
+essere medico;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.2951248;12.672344
+fare il medico;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0179822;12.362812
+essere membro;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.3868504;12.042948
+avere memoria;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.0269866;10.056109
+avere a mente;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;2.1459537;10.518037
+avere in mente;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.8137231;10.226593
+mettere in mente;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.5430268;9.615481
+avere mercato;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.8679714;10.319083
+fare il mestiere;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.96123916;12.36459
+essere militare;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.9374466;12.349229
+fare il militare;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1727037;12.342164
+essere ministro;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.0085425;12.342723
+fare il ministro;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.6699202;12.373868
+fare il miracolo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.89737904;12.205199
+essere in miseria;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.4056519;9.027515
+avere a modello;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;2.4308162;10.724782
+essere modello;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.5016572;10.759683
+fare da modello;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;2.4572833;10.833536
+prendere a modello;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;2.507514;10.754482
+fare in modo;analitico;;;VPrepN;V in N;fare;unknown;no_sinonimi;1.8454255;10.14263
+andare in moglie;analitico;;;VPrepN;V in N;andare;unknown;ha_sinonimi;0.111317575;13.3695345
+avere in moglie;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.09471132;13.395647
+dare in moglie;analitico;;;VPrepN;V in N;dare;unknown;ha_sinonimi;0.043119185;13.427874
+essere moglie;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.2713542;13.403624
+prendere in moglie;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.102271415;13.373936
+prendere moglie;analitico;;;VN;-;prendere;unknown;no_sinonimi;0.18482459;13.36871
+prendere per moglie;analitico;;;VPrepN;V per N;prendere;unknown;no_sinonimi;0.13332374;13.38299
+andare a monte;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;0.71389234;9.385205
+mandare a monte;analitico;;;VPrepN;V a N;mandare;unknown;no_sinonimi;0.9697411;9.335752
+mandare a morte;analitico;;;VPrepN;V a N;mandare;unknown;no_sinonimi;3.1241221;6.3482227
+mettere a morte;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;3.1048205;6.3842783
+fare il mostro;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.7745477;11.974903
+essere motivo;analitico;;;VN;VN;essere;unknown;no_sinonimi;3.0955162;9.352797
+andare in moto;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.012961473;10.256281
+fare moto;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.16228049;10.3056755
+mettere in moto;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;0.18193881;10.086673
+andare in motocicletta;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.13249932;10.35142
+dare movimento;analitico;;;VN;VN;dare;unknown;ha_sinonimi;6.1663384;9.33306
+essere in movimento;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;6.212931;9.329934
+mettere in movimento;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;6.0980067;9.20731
+mettere in musica;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;-0.3267428;11.870457
+mettere il naso;analitico;;;VDetN;V det_def N;mettere;unknown;no_sinonimi;1.0665696;10.091355
+avere natura;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.3039954;9.808024
+essere nemico;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.87559056;9.1366005
+essere nipote;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.28775603;13.474834
+avere a noia;analitico;;;VPrepN;V a N;avere;unknown;no_sinonimi;0.9304157;10.836073
+dare noia;analitico;;;VN;VN;dare;unknown;ha_sinonimi;1.1752745;11.234316
+fare il nome;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1160836;10.441835
+mettere il nome;analitico;;;VDetN;V det_def N;mettere;unknown;ha_sinonimi;1.213822;10.320132
+prendere a nome;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;1.2978725;10.201524
+avere notizia;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.02438;9.971109
+fare notizia;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.9207358;9.923398
+mettere a nudo;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.5330677;9.867812
+avere il numero;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;3.067214;8.895036
+dare il numero;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;3.16444;9.0076065
+fare numero;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.1480443;9.044359
+mettere a nuovo;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.4619422;9.788096
+essere occasione;analitico;;;VN;VN;essere;unknown;ha_sinonimi;3.8323815;10.50043
+dare una occhiata;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;0.5946218;11.225209
+avere il occhio;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;0.9052252;11.285657
+dare un occhio;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;0.87051356;11.247318
+mettere il occhio;analitico;;;VDetN;V det_def N;mettere;unknown;no_sinonimi;0.8779583;11.2645
+essere sotto occupazione;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.0401134;7.608219
+avere in odio;analitico;;;VPrepN;V in N;avere;unknown;ha_sinonimi;0.8266921;10.024699
+avere un odio;analitico;;;VDetN;V det_indef N;avere;unknown;ha_sinonimi;1.0443172;11.004923
+prendere in odio;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.94630235;10.060468
+avere un odore;analitico;;;VDetN;V det_indef N;avere;unknown;ha_sinonimi;1.2382226;11.156607
+avere ad oggetto;analitico;;;VPrepN;V ad N;avere;unknown;no_sinonimi;3.373979;9.7172785
+essere oggetto;analitico;;;VN;VN;essere;unknown;no_sinonimi;3.237889;9.506127
+fare ombra;analitico;;;VN;VN;fare;unknown;ha_sinonimi;1.0725316;11.338688
+mettere in ombra;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.93982315;9.882419
+andare in onda;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.2137774;7.3098245
+essere in onda;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.2140774;7.3517284
+mandare in onda;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;1.2427739;7.3455534
+mettere in onda;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.260475;7.3690677
+avere il onore;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.6263624;11.7323265
+dare onore;analitico;;;VN;VN;dare;unknown;ha_sinonimi;1.6587762;11.427624
+fare il onore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.4205445;11.951986
+fare onore;analitico;;;VN;VN;fare;unknown;ha_sinonimi;1.6689173;11.549768
+essere in opera;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.634147;9.325519
+essere opera;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.7064347;9.36592
+mettere in opera;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.0945961;9.16106
+fare una operazione;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.3710952;10.301061
+avere una opinione;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;2.508944;10.152516
+essere di opinione;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;2.649812;10.029355
+essere in ordine;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6902639;9.384127
+mettere in ordine;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.5393239;9.471358
+mettere ordine;analitico;;;VN;VN;mettere;unknown;ha_sinonimi;1.3379421;9.667785
+avere in orrore;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.0015699;10.012114
+andare ospite;analitico;;;VN;VN;andare;unknown;no_sinonimi;-0.7533203;10.968307
+avere ospite;analitico;;;VN;VN;avere;unknown;ha_sinonimi;-0.74971634;11.018728
+essere ospite;analitico;;;VN;VN;essere;unknown;no_sinonimi;-0.80309063;10.96255
+essere in pace;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.46121883;9.190663
+fare pace;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.69177735;10.013115
+mettere pace;analitico;;;VN;VN;mettere;unknown;ha_sinonimi;0.87298656;9.969209
+essere padre;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.49155185;13.265391
+fare da padre;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3426353;13.400805
+essere padrone;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.86065453;12.984317
+fare da padrone;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3386142;13.332036
+andare in palla;analitico;;;VPrepN;V in N;andare;unknown;ha_sinonimi;0.007906153;10.045456
+essere parente;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.42367044;13.291563
+fare parola;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.9994633;10.258953
+mettere una parola;analitico;;;VDetN;V det_def N;mettere;unknown;no_sinonimi;0.99845254;10.556907
+prendere in parola;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.9368065;10.0521145
+avere da parte;analitico;;;VPrepN;V da N;avere;unknown;no_sinonimi;1.507554;13.322614
+avere parte;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.658023;11.647212
+essere parte;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.6002162;11.719062
+fare parte;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.5086813;11.825348
+prendere parte;analitico;;;VN;-;prendere;unknown;ha_sinonimi;2.7357438;11.5660515
+fare una partita;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.5857353;10.874856
+prendere partito;analitico;;;VN;-;prendere;unknown;no_sinonimi;2.7354808;11.621376
+essere di passaggio;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;-0.6404705;10.323263
+fare il passaggio;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6123662;12.128468
+fare il passo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.81966424;12.308577
+essere pastore;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.0445173;12.806199
+fare il pastore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.88408023;12.461619
+avere una paura;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;0.89846766;10.995392
+fare paura;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.7760256;10.535783
+mettere paura;analitico;;;VN;VN;mettere;unknown;ha_sinonimi;0.91821915;10.194474
+fare il pazzo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.8852989;12.330217
+fare il pelo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0506796;12.315472
+essere in pena;analitico;;;VPrepN;V in N;essere;unknown;ha_sinonimi;-0.52902395;8.139043
+essere in pensiero;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.5680247;8.116596
+fare un pensiero;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;-0.57395196;8.146925
+andare in pensione;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.54442775;8.061295
+essere in pensione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.56344014;8.109146
+mandare in pensione;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;-0.5658362;8.100064
+mettere in pensione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;-0.56672984;8.091126
+andare in perdita;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.5775026;8.651484
+avere una perdita;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;2.254536;8.740103
+essere in perdita;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.9807082;8.700508
+mettere in pericolo;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.9329877;8.792061
+avere il permesso;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.6975083;11.149779
+avere il peso;analitico;;;VDetN;V det_def N;avere;unknown;ha_sinonimi;2.932698;8.842037
+avere peso;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.0122745;8.833926
+andare a pezzo;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.3567191;9.808569
+andare in pezzo;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.21023577;9.577354
+essere a pezzo;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.39559403;9.697937
+fare a pezzo;analitico;;;VPrepN;V a N;fare;unknown;ha_sinonimi;-0.39475232;9.6948805
+mandare in pezzo;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;-0.19169201;9.590121
+avere il piacere;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.5148103;11.846803
+dare il piacere;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.4694256;11.790483
+dare piacere;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.5481151;11.569927
+fare il piacere;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.4394379;11.911675
+fare piacere;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.4282047;11.631474
+fare il piano;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;1.3915855;12.112574
+fare piazza;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.7637633;11.760884
+andare a piede;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.4039167;10.7582655
+essere a piede;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.37229323;10.719489
+mettere in piede;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.6796428;9.104433
+mettere piede;analitico;;;VN;VN;mettere;unknown;no_sinonimi;1.2318548;9.817231
+prendere piede;analitico;;;VN;-;prendere;unknown;no_sinonimi;1.7666343;9.287074
+avere pietà;analitico;;;VN;VN;avere;unknown;no_sinonimi;0.78620964;10.388848
+fare il pittore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0565225;12.342206
+fare poesia;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.2269455;12.359796
+essere poeta;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.416997;12.606893
+fare il poeta;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;1.2315927;12.497598
+fare politica;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.9313326;12.0335455
+essere politico;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.2668042;11.654659
+fare il politico;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.5445517;12.336138
+fare da poliziotto;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.4461367;13.298242
+fare il poliziotto;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.3221486;12.499227
+prendere polvere;analitico;;;VN;-;prendere;unknown;ha_sinonimi;3.0045002;11.051177
+fare da ponte;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.4880067;13.314189
+andare in porto;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.424869;8.602742
+mandare in porto;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;1.3903232;8.637476
+mettere in posizione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;2.8976326;10.492912
+prendere posizione;analitico;;;VN;-;prendere;unknown;no_sinonimi;3.0305245;10.853037
+avere posto;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.9599738;10.682102
+dare posto;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.0397737;10.764988
+fare posto;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.0960717;10.706029
+mettere a posto;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.1431756;9.707536
+prendere il posto;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;-0.5256606;8.166845
+prendere posto;analitico;;;VN;-;prendere;unknown;no_sinonimi;3.07698;10.901921
+avere potere;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.4719367;9.936297
+dare potere;analitico;;;VN;VN;dare;unknown;no_sinonimi;3.1843278;10.288691
+essere in potere;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.2102876;8.83786
+prendere il potere;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;3.2484963;6.525913
+fare il povero;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.3275918;12.379902
+andare a pranzo;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;-0.4073417;10.838867
+essere a pranzo;analitico;;;VPrepN;V a N;essere;unknown;ha_sinonimi;-0.4185259;10.805013
+fare pratica;analitico;;;VN;VN;fare;unknown;ha_sinonimi;1.4191003;10.785962
+fare una pratica;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.3082256;10.683359
+mettere in pratica;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.9453044;9.312987
+andare in premio;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.2746509;7.610686
+avere in premio;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.21926002;7.5080533
+dare in premio;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;0.20597206;7.525441
+dare un premio;analitico;;;VDetN;V det_indef N;dare;unknown;ha_sinonimi;0.2578302;7.619749
+avere presente;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.1223116;10.142286
+fare presente;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.6838186;10.131495
+fare una presenza;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.4074789;10.464293
+essere presidente;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.2463121;12.188796
+fare il presidente;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;2.1232433;12.208456
+essere sotto pressione;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;3.0235128;7.5769515
+mettere in pressione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.6929709;9.178279
+mettere pressione;analitico;;;VN;VN;mettere;unknown;no_sinonimi;1.5795438;9.692284
+mettere sotto pressione;analitico;;;VPrepN;V sotto N;mettere;unknown;no_sinonimi;2.9571266;7.6266565
+andare in prestito;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.15281555;7.2865977
+avere in prestito;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.12258631;7.2809067
+dare in prestito;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;0.14057705;7.269789
+essere in prestito;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.14505702;7.2485905
+fare un prestito;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.11809448;7.2508492
+mandare in prestito;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;0.13795647;7.2739086
+prendere a prestito;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;0.14952046;7.2093678
+prendere in prestito;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.1410878;7.249553
+essere prete;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.1168147;12.770617
+fare il prete;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.2427585;12.420021
+fare il prezzo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.6149678;12.060468
+mettere un prezzo;analitico;;;VDetN;V det_indef N;mettere;unknown;ha_sinonimi;2.1111884;8.834892
+andare in prigione;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;2.9950855;6.457473
+essere in prigione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.9785218;6.4862833
+mandare in prigione;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;2.9922547;6.4742713
+mettere in prigione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;2.9715123;6.4949512
+essere prigioniero;analitico;;;VN;VN;essere;unknown;no_sinonimi;3.0892148;6.3131557
+fare prigioniero;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.0900679;6.3527865
+prendere prigioniero;analitico;;;VN;-;prendere;unknown;no_sinonimi;3.157383;6.2730894
+fare il principe;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.2174708;12.422789
+andare a processo;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;2.7152555;7.192017
+essere sotto processo;analitico;;;VPrepN;V sotto N;essere;unknown;no_sinonimi;2.9029045;7.306429
+fare il processo;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;2.6463823;7.2636013
+fare un processo;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.6798055;7.2366815
+mettere sotto processo;analitico;;;VPrepN;V sotto N;mettere;unknown;ha_sinonimi;2.9170632;7.3173637
+andare in produzione;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.3853973;7.764302
+fare una produzione;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.4500403;8.097052
+mettere in produzione;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.4109032;7.883653
+fare una professione;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.3158627;10.79405
+fare il professore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.4622315;12.431596
+avere il profumo;analitico;;;VDetN;V det_def N;avere;unknown;ha_sinonimi;1.5912507;11.297537
+avere in progetto;analitico;;;VPrepN;V in N;avere;unknown;ha_sinonimi;1.6302706;7.728931
+essere in progetto;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6347083;7.7418976
+fare il progetto;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;2.0350177;7.666626
+avere in programma;analitico;;;VPrepN;V in N;avere;unknown;ha_sinonimi;1.6680827;7.6881614
+essere in programma;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.6543207;7.631631
+fare il programma;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;2.0791204;7.607249
+mettere in programma;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.6574608;7.687176
+avere il proposito;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.9129788;10.769037
+fare una proposta;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.1331285;10.702809
+andare in prova;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.4915816;7.612495
+avere in prova;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;1.5362347;7.596794
+dare prova;analitico;;;VN;VN;dare;unknown;no_sinonimi;2.3021684;9.356259
+mettere a prova;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.1871834;9.461402
+mettere in prova;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.521942;7.6767545
+prendere in prova;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;1.5633297;7.6257615
+avere in pugno;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.41085598;9.915072
+fare a pugno;analitico;;;VPrepN;V a N;fare;unknown;no_sinonimi;0.3055777;10.024074
+prendere a pugno;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;0.40173233;9.9636135
+prendere in pugno;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.46603072;9.895035
+fare il punto;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;2.1928282;10.466317
+fare punto;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.077372;10.661878
+mettere a punto;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.9722927;9.14518
+essere in questione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;3.037405;9.847844
+mettere in questione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;3.1662583;9.9902
+prendere in questione;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;3.1165419;9.979181
+andare in radio;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.9110822;8.441566
+avere ragione;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.3009694;9.970594
+dare ragione;analitico;;;VN;VN;dare;unknown;no_sinonimi;2.3344753;9.983565
+avere un rapporto;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;1.60669;10.167997
+mettere in rapporto;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;2.3546994;9.532285
+essere rappresentante;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.405705;12.044923
+fare il rappresentante;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;2.18957;12.110072
+essere re;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.3265861;13.408439
+fare il re;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.0883131;12.358695
+avere in regalo;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.8420384;8.727408
+dare in regalo;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;0.8665326;8.611423
+essere regina;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.23090433;13.467353
+dare una regola;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;1.8308938;10.640903
+mettere in regola;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.0757208;8.721656
+essere in relazione;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.6108005;9.5987
+fare una relazione;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;2.4778702;10.324405
+mettere in relazione;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;2.7307143;9.681257
+fare resistenza;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.9816837;10.195114
+essere responsabile;analitico;;;VN;VN;essere;unknown;no_sinonimi;3.0228434;9.375529
+essere in ricerca;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.1637505;8.572797
+fare ricerca;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.165462;10.323359
+fare una ricerca;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.1423664;10.419015
+avere riguardo;analitico;;;VN;VN;avere;unknown;no_sinonimi;3.124812;9.962908
+fare riguardo;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.0541437;10.006019
+andare a riposo;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;0.80933666;8.75269
+dare riposo;analitico;;;VN;VN;dare;unknown;no_sinonimi;0.92501473;8.796205
+essere a riposo;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;0.90572995;8.697208
+mettere a riposo;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;0.90939647;8.744213
+avere il rischio;analitico;;;VDetN;V det_def N;avere;unknown;ha_sinonimi;2.5020149;8.733952
+essere a rischio;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.065426;8.712706
+mettere a rischio;analitico;;;VPrepN;V a N;mettere;unknown;ha_sinonimi;1.9123553;8.721187
+andare in riserva;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.039945;8.056344
+fare da riserva;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;0.9866205;7.998755
+mettere in riserva;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.2222149;8.003319
+fare rispetto;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.770547;10.172836
+avere risposta;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.713397;10.057663
+avere il risultato;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.6420982;8.661375
+dare il risultato;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;2.6627538;8.67056
+dare un risultato;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;2.6487195;8.6452
+essere risultato;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.681922;8.618639
+fare risultato;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.7300284;8.659458
+avere un ritardo;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;1.4019471;8.836096
+essere in ritardo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.1197652;8.545967
+essere di ritorno;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;-0.78540933;10.3603115
+fare ritorno;analitico;;;VN;VN;fare;unknown;no_sinonimi;-0.86705554;10.3854475
+fare una riunione;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;2.0193532;10.609294
+fare una rivoluzione;analitico;;;VDetN;V det_indef N;fare;unknown;ha_sinonimi;2.310844;10.713529
+andare in rosso;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.9301773;8.413193
+essere in rosso;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.0851004;8.510202
+fare il rumore;analitico;;;VDetN;V det_def N;fare;unknown;ha_sinonimi;0.69967884;11.97157
+essere in salute;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.686108;8.300851
+fare il santo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.7119647;12.105595
+fare il scemo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.5403684;11.941846
+andare di scena;analitico;;;VPrepN;V di N;andare;unknown;no_sinonimi;-0.44895595;11.6188135
+andare in scena;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.49156365;11.779335
+essere in scena;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.46425992;11.790886
+fare scena;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.13435097;11.793556
+fare una scena;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.259337;11.358306
+mandare in scena;analitico;;;VPrepN;V in N;mandare;unknown;ha_sinonimi;-0.44451177;11.798186
+mettere in scena;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;-0.43622234;11.78729
+fare schifo;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.5163596;11.960999
+fare scienza;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.8801188;10.278581
+andare a scuola;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.20354857;11.007681
+fare scuola;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.32458627;11.538378
+fare una scuola;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.2091058;11.329581
+essere sede;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.4810097;11.919794
+andare a segno;analitico;;;VPrepN;V a N;andare;unknown;ha_sinonimi;0.24179271;8.263533
+essere segno;analitico;;;VN;VN;essere;unknown;ha_sinonimi;3.061338;9.316557
+mandare a segno;analitico;;;VPrepN;V a N;mandare;unknown;ha_sinonimi;0.21254441;8.245851
+mettere a segno;analitico;;;VPrepN;V a N;mettere;unknown;ha_sinonimi;0.22061646;8.239075
+mettere un segno;analitico;;;VDetN;V det_indef N;mettere;unknown;no_sinonimi;1.2237484;10.370544
+avere seguito;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.6807866;8.461448
+fare sensazione;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.696702;11.103384
+mettere in serie;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.3241307;7.8774767
+essere a servizio;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;1.7296225;12.723871
+fare il servizio;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.6805288;12.572262
+mettere a servizio;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;1.7967567;12.684703
+mettere in servizio;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.3050545;7.945224
+prendere a servizio;analitico;;;VPrepN;V a N;prendere;unknown;no_sinonimi;1.7945266;12.686632
+prendere in servizio;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;1.2316445;7.950662
+prendere servizio;analitico;;;VN;-;prendere;unknown;no_sinonimi;1.9014584;12.645962
+fare da servo;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.389053;13.377423
+fare il servo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1718198;12.454106
+mettere sotto sforzo;analitico;;;VPrepN;V sotto N;mettere;unknown;no_sinonimi;2.9926858;7.611573
+avere il sguardo;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;0.8745923;11.4659
+fare il sguardo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.6879643;11.697957
+dare una sicurezza;analitico;;;VDetN;V det_indef N;dare;unknown;no_sinonimi;1.3745403;10.58138
+mettere in sicurezza;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.4031128;8.965146
+essere signore;analitico;;;VN;VN;essere;unknown;ha_sinonimi;0.7008465;13.071079
+fare il signore;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.910538;12.540739
+fare silenzio;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.68654346;11.734139
+mettere sotto silenzio;analitico;;;VPrepN;V sotto N;mettere;unknown;ha_sinonimi;3.0021927;7.5799823
+avere in simpatia;analitico;;;VPrepN;V in N;avere;unknown;ha_sinonimi;0.49066037;9.789478
+prendere in simpatia;analitico;;;VPrepN;V in N;prendere;unknown;no_sinonimi;0.4914372;9.826367
+essere sindaco;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.7665956;12.504324
+fare il sindaco;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.5876831;12.507572
+fare sistema;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.7679267;10.38427
+mettere a sistema;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.1472292;9.493304
+fare società;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.7706576;11.184989
+fare una società;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.362677;11.192031
+mettere in società;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.0556011;9.379087
+essere in sofferenza;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.6228206;8.792123
+fare il soldato;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.53514844;12.11979
+fare il soldo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.34098652;11.877864
+prendere il sole;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;0.09637507;11.623884
+avere un sonno;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;0.95353186;11.16503
+prendere sonno;analitico;;;VN;-;prendere;unknown;no_sinonimi;1.0896109;10.294762
+essere sorella;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.24096261;13.442709
+fare una sorpresa;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.19303338;11.168569
+avere un sorriso;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;0.9365283;11.201625
+fare un sorriso;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.7981374;11.464232
+avere in sorte;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;0.5031537;9.429537
+dare sostanza;analitico;;;VN;VN;dare;unknown;ha_sinonimi;3.2623549;10.242172
+fare da spalla;analitico;;;VPrepN;V da N;fare;unknown;ha_sinonimi;1.3078048;13.480018
+avere spazio;analitico;;;VN;VN;avere;unknown;no_sinonimi;2.86367;10.624461
+fare spazio;analitico;;;VN;VN;fare;unknown;no_sinonimi;3.1032157;10.753272
+fare da specchio;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3180604;13.465305
+fare una spesa;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.2912766;11.161802
+fare da spia;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.3409898;13.4646015
+avere una spiegazione;analitico;;;VDetN;V det_indef N;avere;unknown;no_sinonimi;2.7280865;10.093529
+fare sport;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.2109227;12.450649
+andare sposa;analitico;;;VN;VN;andare;unknown;ha_sinonimi;0.102076486;13.321967
+fare squadra;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.8203424;11.592504
+andare in stampa;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;1.1519494;7.704858
+essere in stampa;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.1593821;7.734595
+mandare in stampa;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;1.204516;7.6713185
+dare una stella;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;0.42332184;11.213445
+fare storia;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.3138776;11.110969
+essere storico;analitico;;;VN;VN;essere;unknown;no_sinonimi;2.5472996;11.114843
+fare il storico;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.216171;12.020594
+fare strada;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.3452935;9.280571
+mettere su strada;analitico;;;VPrepN;V su N;mettere;unknown;no_sinonimi;1.4004;9.261695
+essere studente;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.5306001;12.472635
+fare il stupido;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.5518162;12.007456
+essere di successo;analitico;;;VPrepN;V di N;essere;unknown;no_sinonimi;2.210421;8.566946
+fare un suono;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;1.0021118;11.438925
+essere in sviluppo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.3050185;7.680675
+mettere in sviluppo;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.362303;7.717987
+mettere in tasca;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;1.0104469;9.674817
+mettere una tassa;analitico;;;VDetN;V det_indef N;mettere;unknown;ha_sinonimi;1.0906345;10.362056
+essere a tavola;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;-0.2521297;10.810797
+andare a teatro;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.3411992;10.978029
+fare teatro;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.14482124;12.070191
+avere tempo;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.9891864;10.483919
+dare tempo;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.9734418;10.475837
+essere in tempo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;2.200781;10.143449
+prendere tempo;analitico;;;VN;-;prendere;unknown;ha_sinonimi;1.9914852;10.483181
+fare il tenente;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;1.1063942;12.166497
+andare a termine;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;-0.036363278;9.960711
+mettere un termine;analitico;;;VDetN;V det_indef N;mettere;unknown;ha_sinonimi;1.4517347;9.3352785
+fare tesoro;analitico;;;VN;VN;fare;unknown;no_sinonimi;2.322473;9.313641
+andare in testa;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.008285956;8.687365
+avere in testa;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;-0.012597078;8.789695
+essere in testa;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.002718356;8.61875
+mettere in testa;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;-0.009533149;8.779081
+dare il titolo;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;1.3176736;11.7427225
+mettere il titolo;analitico;;;VDetN;V det_def N;mettere;unknown;ha_sinonimi;1.4125077;11.726736
+prendere il titolo;analitico;;;VDetN;V det_def N;prendere;unknown;ha_sinonimi;1.2950131;11.822622
+avere il tono;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;1.3366449;11.509705
+dare il tono;analitico;;;VDetN;V det_def N;dare;unknown;no_sinonimi;1.1980534;11.592918
+fare da torre;analitico;;;VPrepN;V da N;fare;unknown;no_sinonimi;1.466463;13.430124
+dare torto;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.9579521;10.0094185
+essere in torto;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;1.7878696;9.781928
+fare torto;analitico;;;VN;VN;fare;unknown;no_sinonimi;1.8082852;10.094514
+essere uomo;analitico;;;VN;VN;essere;unknown;no_sinonimi;0.60814184;12.55874
+fare il uomo;analitico;;;VDetN;V det_def N;fare;unknown;no_sinonimi;0.67910534;12.349772
+dare in uso;analitico;;;VPrepN;V in N;dare;unknown;no_sinonimi;0.6621794;7.0463004
+essere in uso;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.65464646;7.0247564
+fare un uso;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;0.74697244;7.109741
+fare uso;analitico;;;VN;VN;fare;unknown;ha_sinonimi;0.74982816;7.1123886
+mettere in uso;analitico;;;VPrepN;V in N;mettere;unknown;ha_sinonimi;0.6860146;7.042312
+andare in vacanza;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.71564937;10.702624
+fare una vacanza;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;-0.5289456;11.031462
+mandare in vacanza;analitico;;;VPrepN;V in N;mandare;unknown;no_sinonimi;-0.7824737;10.659184
+mettere in valigia;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.0688262;9.468389
+mettere a valore;analitico;;;VPrepN;V a N;mettere;unknown;no_sinonimi;2.3264031;9.25262
+mettere in valore;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;1.668072;9.280413
+andare a vantaggio;analitico;;;VPrepN;V a N;andare;unknown;no_sinonimi;2.2788568;8.872143
+andare in vantaggio;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;0.071371324;8.489488
+avere il vantaggio;analitico;;;VDetN;V det_def N;avere;unknown;no_sinonimi;2.4932077;8.806008
+essere a vantaggio;analitico;;;VPrepN;V a N;essere;unknown;no_sinonimi;2.4116406;8.926454
+essere in vantaggio;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;0.15943119;8.423713
+avere vendetta;analitico;;;VN;VN;avere;unknown;no_sinonimi;0.7756258;10.2177515
+fare vendetta;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.7349411;10.405961
+essere una vergogna;analitico;;;VDetN;V det_indef N;essere;unknown;no_sinonimi;4.064509;11.757787
+dare il via;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;1.9869099;8.037616
+prendere il via;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;1.8020585;7.860557
+essere in viaggio;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.828388;10.324119
+mettere in viaggio;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;-0.8275363;10.330026
+fare violenza;analitico;;;VN;VN;fare;unknown;no_sinonimi;0.8431718;10.363514
+andare in visita;analitico;;;VPrepN;V in N;andare;unknown;no_sinonimi;-0.85666174;10.387729
+essere in visita;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.82238925;10.336396
+avere in vista;analitico;;;VPrepN;V in N;avere;unknown;no_sinonimi;-0.8052886;10.211245
+essere in vista;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.8295915;10.186642
+mettere in vista;analitico;;;VPrepN;V in N;mettere;unknown;no_sinonimi;-0.7607893;10.078972
+avere vita;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.7633181;8.3973875
+dare vita;analitico;;;VN;VN;dare;unknown;no_sinonimi;2.0473163;8.211134
+essere in vita;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.8214571;10.193458
+prendere vita;analitico;;;VN;-;prendere;unknown;no_sinonimi;1.8993155;8.275381
+essere vittima;analitico;;;VN;VN;essere;unknown;no_sinonimi;1.9169459;9.878889
+avere voce;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.5761787;10.867179
+dare voce;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.5246749;10.915491
+avere voglia;analitico;;;VN;VN;avere;unknown;no_sinonimi;1.3363103;10.849861
+essere in volo;analitico;;;VPrepN;V in N;essere;unknown;no_sinonimi;-0.7884286;9.903352
+fare un volo;analitico;;;VDetN;V det_indef N;fare;unknown;no_sinonimi;-0.67267436;9.944463
+prendere il volo;analitico;;;VDetN;V det_def N;prendere;unknown;no_sinonimi;-0.7658251;9.9235
+dare volto;analitico;;;VN;VN;dare;unknown;no_sinonimi;1.4595779;11.020309
+dare il voto;analitico;;;VDetN;V det_def N;dare;unknown;ha_sinonimi;1.1498295;12.057849
+venire a conoscenza;analitico;;;VPrepN;V a N;venire;unknown;no_sinonimi;2.0730894;9.971755
+venire in mente;analitico;;;VPrepN;V in N;venire;unknown;no_sinonimi;1.7010181;10.258107
+venire a contatto;analitico;;;VPrepN;V a N;venire;unknown;ha_sinonimi;3.227494;12.875634
+venire in contatto;analitico;;;VPrepN;V in N;venire;unknown;ha_sinonimi;3.2243888;12.872344
+venire in aiuto;analitico;;;VPrepN;V in N;venire;unknown;no_sinonimi;0.72093034;9.79825
+venire a capo;analitico;;;VPrepN;V a N;venire;unknown;no_sinonimi;2.3971522;11.415812
+venire in superficie;analitico;;;VPrepN;V in N;venire;unknown;no_sinonimi;7.22659;9.883093
+venire in luce;analitico;;;VPrepN;V in N;venire;unknown;no_sinonimi;2.6360314;9.408663
+venire ad esistenza;analitico;;;VPrepN;V a N;venire;unknown;no_sinonimi;3.2411292;9.830898
+venire a noia;analitico;;;VPrepN;V a N;venire;unknown;ha_sinonimi;0.96996784;10.584284
+venire a morte;analitico;;;VPrepN;V a N;venire;unknown;no_sinonimi;3.1133358;6.372768
+venire in uso;analitico;;;VPrepN;V in N;venire;unknown;no_sinonimi;0.6611627;7.026361

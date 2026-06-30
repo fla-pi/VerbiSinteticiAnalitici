@@ -1,0 +1,10 @@
+name: verbi-analitici-e-sintetici
+title:
+username: fla-pi
+account: fla-pi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17563747
+bundleId: 12196254
+url: https://fla-pi.shinyapps.io/verbi-analitici-e-sintetici/
+version: 1
