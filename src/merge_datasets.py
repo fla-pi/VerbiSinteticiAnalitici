@@ -2,17 +2,15 @@ import pandas as pd
 
 
 verbi_sintetici_df = pd.read_csv('verbi_sintetici.csv', sep=';', encoding='utf-8')
-verbi_freqs_df = pd.read_csv('verbi_sintetici_freqs.csv', sep=';', encoding='utf-8')
 verbi_analitici_df = pd.read_csv('verbi_analitici.csv', sep=';', encoding='utf-8')
 nomi_df = pd.read_csv('nomi.csv', sep=';', encoding='utf-8')
 
 
-verbi_validi_set = set(verbi_freqs_df['Item'])
+
 
 verbi_sintetici_tuples = [
     (row['nome'], row['verbo'])
     for _, row in verbi_sintetici_df.iterrows()
-    if row['verbo'] in verbi_validi_set
 ]
 
 

@@ -1,1299 +1,658 @@
-﻿nome;verbo;schema;processo
-acqua;adacquare;ad are;ps
-acqua;inacquare;in are;ps
-acqua;sciacquare;s are;ps
-acqua;acquificarsi;ificare;s
-aeroplano;aeroplanare;are;c
-ala;aleggiare;eggiare;s
-alba;albeggiare;eggiare;s
-albergo;albergare;are;c
-albero;alberare;are;c
-albero;inalberare;in are;ps
-albero;inalberire;in ire;ps
-ambiente;ambientare;are;c
-amore;inamorare;in are;ps
-amore;amoreggiare;eggiare;s
-anello;anellare;are;c
-anello;inanellare;in are;ps
-angolo;angolare;are;c
-anima;animare;are;c
-anima;inanimarsi;in are;dsd
-anima;inanimire;in ire;ps
-animale;inanimalire;in ire;ps
-animale;animalizzare;izzare;s
-animo;animire;ire;c
-animo;inanimare;in are;ps
-animo;inanimire;in ire;ps
-ansia;ansiare;are;c
-architetto;architettare;are;c
-arco;arcare;are;c
-arco;inarcare;in are;ps
-arco;archeggiare;eggiare;s
-argomento;argomentare;are;c
-aria;arieggiare;eggiare;s
-arma;armare;are;c
-arma;armeggiare;eggiare;s
-articolo;articolare;are;c
-assassino;assassinare;are;c
-attenzione;attenzionare;are;c
-atto;atteggiare;eggiare;s
-avventura;avventurare;are;c
-avvocato;avvocateggiare;eggiare;s
-azione;azionare;are;c
-babbo;babbare;are;c
-bacio;baciare;are;c
-bagno;bagnare;are;c
-bagno;imbagnare;in are;ps
-bambino;abbambinare;ad are;ps
-bambino;bambineggiare;eggiare;s
-bambino;bambinizzare;izzare;s
-banco;abbancare;ad are;ps
-banco;imbancare;in are;ps
-banco;sbancare;s are;dsd
-banco;bancheggiare;eggiare;s
-bandiera;imbandierare;in are;ps
-bandiera;sbandierare;s are;ps
-barba;barbare;are;c
-barba;abbarbare;ad are;ps
-barba;sbarbare;s are;dsd
-barba;barbificare;ificare;s
-base;basare;are;c
-base;imbasare;in are;ps
-battaglia;battagliare;are;c
-bellezza;imbellezzire;in ire;ps
-bene;imbenarsi;in are;ps
-bestia;imbestiare;in are;ps
-bicchiere;sbicchierare;s are;ps
-bicicletta;biciclettare;are;c
-bicicletta;sbiciclettare;s are;ps
-biglietto;sbigliettare;s are;ps
-bisogno;bisognare;are;c
-bisogno;abbisognare;ad are;ps
-bocca;boccare;are;c
-bocca;abboccare;ad are;ps
-bocca;imboccare;in are;ps
-bocca;sboccare;s are;dsd
-bocca;boccheggiare;eggiare;s
-bomba;imbombare;in are;ps
-bomba;imbombare;in are;ps
-bomba;sbombare;s are;ps
-bomba;bombeggiare;eggiare;s
-bordo;bordare;are;c
-bordo;abbordare;ad are;ps
-bordo;sbordare;s are;dsd
-bordo;sbordare;s are;dsd
-bordo;bordeggiare;eggiare;s
-borsa;imborsare;in are;ps
-borsa;sborsare;s are;dsd
-borsa;borseggiare;eggiare;s
-bosco;imboscare;in are;ps
-bosco;imboschire;in ire;ps
-bosco;sboscare;s are;dsd
-bottiglia;imbottigliare;in are;ps
-bottiglia;sbottigliare;s are;dsd
-braccio;bracciare;are;c
-braccio;abbracciare;ad are;ps
-braccio;imbracciare;in are;ps
-braccio;sbracciarsi;s are;ps
-bue;imbuire;in ire;ps
-bue;bueggiare;eggiare;s
-bugia;bugiare;are;c
-buio;abbuiare;ad are;ps
-caccia;incacciare;in are;ps
-cadavere;incadaverire;in ire;ps
-calcio;calciare;are;c
-calcio;incalciare;in are;ps
-calcio;scalciare;s are;ps
-calcio;calcificare;ificare;s
-calma;calmare;are;c
-calma;incalmare;in are;ps
-calza;calzare;are;c
-calza;incalzare;in are;ps
-calza;scalzare;s are;dsd
-camera;incamerare;in are;ps
-camera;scamerare;s are;dsd
-camicia;accamiciare;ad are;ps
-camicia;incamiciare;in are;ps
-camicia;scamiciare;s are;dsd
-cammino;camminare;are;c
-cammino;incamminare;in are;ps
-campagna;scampagnare;s are;ps
-campione;campionare;are;c
-campione;accampionare;ad are;ps
-campione;incampionare;in are;ps
-campo;campare;are;c
-campo;campare;are;c
-campo;campire;ire;c
-campo;campire;ire;c
-campo;accampare;ad are;ps
-campo;scampare;s are;dsd
-campo;campeggiare;eggiare;s
-campo;campeggiare;eggiare;s
-canale;accanalare;ad are;ps
-canale;incanalare;in are;ps
-canale;scanalare;s are;ps
-canale;scanalare;s are;dsd
-canale;canalizzare;izzare;s
-cane;accanire;ad ire;ps
-cane;incanire;in ire;ps
-canzone;canzonare;are;c
-canzone;scanzonare;s are;ps
-canzone;canzoneggiare;eggiare;s
-capello;incapellare;in are;ps
-capitale;capitalizzare;izzare;s
-capitano;capitanare;are;c
-capitano;scapitanare;s are;dsd
-capitano;capitaneggiare;eggiare;s
-capo;incapare;in are;ps
-capo;capeggiare;eggiare;s
-cappello;incappellare;in are;ps
-cappello;scappellare;s are;dsd
-carattere;caratterizzare;izzare;s
-carbone;carbonare;are;c
-carbone;incarbonire;in ire;ps
-carbone;carbonizzare;izzare;s
-carcere;carcerare;are;c
-carcere;incarcerare;in are;ps
-carcere;scarcerare;s are;dsd
-carne;accarnare ;ad are;ps
-carne;accarnare;ad are;ps
-carne;accarnire;ad ire;ps
-carne;incarnare;in are;ps
-carne;incarnire;in ire;ps
-carne;scarnare;s are;dsd
-carne;scarnire;s ire;dsd
-carne;carneggiare;eggiare;s
-carogna;incarognare;in are;ps
-carogna;incarognire;in ire;ps
-carogna;scarognare;s are;dsd
-carogna;scarognire;s ire;dsd
-carriera;incarrierare;in are;ps
-carrozza;carrozzare;are;c
-carrozza;incarrozzare;in are;ps
-carrozza;scarrozzare;s are;ps
-carta;incartare;in are;ps
-carta;scartare;s are;dsd
-carta;scartare;s are;ps
-carta;carteggiare;eggiare;s
-casa;casare;are;c
-casa;accasare;ad are;ps
-casa;scasare;s are;dsd
-catena;catenare;are;c
-catena;incatenare;in are;ps
-catena;scatenare;s are;dsd
-causa;causare;are;c
-causa;incausare;in are;ps
-cavaliere;incavalierare;in are;ps
-cavallo;cavallare;are;c
-cavallo;accavallare;ad are;ps
-cavallo;incavallare;in are;ps
-cavallo;incavallare;in are;ps
-cavallo;incavallito;in ire;ps
-cavallo;scavallare;s are;dsd
-cavallo;scavallare;s are;ps
-cavallo;scavallare;s are;dsd
-cena;cenare;are;c
-centro;centrare;are;c
-centro;accentrare;ad are;ps
-centro;incentrare;in are;ps
-centro;centreggiare;eggiare;s
-cerimonia;cerimoniare;are;c
-cervello;scervellare;s are;dsd
-chiave;chiavare;are;c
-chiave;acchiavare;ad are;ps
-chiave;inchiavare;in are;ps
-chiave;inchiavare;in are;ps
-chiave;schiavare;s are;dsd
-chiave;schiavare;s are;ps
-chilometro;chilometrare;are;c
-cibo;cibare;are;c
-cielo;incielare;in are;ps
-cifra;cifrare;are;c
-cifra;incifrare;in are;ps
-cifra;scifrare;s are;dsd
-cima;cimare;are;c
-cima;accimare;ad are;ps
-cima;incimare;in are;ps
-cima;scimare;s are;dsd
-cinema;cinemare;are;c
-circostanza;cirocostanziare;are;c
-classe;classare;are;c
-classe;inclassare;in are;ps
-classe;classificare;ificare;s
-clima;acclimare;ad are;ps
-clima;acclimatare;ad are;ps
-clima;climatizzare;izzare;s
-coda;accodare;ad are;ps
-coda;incodare;in are;ps
-coda;scodare;s are;dsd
-coda;scodare;s are;ps
-colazione;colazionare;are;c
-collina;scollinare;s are;dsd
-collo;accollare;ad are;ps
-collo;scollare;s are;dsd
-colore;colorare;are;c
-colore;colorire;ire;c
-colore;incolorare;in ire;ps
-colore;scolorare;s are;dsd
-colore;scolorire;s ire;dsd
-colore;colorizzare;izzare;s
-colpa;colpare;are;c
-colpa;accolpare;ad are;ps
-colpa;incolpare;in are;ps
-colpa;scolpare;s are;dsd
-colpo;colpire;ire;c
-colpo;scolpire;s ire;ps
-coltello;accoltellare;ad are;ps
-commercio;commerciare;are;c
-compagno;compagnare;are;c
-compagno;accompagnare;ad are;ps
-compagno;scompagnare;s are;dsd
-complesso;complessare;are;c
-complimento;complimentare;are;c
-comunista;comunistizzare;izzare;s
-condizione;condizionare;are;c
-condizione;scondizionare;s are;dsd
-confessione;confessare;are;c
-confessione;sconfessare;s are;dsd
-confine;confinare;are;c
-confine;sconfinare;s are;dsd
-consiglio;consigliare;are;c
-consiglio;sconsigliare;s are;dsd
-contatto;contattare;are;c
-contratto;contrattare;are;c
-convento;conventare;are;c
-convento;conventare;are;c
-convento;conventare;are;c
-convento;sconventare;s are;dsd
-coraggio;incoraggiare;in are;ps
-coraggio;incoraggire;in ire;ps
-coraggio;scoraggiare;s are;dsd
-corno;incornare;in are;ps
-corno;scornare;s are;dsd
-corno;scornare;s are;ps
-corno;cornificare;ificare;s
-corpo;accorpare;ad are;ps
-corpo;scorpare;s are;ps
-corpo;scorpare;s are;dsd
-corte;corteggiare;eggiare;s
-cosa;cosare;are;c
-cosa;cosificare;ificare;s
-cosa;cosizzare;izzare;s
-costa;accostare;ad are;ps
-costa;scostare;s are;dsd
-costa;costeggiare;eggiare;s
-croce;crociare;are;c
-croce;incrociare;in are;ps
-croce;scrociare;s are;dsd
-cucina;cucinare;are;c
-cuore;accorare;ad are;ps
-cuore;scorare;s are;dsd
-cura;curare;are;c
-cura;accurare;ad are;ps
-custode;custodire;ire;c
-danno;dannare;are;c
-danno;addannare;ad are;ps
-danno;danneggiare;eggiare;s
-debito;addebitare;ad are;ps
-debito;indebitare;in are;ps
-debito;sdebitare;s are;dsd
-dente;dentare;are;c
-dente;addentare;ad are;ps
-dente;indentare;in are;ps
-dente;sdentare;s are;dsd
-diavolo;indiavolare;in are;ps
-diavolo;indiavolire;in ire;ps
-diavolo;sdiavolare;s are;ps
-differenza;differenziare;are;c
-differenza;sdifferenziare;s are;dsd
-dimensione;dimensionare;are;c
-dio;indiare;in are;ps
-dio;deificare;ificare;s
-direzione;direzionare;are;c
-distanza;distanziare;are;c
-dito;additare;ad are;ps
-documento;documentare;are;c
-dolore;dolorare;are;c
-dolore;addolorare;ad are;ps
-dolore;indolorire;in ire;ps
-dolore;sdolorire;s ire;dsd
-domenica;indomenicare;in are;ps
-donna;indonnarsi;in are;ps
-donna;indonnirsi;in ire;ps
-donna;sdonnare;s are;dsd
-donna;donneggiare;eggiare;s
-dote;dotare;are;c
-dote;addotare;ad are;ps
-dote;indotare;in are;ps
-dottore;dottorare;are;c
-dottore;addottorare;ad are;ps
-dottore;sdottorare;s are;dsd
-dottore;sdottorare;s are;ps
-dottore;dottoreggiare;eggiare;s
-dubbio;dubbiare;are;c
-dubbio;indubbiare;in are;ps
-dubbio;dubitare;are;c
-dubbio;dubbieggiare;eggiare;s
-emozione;emozionare;are;c
-energia;energizzare;izzare;s
-entusiasmo;entusiasmare;are;c
-episodio;episodizzare;izzare;s
-epoca;epochizzare;izzare;s
-erba;aderbare;ad are;ps
-erba;inerbare;in are;ps
-erba;inerbire;in ire;ps
-eroe;eroificare;ificare;s
-eroe;eroizzare;izzare;s
-esame;esaminare;are;c
-esempio;esemplificare;are;c
-esilio;esiliare;are;c
-estate;estatare;are;c
-fabbrica;fabbricare;are;c
-fabbrica;sfabbricare;s are;dsd
-faccenda;faccendare;are;c
-faccenda;affaccendare;ad are;ps
-faccenda;infaccendarsi;in are;ps
-faccenda;sfaccendare;s are;ps
-faccia;affacciare;ad are;ps
-faccia;infacciare;in are;ps
-fame;affamare;ad are;ps
-fame;infamire;in ire;ps
-fame;sfamare;s are;dsd
-famiglia;infamigliare;are;c
-fascista;fascisteggiare;eggiare;s
-fascista;fascistizzare;izzare;s
-fastidio;fastidiare;are;c
-fastidio;fastidire;ire;c
-fastidio;affastidiare;ad are;ps
-fastidio;affastidire;ad ire;ps
-fastidio;infastidiare;in are;ps
-fastidio;infastidire;in ire;ps
-fastidio;sfastidiare;s are;ps
-fastidio;sfastidire;s ire;dsd
-fatica;faticare;are;c
-fatica;affaticare;ad are;ps
-fatica;sfaticare;s are;ps
-favore;favorire;ire;c
-favore;favoreggiare;eggiare;s
-fenomeno;fenomenizzare;izzare;s
-ferro;ferrare;are;c
-ferro;afferrare;ad are;ps
-ferro;inferrare;in are;ps
-ferro;sferrare;s are;dsd
-ferro;sferrare;s are;ps
-festa;festare;are;c
-festa;festeggiare;eggiare;s
-festa;festizzare;izzare;s
-fianco;fiancare;are;c
-fianco;affiancare;ad are;ps
-fianco;infiancare;in are;ps
-fianco;sfiancare;s are;dsd
-fianco;fiancheggiare;eggiare;s
-fiato;fiatare;are;c
-fiato;affiatare;ad are;ps
-fiato;infiatare;in are;ps
-fiato;sfiatare;s are;dsd
-fiducia;fiduciare;are;c
-figlio;figliare;are;c
-figlio;affigliare;ad are;ps
-figliolo;affigliolare;ad are;ps
-figura;figurare;are;c
-figura;affigurare;ad are;ps
-figura;sfigurare;s are;dsd
-figura;sfigurire;s ire;dsd
-figura;figureggiare;eggiare;s
-fila;sfilare;s are;ps
-film;filmare;are;c
-filo;filare;are;c
-filo;affilare;ad are;ps
-filo;infilare;in are;ps
-filo;sfilare;s are;dsd
-filo;fileggiare;eggiare;s
-fine;finire;ire;c
-finestra;infinestrare;in are;ps
-fiore;fiorare;are;c
-fiore;fiorire;ire;c
-fiore;affiorare;ad are;ps
-fiore;affiorare;ad are;ps
-fiore;affiorare;ad are;ps
-fiore;infiorare;in are;ps
-fiore;infiorire;in ire;ps
-fiore;sfiorire;s are;dsd
-fiore;sfiorire;s ire;dsd
-fiore;sfiorire;s ire;dsd
-fiume;infiumare;in are;ps
-foglia;fogliare;are;c
-foglia;affogliare;ad are;ps
-foglia;infogliare;in are;ps
-foglia;sfogliare;s are;dsd
-foglio;affogliare;ad are;ps
-foglio;sfogliare;s are;ps
-foglio;sfogliare;s are;dsd
-folla;affollare;ad are;ps
-fondo;fondare;are;c
-fondo;affondare;ad are;ps
-fondo;infondare;in are;ps
-fondo;sfondare;s are;dsd
-fondo;sfondare;s are;ps
-foresta;forestare;are;c
-forma;formare;are;c
-forma;informare;in are;ps
-forma;informare;in are;dsd
-forma;sformare;s are;dsd
-formula;formulare;are;c
-fortuna;fortunare;are;c
-fortuna;fortunare;are;c
-fortuna;infortunare;in are;ps
-forza;forzare;are;c
-forza;afforzare;ad are;ps
-forza;inforzare;in are;ps
-forza;sforzare;s are;ps
-forza;sforzare;s are;dsd
-forza;sforzare;s are;dsd
-fotografia;fotografare;are;c
-frase;fraseggiare;eggiare;s
-fratello;fratellare;are;c
-fratello;affratellare;ad are;ps
-fratello;infratellarsi;in are;ps
-fratello;infratellirsi;in ire;ps
-fratello;fratellizzare;izzare;s
-fretta;affrettare;ad are;ps
-fretta;sfrettare;s are;ps
-fronte;frontare;are;c
-fronte;affrontare;ad are;ps
-fronte;infrontare;in are;ps
-fronte;sfrontare;s are;dsd
-frutta;fruttare;are;c
-frutta;sfruttare;s are;dsd
-frutta;sfruttare;s are;ps
-frutto;fruttificare;ificare;s
-fuga;fugare;are;c
-fuga;infugare;in are;ps
-fumo;fumare;are;c
-fumo;sfumare;s are;ps
-fumo;fumeggiare;eggiare;s
-funzione;funzionare;are;c
-fuoco;infuocare;in are;ps
-fuoco;sfocare;s are;dsd
-fuoco;sfocare;s are;ps
-futuro;infuturare;in are;ps
-gamba;gambare;are;c
-gamba;ingambare;in are;ps
-gamba;sgambare;s are;ps
-gamba;sgambare;s are;dsd
-gamba;gambizzare;izzare;s
-gara;gareggiare;eggiare;s
-gas;gassare;are;c
-gas;sgassare;s are;dsd
-gas;sgassare;s are;ps
-gatto;ingattire;in ire;ps
-gatto;gatteggiare;eggiare;s
-gatto;gattizzare;izzare;s
-genere;generare;are;c
-genere;ingenerare;in are;ps
-gesto;gestare ;are;c
-gesto;gestire;ire;c
-ghiaccio;ghiacciare;are;c
-ghiaccio;agghiacciare;ad are;ps
-ghiaccio;inghiacciare;in are;ps
-ghiaccio;sghiacciare;s are;dsd
-giardino;giardinare;are;c
-giardino;aggiardinare;ad are;ps
-giardino;ingiardinare;in are;ps
-ginocchio;ginocchiarsi;are;c
-ginocchio;agginocchiarsi;ad are;ps
-ginocchio;inginocchiare;in are;ps
-gioco;giocare;are;c
-gioia;gioiare;are;c
-gioia;gioire;ire;c
-gioia;ingioiare;in are;ps
-giornata;giornatare;are;c
-giorno;giornare;are;c
-giorno;aggiornare;ad are;ps
-giorno;aggiornare;ad are;ps
-giro;girare;are;c
-giustizia;giustiziare;are;c
-gloria;gloriare;are;c
-gloria;ingloriare;in are;ps
-gloria;sgloriare;s are;ps
-gloria;glorieggiarsi;eggiare;s
-gloria;glorificare;ificare;s
-goccia;gocciare;are;c
-goccia;sgocciare;s are;ps
-gola;golare;are;c
-gola;golare;are;c
-gola;sgolare;s are;dsd
-gomma;gommare;are;c
-gomma;ingommare;in are;ps
-gomma;sgommare;s are;dsd
-gomma;sgommare;s are;ps
-gomma;sgommare;s are;dsd
-grado;gradare;are;c
-grado;gradare;are;c
-grado;graduare;are;c
-grado;gradire;ire;c
-grado;aggradare;ad are;ps
-grado;aggradire;ad ire;ps
-grado;ingradare;in are;ps
-grado;sgradare;s are;ps
-grado;sgradare;s are;ps
-grado;sgradare;s are;dsd
-grano;granare;are;c
-grano;granare;are;c
-grano;granare;are;c
-grano;granire;ire;c
-grano;granire;ire;c
-grano;aggranare;ad are;ps
-grano;ingranare;in are;ps
-grano;ingranare;in are;ps
-grano;sgranare;s are;dsd
-grano;sgranare;s are;dsd
-grazia;graziare;are;c
-grazia;aggraziare;ad are;ps
-grazia;ingraziare;in are;ps
-gruppo;gruppare;are;c
-gruppo;aggruppare;ad are;ps
-gruppo;ingruppare;in are;ps
-gruppo;sgruppare;s are;dsd
-guaio;guaire;ire;c
-guaio;inguaiare;in are;ps
-guaio;sguaiare;s are;ps
-guardia;guardiare;are;c
-guerra;guerriare/guerrare;are;c
-guerra;agguerrire;ad ire;ps
-guerra;guerreggiare;eggiare;s
-idea;ideare;are;c
-idea;ideizzare;izzare;s
-immagine;immaginare;are;c
-impressione;impressionare;are;c
-ingegnere;ingegnerizzare;izzare;s
-ingresso;ingressare;are;c
-inizio;iniziare;are;c
-intenzione;intenzionare;are;c
-interesse;interessare;are;c
-inverno;invernare;are;c
-isola;isolare;are;c
-labbro;slabbrare;s are;dsd
-lacrima;lacrimare;are;c
-lacrima;illacrimare ;in are;ps
-ladro;ladreggiare;eggiare;s
-lago;allagare;ad are;ps
-lago;illagare;in are;ps
-latte;lattare;are;c
-latte;allattare;ad are;ps
-latte;slattare;s are;dsd
-lavoro;lavorare;are;c
-lavoro;illavorare;in are;ps
-legge;leggificare;ificare;s
-legno;legnare;are;c
-lettera;alletterare;ad are;ps
-lettera;allitterare;ad are;ps
-lettera;sletterare;s are;dsd
-letto;allettare;ad are;ps
-lezione;lezioneggiare;eggiare;s
-libro;librificare;ificare;s
-limite;limitare;are;c
-limite;illimitare;in are;dsd
-linea;lineare;are;c
-linea;allineare;ad are;ps
-lingua;linguare;are;c
-lingua;slinguare;s are;ps
-lingua;lingueggiare;eggiare;s
-lista;listare;are;c
-lista;allistare;ad are;ps
-luce;alluciare;ad are;ps
-luce;alluciare;ad are;ps
-luce;lucificare;ificare;s
-luna;lunare;are;c
-luna;allunare;ad are;ps
-luna;allunare;ad are;ps
-luna;luneggiare;eggiare;s
-luogo;alluogare/allocare;ad are;ps
-luogo;locare;are;c
-lupo;allupare;ad are;ps
-lupo;lupificare;ificare;s
-lusso;lussificare;ificare;s
-macchia;macchiare;are;c
-macchia;ammacchiare;ad are;ps
-macchia;immacchiarsi;in are;ps
-macchia;smacchiare;s are;dsd
-macchia;smacchiare;s are;dsd
-macchina;macchinare;are;c
-macchina;smacchinare;s are;ps
-macchina;macchinificare;ificare;s
-madre;madreggiare;eggiare;s
-madre;matrizzare;izzare;s
-maestro;maestrare;are;c
-maestro;ammaestrare;ad are;ps
-maglia;magliare;are;c
-maglia;ammagliare;ad are;ps
-maglia;immagliare;in are;ps
-maglia;smagliare;s are;dsd
-maglia;smagliare;s are;dsd
-male;malare;are;c
-male;ammalare;ad are;ps
-mamma;mammare;are;c
-mamma;smammare;s are;dsd
-mamma;smammarsi;s are;ps
-maniera;manierare;are;c
-maniera;ammanierare;ad are;ps
-mano;maneggiare;eggiare;s
-mare;ammarare;ad are;ps
-mare;mareggiare;eggiare;s
-marito;maritare;are;c
-marmo;marmare;are;c
-marzo;marzeggiare;eggiare;s
-maschio;maschiare;are;c
-maschio;immaschirsi;ad ire;ps
-maschio;smaschiare;s are;dsd
-massa;massare;are;c
-massa;ammassare;ad are;ps
-massa;smassare;s are;dsd
-massa;massificare;ificare;s
-matrimonio;matrimoniare;are;c
-matrimonio;immatrimoniare;in are;ps
-mattina;mattinare;are;c
-medico;medicare;are;c
-mela;melare;are;c
-membro;immembrare;in are;ps
-membro;smembrare;s are;dsd
-memoria;memoriare;are;c
-memoria;memorificare;ificare;s
-memoria;memorizzare;izzare;s
-mente;ammentare;ad are;ps
-mente;smentare;s are;dsd
-meraviglia;meravigliare;are;c
-mercato;mercatare;are;c
-mercato;mercatizzare;izzare;s
-mese;ammesare;ad are;ps
-metro;metrizzare;izzare;s
-ministro;ministrare;are;c
-ministro;amministrare;ad are;ps
-miracolo;miracolare;are;c
-miracolo;smiracolare;s are;ps
-miracolo;miracoleggiare;eggiare;s
-miracolo;miracolizzare;izzare;s
-misura;misurare;are;c
-misura;ammisurare;ad are;ps
-misura;smisurare;s are;dsd
-modello;modellare;are;c
-modo;ammodare;ad are;ps
-modo;smodare;s are;dsd
-modo;modificare;ificare;s
-moglie;ammogliare;ad are;ps
-montagna;ammontagnare;ad are;ps
-monte;montare;are;c
-monte;ammontare;ad are;ps
-monte;smontare;s are;dsd
-monumento;monumentare;are;c
-monumento;smonumentare;s are;dsd
-morte;mortificare;ificare;s
-mostro;mostrificare;ificare;s
-motivo;motivare;are;c
-motore;motorizzare;izzare;s
-movimento;movimentare;are;c
-mucchio;ammucchiare;ad are;ps
-muro;murare;are;c
-muro;immurare;in are;ps
-museo;museificare;ificare;s
-musica;musicare;are;c
-naso;nasare;are;c
-naso;annasare;ad are;ps
-naso;innasare;in are;ps
-naso;naseggiare;eggiare;s
-natura;naturare;are;c
-natura;innaturare;in are;ps
-natura;snaturare;s are;dsd
-nave;navare;are;c
-nave;naveggiare;eggiare;s
-nebbia;annebbiare;ad are;ps
-nebbia;innebbiare;in are;ps
-nebbia;snebbiare;s are;dsd
-nebbia;nebbieggiare;eggiare;s
-necessitÃ ;necessitare;are;c
-negozio;negoziare;are;c
-nervo;nervare;are;c
-nervo;innervare;in are;ps
-nervo;snervare;s are;dsd
-neve;nevare;are;c
-neve;innevare;in are;ps
-neve;snevare;s are;dsd
-neve;neveggiare;eggiare;s
-noia;noiare;are;c
-noia;annoiare;ad are;ps
-noia;innoiare;in are;ps
-noia;snoiarsi;s are;dsd
-nome;nomare;are;c
-nome;nominare;are;c
-nome;annomare;ad are;ps
-notizia;notiziare;are;c
-notizia;annotiziare;ad are;ps
-notte;nottare;are;c
-notte;annottare;ad are;ps
-numero;numerare;are;c
-numero;annumerare;ad are;ps
-numero;innumerare;in are;ps
-numero;numerizzare;izzare;s
-nuvola;annuvolare;ad are;ps
-nuvola;annuvolirsi;ad ire;ps
-nuvola;snuvolare;s are;dsd
-occasione;occasionare;are;c
-occhio;occhiare;are;c
-occhio;oculare;are;c
-occhio;adocchiare;ad are;ps
-occhio;inocchiare;in are;ps
-occhio;inoculare;in are;ps
-occhio;occhieggiare;eggiare;s
-odio;odiare;are;c
-odio;inodiare;in are;ps
-odore;odorare;are;c
-odore;inodorare;in are;ps
-odore;odorificare;ificare;s
-odore;odorizzare;izzare;s
-oggetto;oggettare;are;c
-oggetto;oggettificarsi;ificare;s
-olio;oliare;are;c
-olio;inoliare;in are;ps
-ombra;ombrare;are;c
-ombra;adombrare;ad are;ps
-ombra;inombrare;in are;ps
-ombra;inombrirsi;in ire;ps
-ombra;ombreggiare;eggiare;s
-onda;ondare;are;c
-onda;inondare;in are;ps
-onda;ondeggiare;eggiare;s
-onore;onorare;are;c
-onore;inonorare;in are;dsd
-opera;operare;are;c
-opera;adoperare;ad are;ps
-opinione;opinionare;are;c
-ordine;ordinare;are;c
-ordine;adordinare;ad are;ps
-orecchio;orecchiare;are;c
-orecchio;inorecchiarsi;in are;ps
-orecchio;inorecchire;in ire;ps
-oro;orare;are;c
-oro;inorare;in are;ps
-oro;oreggiare;eggiare;s
-orologio;orologiare;are;c
-orrore;inorrorare;in are;ps
-ospedale;ospedalizzare;izzare;s
-ospite;ospitare;are;c
-osso;inossare;in are;ps
-osso;inossire;in ire;ps
-osso;ossificare;ificare;s
-ottobre;ottobrare;are;c
-pacco;appaccare;ad are;ps
-pacco;impaccare;in are;ps
-pace;paciare;are;c
-pace;appaciare;ad are;ps
-pace;impaciare;in are;ps
-pace;pacificare;ificare;s
-padre;padreggiare;eggiare;s
-padre;padrizzare;izzare;s
-padrone;appadronare;ad are;ps
-padrone;impadronire;in ire;ps
-padrone;spadronare;s are;ps
-padrone;spadronare;s are;dsd
-paese;paesare;are;c
-paese;paesare;are;c
-paese;impaesarsi;in are;ps
-paese;spaesare;s are;dsd
-pagina;paginare;are;c
-pagina;impaginare;in are;ps
-pagina;spaginare;s are;dsd
-paio;appaiare;ad are;ps
-paio;spaiare;s are;dsd
-palazzo;impalazzarsi;in are;ps
-palazzo;palazzeggiare;eggiare;s
-palla;pallare;are;c
-palla;appallare;ad are;ps
-palla;impallare;in are;ps
-palla;spallare;s are;dsd
-palla;palleggiare;eggiare;s
-pane;appanare;ad are;ps
-pane;impanare;in are;ps
-pane;paneggiare;eggiare;s
-pane;panificare;ificare;s
-papa;spapare;s are;dsd
-papa;papeggiare;eggiare;s
-papa;papizzare;izzare;s
-parco;parcare;are;c
-parco;imparcare;in are;ps
-parente;parentare;are;c
-parente;parentare;are;c
-parente;apparentare;ad are;ps
-parente;sparentare;s are;dsd
-parente;imparentare;in are;ps
-parola;parolare;are;c
-parola;paroleggiare;eggiare;s
-parte;partare;are;c
-parte;impartire;in ire;ps
-parte;spartire;s ire;ps
-parte;spartire;s ire;ps
-parte;partire;ire;c
-parte;appartare;ad are;ps
-parte;parteggiare;eggiare;s
-partito;partitare;are;c
-partito;partitizzare;izzare;s
-passaggio;passaggiare;are;c
-passato;passatare;are;c
-passione;passionare;are;c
-passione;spassionarsi;s are;dsd
-passione;appassionare;ad are;ps
-passione;impassionare;in are;ps
-passo;passare;are;c
-passo;passeggiare;eggiare;s
-patria;impatriare;in are;ps
-patria;spatriare;s are;dsd
-patto;patteggiare;eggiare;s
-paura;paurare;are;c
-paura;paurire;ire;c
-paura;impaurare;in are;ps
-paura;impaurire;in ire;ps
-paura;spaurare;s are;ps
-paura;spaurire;s ire;ps
-paura;spaurire;s ire;dsd
-pelle;spellare;s are;dsd
-pelo;spelare;s are;dsd
-pelo;pelare;are;c
-pelo;impelare;in are;ps
-pelo;spelare;s are;ps
-pelo;spelare;s are;ps
-pena;penare;are;c
-pensiero;spensierire;s ire;dsd
-pensiero;impensierire;in ire;ps
-pensione;pensionare;are;c
-pericolo;pericolare;are;c
-pericolo;impericolare;in are;ps
-pericolo;spericolare;s are;ps
-periodo;periodare;are;c
-periodo;periodizzare;izzare;s
-persona;impersonare;in are;ps
-persona;personificare;ificare;s
-pesce;pescare;are;c
-peso;pesare;are;c
-peso;spesare;s are;dsd
-petto;appettare;ad are;ps
-petto;impettare;in are;ps
-petto;impettirsi;in ire;ps
-pezzo;appezzare;ad are;ps
-pezzo;spezzare;s are;ps
-piano;pianificare;ificare;s
-pianta;piantare;are;c
-pianta;impiantire;in ire;ps
-pianta;spiantare;s are;dsd
-pianta;impiantare;in are;ps
-piatto;impiattare;in are;ps
-piazza;piazzare;are;c
-piazza;appiazzarsi;ad are;ps
-piazza;spiazzare;s are;dsd
-piazza;piazzeggiare;eggiare;s
-piazza;spiazzare;s are;ps
-piede;appiedare;ad are;ps
-pietra;impietrare;in are;ps
-pietra;impietrire;in ire;ps
-pioggia;pioggiare;are;c
-pittore;pittoreggiare;eggiare;s
-poeta;poetare;are;c
-poeta;impoetare;in are;ps
-poeta;spoetare;s are;dsd
-poeta;spoetare;s are;ps
-poeta;poeteggiare;eggiare;s
-poeta;poetizzare;izzare;s
-politica;politicare;are;c
-politica;spoliticare;s are;ps
-poltrona;impoltronare;in are;ps
-polvere;polverare;are;c
-polvere;impolverare;in are;ps
-polvere;impolverire;in ire;ps
-polvere;spolverare;s are;dsd
-polvere;spolverare;s are;ps
-polvere;polvereggiare;eggiare;s
-polvere;polverizzare;izzare;s
-pomodoro;impomidorarsi;in are;ps
-ponte;pontare;are;c
-popolo;popolare;are;c
-popolo;appopolare;ad are;ps
-popolo;impopolare;in are;ps
-popolo;spopolare;s are;dsd
-popolo;spopolare;s are;ps
-porto;porteggiare;eggiare;s
-posizione;posizionare;are;c
-possibilitÃ ;possibilitare;are;c
-posta;postare;are;c
-posta;impostare;in are;ps
-posta;posteggiare;eggiare;s
-posto;postare;are;c
-posto;impostare;in are;ps
-posto;posteggiare;eggiare;s
-potenza;potenziare;are;c
-pozzo;spozzare;s are;dsd
-pranzo;pranzare;are;c
-pratica;praticare;are;c
-pratica;impraticarsi;in are;ps
-pratica;impratichire;in ire;ps
-pratica;spraticare;s are;ps
-pratica;spratichire;s ire;ps
-prato;pratare;are;c
-prato;impratarsi;in are;ps
-premio;premiare;are;c
-presenza;presenziare;are;c
-prete;pretare;are;c
-prete;impretare;in are;ps
-prete;impretirsi;in ire;ps
-prete;spretare;s are;dsd
-prezzo;prezzare;are;c
-prezzo;apprezzare ;ad are;ps
-prezzo;sprezzare;s are;dsd
-prigione;prigionare;are;c
-prigione;imprigionare;in are;ps
-prigione;sprigionare;s are;dsd
-primavera;imprimaverare;in are;ps
-principe;principare;are;c
-principe;imprincipare;in are;ps
-principe;sprincipare;s are;dsd
-principe;principeggiare;eggiare;s
-principessa;imprincipessare;in are;ps
-principio;principiare;are;c
-problema;problemare;are;c
-processo;processare;are;c
-processo;processare;are;c
-professore;improfessorare;in are;ps
-profumo;profumare;are;c
-progetto;progettare;are;c
-programma;programmare;are;c
-proposito;spropositare;s are;dsd
-pugno;impugnare;in are;ps
-pugno;pugneggiare;eggiare;s
-punta;puntare;are;c
-punta;appuntare;ad are;ps
-punta;appuntire;ad ire;ps
-punta;impuntare;in are;ps
-punta;spuntare;s are;dsd
-punta;spuntare;s are;ps
-punta;spuntare;s are;dsd
-punta;spuntare;s are;dsd
-punto;puntare;are;c
-punto;appuntare;ad are;ps
-punto;punteggiare;eggiare;s
-quadro;quadrare;are;c
-quadro;inquadrare;in are;ps
-quadro;squadrare;s are;dsd
-quadro;squadrare;s are;dsd
-quartiere;quartierare;are;c
-quartiere;acquartierare;ad are;ps
-questione;questionare;are;c
-questione;questioneggiare;eggiare;s
-rabbia;arrabbiare;ad are;ps
-radio;radiare;are;c
-radio;radiare;are;c
-radio;irradiare;in are;ps
-radio;irradiare;in are;ps
-ragazzo;arragazzare;ad are;ps
-raggio;raggiare;are;c
-raggio;irraggiare;in are;ps
-ragione;ragionare;are;c
-ragione;irragionare;in are;ps
-ragione;sragionare;s are;dsd
-ramo;ramare;are;c
-ramo;irramare;in are;ps
-ramo;rameggiare;eggiare;s
-ramo;ramificare;ificare;s
-razza;razzizzare;izzare;s
-regno;regnare;are;c
-regola;sregolare;s are;dsd
-regola;regolare;are;c
-relazione;relazionare;are;c
-riflesso;riflessare;are;c
-rischio;rischiare;are;c
-rischio;arrischiare;ad are;ps
-rispetto;rispettare;are;c
-riva;arrivare;ad are;ps
-rivoluzione;rivoluzionare;are;c
-roba;robarsi;are;c
-rosa;irrosare;in are;ps
-rumore;rumorare;are;c
-rumore;rumoreggiare;eggiare;s
-ruota;ruotare;are;c
-ruota;srotare;s are;dsd
-ruota;arrotare (ant. anche arruotare);ad are;ps
-ruota;roteggiare;eggiare;s
-sabbia;sabbiare;are;c
-sabbia;insabbiare;in are;ps
-sacco;insaccare;in are;ps
-sacco;saccheggiare;eggiare;s
-sale;salare;are;c
-sale;insalare;in are;ps
-sale;salificare;ificare;s
-sangue;sanguinare;are;c
-sangue;insanguinare;in are;ps
-sangue;insanguare;in are;ps
-sangue;sanguificare;ificare;s
-sapore;saporare;are;c
-sapore;saporire;ire;c
-sapore;assaporare;ad are;ps
-sapore;assaporire;ad ire;ps
-sapore;insaporare;in are;ps
-sapore;insaporire;in ire;ps
-sasso;sassare;are;c
-sasso;assassare;ad are;ps
-sasso;insassare;in are;ps
-sasso;insassire;in ire;ps
-sasso;sassificare;ificare;s
-scala;scalare;are;c
-scarpa;scarpare;are;c
-scarpa;scarpare;are;c
-scarpa;scarpeggiare;eggiare;s
-scatola;scatolare;are;c
-scatola;inscatolare;in are;ps
-scena;inscenare;in are;ps
-scena;sceneggiare;eggiare;s
-schiena;schienare;are;c
-schifo;schifare;are;c
-schifo;schifire;ire;c
-schifo;schifeggiare;eggiare;s
-segno;segnare;are;c
-segno;assegnare;ad are;ps
-segno;insegnare;in are;ps
-segno;insegnire;in ire;ps
-segno;significare;ificare;s
-segreto;segretare;are;c
-segreto;insegretare;in are;ps
-sensazione;sensazionare;are;c
-senso;sensificare;ificare;s
-sera;asserare;ad are;ps
-servo;servire;ire;c
-servo;asservare;ad are;ps
-servo;asservire;ad ire;ps
-sete;setire;ire;c
-sete;assetare;ad are;ps
-sete;assetire;ad ire;ps
-sezione;sezionare;are;c
-signore;insignorire;in ire;ps
-signore;signoreggiare;eggiare;s
-silenzio;silenziare;are;c
-silenzio;insilenziarsi;in are;ps
-simpatia;simpatizzare;izzare;s
-sindaco;sindacare;are;c
-sistema;sistemare;are;c
-sistema;sistemizzare;izzare;s
-socialista;socialisteggiare;eggiare;s
-socialista;socialistizzare;izzare;s
-soggetto;soggettare;are;c
-soggetto;assoggettare;ad are;ps
-soggetto;assoggettire;ad ire;ps
-sogno;sognare;are;c
-soldato;insoldatare;in are;ps
-soldo;soldare;are;c
-soldo;assoldare;ad are;ps
-sole;insolare;in are;ps
-sole;soleggiare;eggiare;s
-somma;sommare;are;c
-somma;assommare;ad are;ps
-sonno;assonnire;ad ire;ps
-sonno;insonnare;in are;ps
-sonno;assonnare;ad are;ps
-sonno;sonneggiare;eggiare;s
-sorella;assorellarsi;ad are;ps
-sorella;sorelleggiare;eggiare;s
-sorte;sortare;are;c
-sorte;sortire;ire;c
-sorte;assortire;ad ire;ps
-sorte;assortire;ad ire;ps
-sorte;sorteggiare;eggiare;s
-sospetto;insospettire;in ire;ps
-sostanza;sostanziare;are;c
-spada;spadire;ire;c
-spalla;spallare;are;c
-spalla;inspallare;in are;ps
-spalla;spalleggiare;eggiare;s
-spazio;spaziare;are;c
-spazio;spazieggiare;eggiare;s
-specchio;specchiare;are;c
-specchio;specchieggiare;eggiare;s
-specie;specificare;ificare;s
-speranza;speranzare;are;c
-speranza;speranzire;ire;c
-speranza;insperanzare;in are;ps
-speranza;insperanzire;in ire;ps
-spesa;spesare;are;c
-spiaggia;spiaggiare;are;c
-spirito;inspiritare;in are;ps
-spirito;spiritare;are;c
-sposa;sposare;are;c
-stagione;stagionare;are;c
-stalla;stallare;are;c
-stanza;stanziare;are;c
-statua;statuare;are;c
-statua;instatuarsi;in are;ps
-statua;instatuirsi;in ire;ps
-stazione;stazionare;are;c
-stella;stellare;are;c
-stella;stellare;are;c
-stella;stelleggiare;eggiare;s
-stella;stellificare;ificare;s
-stomaco;stomacare;are;c
-storia;storiare;are;c
-storia;storieggiare;eggiare;s
-storia;storificare;ificare;s
-strada;stradare;are;c
-straniero;instradare;;
-studio;studiare;are;c
-suono;suonare (o sonare);are;c
-suono;assonare;ad are;ps
-suono;insonare;in are;ps
-tabacco;tabaccare;are;c
-tabacco;intabaccare;in are;ps
-tabacco;stabaccare;s are;ps
-tasca;intascare;in are;ps
-tassa;tassare;are;c
-tassa;stassare;s are;dsd
-tavola;tavolare;are;c
-tavola;attavolarsi;ad are;ps
-tavola;intavolare;in are;ps
-teatro;teatrare;are;c
-telefono;telefonare;are;c
-tempo;attemparsi;ad are;ps
-tempo;temporeggiare;eggiare;s
-tempo;temporizzare;izzare;s
-termine;terminare;are;c
-termine;sterminare;s are;dsd
-termine;sterminare;s are;ps
-terra;atterrare;ad are;ps
-terra;interrare;in are;ps
-terra;sterrare;s are;dsd
-terra;terreggiare;eggiare;s
-testa;intestare;in are;ps
-timore;timorare;are;c
-timore;intimorire;in ire;ps
-tipo;tipizzare;ificare;s
-tipo;tipificare;izzare;s
-titolo;titolare;are;c
-titolo;intitolare;in are;ps
-titolo;titoleggiare;eggiare;s
-tomba;tombare;are;c
-tomba;intombare;in are;ps
-tono;intonare;in are;ps
-tono;stonare;s are;dsd
-tono;tonificare;ificare;s
-torre;attorrare;ad are;ps
-torre;torreggiare;eggiare;s
-tratto;tratteggiare;eggiare;s
-tronco;troncare;are;c
-tronco;attroncare;ad are;ps
-tronco;introncare;in are;ps
-tronco;stroncare;s are;dsd
-trucco;truccare;are;c
-trucco;struccare;s are;dsd
-truppa;attruppare;ad are;ps
-truppa;intruppare;in are;ps
-uccello;uccellare;are;c
-ufficio;ufficiare;are;c
-unghia;unghiare;are;c
-uomo;inuomare;in are;ps
-uovo;ovare;are;c
-uso;usare;are;c
-uso;adusare;ad are;ps
-vacanza;vacanzare;are;c
-valigia;invaligiare;in are;ps
-valigia;svaligiare;s are;dsd
-valle;invallarsi;in are;ps
-valle;svallare;s are;dsd
-valle;valleggiare;eggiare;s
-valore;avvalorare;ad are;ps
-valore;invalorare;in are;ps
-valore;invalorirsi;in ire;ps
-valore;svalorare;s are;dsd
-valore;svalorire;s ire;dsd
-valore;valorizzare;izzare;s
-vantaggio;vantaggiare;are;c
-vaso;invasare;in are;ps
-vaso;svasare;s are;dsd
-vaso;svasare;s are;dsd
-vaso;svasare;s are;ps
-vento;ventare;are;c
-vento;ventilare;are;c
-vento;avventare;ad are;ps
-vento;avventare;ad are;ps
-vento;sventare;s are;dsd
-vento;sventare;s are;dsd
-vento;venteggiare;eggiare;s
-vergogna;vergognarsi;are;c
-vergogna;avvergognarsi;ad are;ps
-vergogna;invergognare;in are;ps
-vergogna;svergognare;s are;ps
-vetro;avvetrare;ad are;ps
-vetro;invetrare;in are;ps
-vetro;invetrire;in ire;ps
-vetro;vetrificare;ificare;s
-via;viare;are;c
-via;avviare;ad are;ps
-via;inviare;in are;ps
-viaggio;viaggiare;are;c
-vicenda;vicendarsi;are;c
-vicenda;avvicendare;ad are;ps
-villa;villeggiare;eggiare;s
-vino;avvinare;ad are;ps
-vino;svinare;s are;dsd
-vino;vinificare;ificare;s
-viso;avvisare;ad are;ps
-viso;svisare;s are;dsd
-vista;avvistare;ad are;ps
-vittima;vittimare;are;c
-vittima;vittimizzare;izzare;s
-vittoria;vittoriare;are;c
-voce;vociare;are;c
-voce;svociare;s are;dsd
-voglia;invogliare;in are;ps
-voglia;svogliare;s are;dsd
-volta;volteggiare;eggiare;s
-voto;votare;are;c
-voto;invotarsi;in are;ps
-acqua;innacquare;in are;ps
-amore;innamorare;in are;ps
-cuore;scuorare;s are;dsd
-madre;madrizzare;izzare;s
-ruota;rotare;are;c
-acqua;acquificare;ificare;s
-anima;inanimare;in are;dsd
-bene;imbenare;in are;ps
-braccio;sbracciare;s are;ps
-donna;indonnare;in are;ps
-donna;indonnire;in ire;ps
-faccenda;infaccendare;in are;ps
-fratello;infratellare;in are;ps
-fratello;infratellire;in ire;ps
-ginocchio;ginocchiare;are;c
-ginocchio;agginocchiare;ad are;ps
-gloria;glorieggiare;eggiare;s
-macchia;immacchiare;in are;ps
-mamma;smammare;s are;ps
-maschio;immaschire;ad ire;ps
-noia;snoiare;s are;dsd
-nuvola;annuvolire;ad ire;ps
-oggetto;oggettificare;ificare;s
-ombra;inombrire;in ire;ps
-orecchio;inorecchiare;in are;ps
-paese;impaesare;in are;ps
-palazzo;impalazzare;in are;ps
-passione;spassionare;s are;dsd
-petto;impettire;in ire;ps
-piazza;appiazzare;ad are;ps
-pomodoro;impomidorare;in are;ps
-pratica;impraticare;in are;ps
-prato;impratare;in are;ps
-prete;impretire;in ire;ps
-roba;robare;are;c
-silenzio;insilenziare;in are;ps
-sorella;assorellare;ad are;ps
-statua;instatuare;in are;ps
-statua;instatuire;in ire;ps
-tavola;attavolare;ad are;ps
-tempo;attempare;ad are;ps
-valle;invallare;in are;ps
-valore;invalorire;in ire;ps
-vergogna;vergognare;are;c
-vergogna;avvergognare;ad are;ps
-vicenda;vicendare;are;c
-voto;invotare;in are;ps
+nome;verbo;Frequency
+acqua;sciacquare;149
+ala;aleggiare;476
+alba;albeggiare;32
+albergo;albergare;24
+albero;alberare;489
+albero;inalberare;125
+ambiente;ambientare;8808
+amore;amoreggiare;112
+anello;inanellare;358
+angolo;angolare;2686
+anima;animare;6867
+architetto;architettare;644
+arco;inarcare;105
+argomento;argomentare;984
+aria;arieggiare;61
+arma;armare;5663
+arma;armeggiare;89
+articolo;articolare;7653
+assassino;assassinare;5570
+attenzione;attenzionare;7
+atto;atteggiare;426
+avventura;avventurare;714
+azione;azionare;2101
+bacio;baciare;3537
+bagno;bagnare;2423
+banco;sbancare;310
+bandiera;imbandierare;18
+bandiera;sbandierare;493
+barba;barbare;11
+barba;sbarbare;39
+base;basare;41024
+battaglia;battagliare;56
+bisogno;bisognare;21131
+bisogno;abbisognare;207
+bocca;boccare;7
+bocca;abboccare;216
+bocca;imboccare;1562
+bocca;sboccare;440
+bocca;boccheggiare;44
+bordo;bordare;449
+bordo;abbordare;262
+bordo;bordeggiare;24
+borsa;sborsare;446
+borsa;borseggiare;13
+bosco;imboscare;69
+bottiglia;imbottigliare;318
+braccio;abbracciare;4287
+braccio;imbracciare;283
+braccio;sbracciarsi;6
+calcio;calciare;1216
+calcio;scalciare;97
+calcio;calcificare;73
+calma;calmare;1128
+calza;calzare;355
+calza;incalzare;921
+calza;scalzare;440
+camera;incamerare;453
+camicia;incamiciare;50
+camicia;scamiciare;34
+cammino;camminare;5328
+cammino;incamminare;484
+campione;campionare;2524
+campo;campare;502
+campo;campare;502
+campo;campire;21
+campo;campire;21
+campo;accampare;1135
+campo;scampare;1637
+campo;campeggiare;917
+campo;campeggiare;917
+canale;incanalare;567
+canale;scanalare;303
+canale;scanalare;303
+canale;canalizzare;236
+cane;accanire;581
+canzone;canzonare;86
+capitale;capitalizzare;238
+capitano;capitanare;1766
+capo;capeggiare;1970
+cappello;scappellare;8
+carattere;caratterizzare;36327
+carbone;carbonare;24
+carbone;carbonizzare;270
+carcere;carcerare;81
+carcere;incarcerare;1481
+carcere;scarcerare;540
+carne;incarnare;1092
+carne;incarnire;19
+carne;scarnire;13
+carogna;incarognire;11
+carrozza;carrozzare;222
+carrozza;scarrozzare;24
+carta;incartare;128
+carta;scartare;2438
+carta;scartare;2438
+casa;accasare;484
+catena;incatenare;635
+catena;scatenare;7614
+causa;causare;23869
+cavallo;accavallare;222
+cavallo;scavallare;11
+cavallo;scavallare;11
+cavallo;scavallare;11
+cena;cenare;722
+centro;centrare;4356
+centro;accentrare;473
+centro;incentrare;4946
+cervello;scervellare;31
+chiave;chiavare;58
+cibo;cibare;1351
+cifra;cifrare;634
+cima;cimare;105
+classe;classificare;13353
+clima;acclimare;5
+clima;acclimatare;58
+clima;climatizzare;73
+coda;accodare;260
+coda;scodare;23
+coda;scodare;23
+collina;scollinare;16
+collo;accollare;418
+collo;scollare;69
+colore;colorare;2250
+colore;colorire;166
+colore;scolorare;9
+colore;scolorire;82
+colpa;incolpare;785
+colpo;colpire;35822
+colpo;scolpire;3227
+coltello;accoltellare;520
+commercio;commerciare;865
+compagno;accompagnare;24004
+compagno;scompagnare;6
+complesso;complessare;11
+complimento;complimentare;522
+condizione;condizionare;3623
+confessione;confessare;4139
+confessione;sconfessare;341
+confine;confinare;5458
+confine;sconfinare;1014
+consiglio;consigliare;8047
+consiglio;sconsigliare;1173
+contatto;contattare;8953
+contratto;contrattare;432
+coraggio;incoraggiare;4304
+coraggio;scoraggiare;1581
+corno;incornare;27
+corno;scornare;80
+corno;scornare;80
+corno;cornificare;30
+corpo;accorpare;954
+corte;corteggiare;948
+costa;accostare;2809
+costa;scostare;234
+costa;costeggiare;1488
+croce;incrociare;4339
+cucina;cucinare;1863
+cuore;accorare;56
+cuore;scorare;11
+cura;curare;16910
+custode;custodire;5648
+danno;dannare;215
+danno;danneggiare;8446
+debito;addebitare;513
+debito;indebitare;506
+debito;sdebitare;121
+dente;addentare;95
+dente;indentare;5
+dente;sdentare;15
+differenza;differenziare;5815
+dimensione;dimensionare;241
+dio;deificare;41
+direzione;direzionare;49
+distanza;distanziare;1099
+dito;additare;767
+documento;documentare;5930
+dolore;dolorare;17
+dolore;addolorare;367
+dote;dotare;34214
+dottore;addottorare;33
+dubbio;dubitare;1955
+emozione;emozionare;1082
+entusiasmo;entusiasmare;1433
+esame;esaminare;5013
+esempio;esemplificare;459
+esilio;esiliare;1831
+fabbrica;fabbricare;2272
+faccenda;affaccendare;50
+faccenda;sfaccendare;15
+faccia;affacciare;6805
+fame;affamare;460
+fame;sfamare;522
+fascista;fascistizzare;11
+fastidio;infastidire;1094
+fatica;faticare;1145
+fatica;affaticare;233
+favore;favorire;14747
+favore;favoreggiare;22
+ferro;ferrare;331
+ferro;afferrare;2059
+ferro;sferrare;1356
+ferro;sferrare;1356
+festa;festeggiare;6369
+fianco;fiancare;23
+fianco;affiancare;12845
+fianco;sfiancare;158
+fianco;fiancheggiare;930
+fiato;fiatare;103
+fiato;affiatare;323
+fiato;sfiatare;108
+figlio;figliare;415
+figura;figurare;6998
+figura;sfigurare;807
+fila;sfilare;2431
+film;filmare;1551
+filo;filare;912
+filo;affilare;381
+filo;infilare;2629
+filo;sfilare;2431
+fine;finire;51289
+fiore;fiorire;2341
+fiore;affiorare;1166
+fiore;affiorare;1166
+fiore;affiorare;1166
+fiore;infiorare;80
+fiore;sfiorire;87
+fiore;sfiorire;87
+fiore;sfiorire;87
+foglia;fogliare;677
+foglia;sfogliare;720
+foglio;sfogliare;720
+foglio;sfogliare;720
+folla;affollare;1139
+fondo;fondare;46623
+fondo;affondare;5303
+fondo;sfondare;2145
+fondo;sfondare;2145
+forma;formare;55484
+forma;informare;11158
+forma;informare;11158
+forma;sformare;41
+formula;formulare;3780
+fortuna;infortunare;866
+forza;forzare;4004
+forza;sforzare;1290
+forza;sforzare;1290
+forza;sforzare;1290
+fotografia;fotografare;2827
+frase;fraseggiare;12
+fratello;affratellare;37
+fretta;affrettare;1191
+fronte;affrontare;29126
+frutta;fruttare;1249
+frutta;sfruttare;17417
+frutta;sfruttare;17417
+frutto;fruttificare;177
+fuga;fugare;556
+fumo;fumare;2265
+fumo;sfumare;1294
+funzione;funzionare;13107
+fuoco;infuocare;702
+fuoco;sfocare;82
+fuoco;sfocare;82
+gamba;sgambare;32
+gamba;sgambare;32
+gamba;gambizzare;5
+gara;gareggiare;2488
+genere;generare;16610
+genere;ingenerare;292
+gesto;gestire;22718
+ghiaccio;ghiacciare;594
+ghiaccio;agghiacciare;30
+ginocchio;inginocchiare;995
+gioco;giocare;49861
+gioia;gioire;672
+giorno;aggiornare;7386
+giorno;aggiornare;7386
+giro;girare;24519
+giustizia;giustiziare;2710
+gloria;gloriare;71
+gloria;glorificare;348
+goccia;gocciare;86
+gola;golare;13
+gola;golare;13
+gola;sgolare;17
+gomma;gommare;339
+gomma;sgommare;72
+gomma;sgommare;72
+gomma;sgommare;72
+grado;graduare;179
+grado;gradire;2976
+grado;aggradare;117
+grano;granire;146
+grano;granire;146
+grano;ingranare;151
+grano;ingranare;151
+grano;sgranare;204
+grano;sgranare;204
+grazia;graziare;411
+grazia;aggraziare;74
+grazia;ingraziare;259
+gruppo;aggruppare;20
+guaio;guaire;57
+guaio;inguaiare;68
+guerra;agguerrire;170
+guerra;guerreggiare;139
+idea;ideare;7187
+immagine;immaginare;9625
+impressione;impressionare;2302
+inizio;iniziare;116255
+interesse;interessare;21601
+isola;isolare;6716
+labbro;slabbrare;16
+lacrima;lacrimare;107
+lago;allagare;675
+latte;allattare;478
+lavoro;lavorare;62196
+legno;legnare;97
+letto;allettare;213
+limite;limitare;25458
+linea;lineare;7113
+linea;allineare;2520
+lista;listare;184
+luna;lunare;3782
+luna;allunare;52
+luna;allunare;52
+luogo;locare;2352
+macchia;macchiare;1150
+macchia;smacchiare;13
+macchia;smacchiare;13
+macchina;macchinare;96
+maestro;ammaestrare;167
+maglia;smagliare;5
+maglia;smagliare;5
+male;ammalare;2284
+mamma;smammare;15
+mano;maneggiare;864
+mare;ammarare;103
+mare;mareggiare;5
+marito;maritare;365
+maschio;maschiare;31
+massa;ammassare;736
+massa;massificare;80
+medico;medicare;350
+membro;smembrare;729
+memoria;memorizzare;2456
+meraviglia;meravigliare;1021
+ministro;ministrare;723
+ministro;amministrare;3863
+misura;misurare;7829
+modello;modellare;2022
+modo;modificare;21130
+moglie;ammogliare;22
+monte;montare;12422
+monte;ammontare;3956
+monte;smontare;1418
+morte;mortificare;457
+motivo;motivare;2225
+motore;motorizzare;1379
+movimento;movimentare;1116
+mucchio;ammucchiare;140
+muro;murare;1555
+musica;musicare;1003
+natura;snaturare;395
+nebbia;annebbiare;153
+nebbia;snebbiare;5
+necessitÃ ;necessitare;5456
+negozio;negoziare;1626
+nervo;innervare;225
+nervo;snervare;31
+noia;annoiare;894
+nome;nomare;52
+nome;nominare;34402
+notte;annottare;9
+numero;numerare;1787
+nuvola;annuvolare;12
+occasione;occasionare;25
+occhio;oculare;1376
+occhio;adocchiare;79
+occhio;inoculare;242
+occhio;occhieggiare;55
+odio;odiare;4449
+odore;odorare;256
+olio;oliare;127
+ombra;ombrare;94
+ombra;adombrare;193
+ombra;ombreggiare;259
+onda;inondare;781
+onda;ondeggiare;207
+onore;onorare;2710
+opera;operare;23686
+opera;adoperare;3576
+ordine;ordinare;19938
+orecchio;orecchiare;54
+oro;orare;866
+ospedale;ospedalizzare;46
+ospite;ospitare;32110
+osso;ossificare;69
+pacco;impaccare;33
+pace;pacificare;428
+padrone;impadronire;1128
+pagina;impaginare;88
+paio;appaiare;370
+paio;spaiare;123
+palla;pallare;50
+palla;impallare;27
+palla;palleggiare;69
+pane;impanare;57
+pane;panificare;7
+parco;parcare;598
+parente;apparentare;133
+parente;imparentare;2051
+parte;impartire;1722
+parte;spartire;1299
+parte;spartire;1299
+parte;partire;74912
+parte;appartare;324
+parte;parteggiare;434
+passione;appassionare;3367
+passo;passare;102381
+passo;passeggiare;1800
+patto;patteggiare;306
+paura;impaurire;765
+paura;spaurire;14
+paura;spaurire;14
+pelle;spellare;75
+pelo;spelare;15
+pelo;pelare;192
+pelo;spelare;15
+pelo;spelare;15
+pena;penare;141
+pensiero;impensierire;235
+pensione;pensionare;250
+pericolo;pericolare;50
+pericolo;spericolare;66
+periodo;periodare;342
+periodo;periodizzare;6
+persona;impersonare;1738
+persona;personificare;296
+pesce;pescare;2011
+peso;pesare;4340
+peso;spesare;35
+pezzo;appezzare;12
+pezzo;spezzare;4234
+piano;pianificare;3147
+pianta;piantare;2309
+pianta;impiantire;30
+pianta;spiantare;63
+pianta;impiantare;1687
+piatto;impiattare;8
+piazza;piazzare;4854
+piazza;spiazzare;790
+piazza;spiazzare;790
+piede;appiedare;257
+pietra;impietrire;88
+poeta;poetare;470
+polvere;impolverare;75
+polvere;spolverare;357
+polvere;spolverare;357
+polvere;polverizzare;375
+popolo;popolare;41729
+popolo;impopolare;648
+popolo;spopolare;870
+popolo;spopolare;870
+posizione;posizionare;8269
+posta;postare;2885
+posta;impostare;4025
+posta;posteggiare;97
+posto;postare;2885
+posto;impostare;4025
+posto;posteggiare;97
+potenza;potenziare;2925
+pranzo;pranzare;393
+pratica;praticare;10423
+pratica;impratichire;46
+premio;premiare;6504
+presenza;presenziare;1137
+prete;pretare;14
+prete;spretare;54
+prezzo;prezzare;7
+prezzo;sprezzare;100
+prigione;imprigionare;4779
+prigione;sprigionare;738
+principe;principare;5
+principio;principiare;382
+processo;processare;2679
+processo;processare;2679
+profumo;profumare;511
+progetto;progettare;18868
+programma;programmare;4919
+proposito;spropositare;215
+pugno;impugnare;1632
+punta;puntare;18360
+punta;appuntare;384
+punta;appuntire;1238
+punta;impuntare;86
+punta;spuntare;3041
+punta;spuntare;3041
+punta;spuntare;3041
+punta;spuntare;3041
+punto;puntare;18360
+punto;appuntare;384
+punto;punteggiare;539
+quadro;quadrare;1438
+quadro;inquadrare;4038
+quadro;squadrare;1567
+quadro;squadrare;1567
+quartiere;acquartierare;194
+questione;questionare;27
+rabbia;arrabbiare;2204
+radio;radiare;1708
+radio;radiare;1708
+radio;irradiare;813
+radio;irradiare;813
+raggio;raggiare;99
+raggio;irraggiare;80
+ragione;ragionare;2358
+ragione;sragionare;27
+ramo;ramare;295
+ramo;ramificare;416
+regno;regnare;4149
+regola;sregolare;43
+regola;regolare;16832
+relazione;relazionare;1859
+rischio;rischiare;11083
+rischio;arrischiare;71
+rispetto;rispettare;11456
+riva;arrivare;110892
+rivoluzione;rivoluzionare;1349
+rumore;rumoreggiare;134
+ruota;ruotare;4145
+sabbia;sabbiare;75
+sabbia;insabbiare;318
+sacco;insaccare;464
+sacco;saccheggiare;2986
+sale;salare;730
+sale;salificare;8
+sangue;sanguinare;394
+sangue;insanguinare;588
+sapore;saporire;110
+sapore;assaporare;571
+sapore;insaporire;265
+scala;scalare;3304
+scatola;scatolare;144
+scatola;inscatolare;78
+scena;inscenare;723
+scena;sceneggiare;851
+schiena;schienare;60
+schifo;schifare;263
+segno;segnare;31044
+segno;assegnare;22600
+segno;insegnare;14798
+segno;significare;28733
+servo;servire;40155
+servo;asservire;565
+sete;assetare;507
+sezione;sezionare;386
+signore;signoreggiare;31
+silenzio;silenziare;100
+simpatia;simpatizzare;366
+sindaco;sindacare;171
+sistema;sistemare;5958
+soggetto;assoggettare;1257
+sogno;sognare;5640
+soldo;assoldare;936
+sole;soleggiare;111
+somma;sommare;4029
+somma;assommare;497
+sonno;assonnare;39
+sorte;sortire;628
+sorte;assortire;114
+sorte;assortire;114
+sorte;sorteggiare;302
+sospetto;insospettire;521
+sostanza;sostanziare;204
+spalla;spalleggiare;356
+spazio;spaziare;3013
+specchio;specchiare;234
+specie;specificare;4012
+spesa;spesare;35
+spiaggia;spiaggiare;7
+sposa;sposare;38597
+stagione;stagionare;198
+stalla;stallare;29
+stanza;stanziare;3012
+stazione;stazionare;706
+stella;stellare;5102
+stella;stellare;5102
+stomaco;stomacare;16
+straniero;instradare;271
+studio;studiare;32544
+tabacco;tabaccare;35
+tasca;intascare;347
+tassa;tassare;685
+tavola;tavolare;25
+tavola;intavolare;255
+telefono;telefonare;2099
+tempo;temporeggiare;130
+termine;terminare;28721
+termine;sterminare;1624
+termine;sterminare;1624
+terra;atterrare;2501
+terra;interrare;1188
+terra;sterrare;522
+testa;intestare;681
+timore;intimorire;543
+tipo;tipizzare;111
+titolo;titolare;12842
+titolo;intitolare;22069
+tono;intonare;1288
+tono;stonare;478
+tono;tonificare;69
+torre;torreggiare;56
+tratto;tratteggiare;664
+tronco;troncare;905
+tronco;stroncare;1358
+trucco;truccare;1144
+trucco;struccare;29
+uccello;uccellare;61
+ufficio;ufficiare;35
+uso;usare;117749
+uso;adusare;8
+valigia;svaligiare;101
+valore;avvalorare;802
+valore;valorizzare;2787
+vaso;invasare;73
+vaso;svasare;115
+vaso;svasare;115
+vaso;svasare;115
+vento;ventilare;521
+vento;avventare;397
+vento;avventare;397
+vento;sventare;1027
+vento;sventare;1027
+vergogna;vergognarsi;424
+vergogna;svergognare;65
+vetro;vetrificare;49
+via;avviare;13679
+via;inviare;31820
+viaggio;viaggiare;10238
+vicenda;avvicendare;692
+villa;villeggiare;37
+vino;svinare;5
+vino;vinificare;75
+viso;avvisare;2439
+viso;svisare;8
+vista;avvistare;1667
+vittima;vittimizzare;15
+voce;vociare;4577
+voglia;invogliare;362
+volta;volteggiare;207
+voto;votare;12516
+amore;innamorare;10820
+ruota;rotare;154
+braccio;sbracciare;73
+mamma;smammare;15
+vergogna;vergognare;1138
